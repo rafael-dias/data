@@ -1,7 +1,7 @@
 {
   "name": "My API",
   "cwd": "./",
-  "src": "example/content/",
+  "src": "markdown/",
   "filePattern": "**/*.md",
   "ignore": "*(icon|input)*",  
   "metadata": true,  
