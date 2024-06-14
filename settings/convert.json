@@ -9,5 +9,5 @@
   "dist": "api/tarot.json",
   "display": false,  
   "server": true,
-  "port": 3215,
+  "port": 3215
 }
