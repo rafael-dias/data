@@ -1,0 +1,13 @@
+{
+  "name": "My API",
+  "cwd": "./",
+  "src": "example/content/",
+  "filePattern": "**/*.md",
+  "ignore": "*(icon|input)*",  
+  "metadata": true,  
+  "deterministicOrder": false,
+  "dist": "api/tarot.json",
+  "display": false,  
+  "server": true,
+  "port": 3215,
+}
