@@ -1,7 +1,14 @@
-- uses: actions/checkout@v2
-    
-- name: Markdown to JSON
-  uses: ClydeDz/markdown-to-json@v0.1.0
-    with:
-      settings-json-file: settings/convert.json
-            
+name: Convert Markdown
+
+on: [push]
+
+jobs:
+  install:
+    name: Convert Markdown
+    runs-on: ubuntu-latest
+    steps:
+     - uses: actions/checkout@v3
+     - name: Markdown to JSON
+       uses: ClydeDz/markdown-to-json@v0.1.0
+       with:
+        settings-json-file: settings/convert.json
