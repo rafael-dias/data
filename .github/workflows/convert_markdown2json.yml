@@ -9,10 +9,7 @@ jobs:
     steps:
      - uses: actions/checkout@v3
 
-     - name: list
-       run: ls
+     - name: test
+       run: node tarot.js
        
-     - name: Markdown to JSON
-       uses: ClydeDz/markdown-to-json@v0.1.0
-       with:
-        settings-json-file: settings/convert.json
+   
