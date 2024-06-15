@@ -12,7 +12,6 @@ def Juntar_arquivos(file_list, filename='api/tarot.json'):
         i=0
         f.write('\'{"data":[ ')
         for descricao in Ler_arquivos(file_list):
-            #print(file_list)
             nome = file_list[i].split('.md')[0].split('/')
             livro = nome[1]
             cartacompleta = nome[2].split('-')
