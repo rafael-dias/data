@@ -7,7 +7,7 @@ def Ler_arquivos(file_list):
             yield fd.read()
 
 
-def Juntar_arquivos(file_list, filename='tarot.json'):
+def Juntar_arquivos(file_list, filename='api/tarot.json'):
     with open(filename, 'w') as f:
         i=0
         f.write('\'{"data":[ ')
