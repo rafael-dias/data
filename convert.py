@@ -38,6 +38,9 @@ for diretorio, _, arquivos in os.walk(caminho_base):
                 'dados': conteudo
             })
 
+for key in estrutura_json:
+    estrutura_json[key].sort(key=lambda x: x['id'])
+    
 # Converte a estrutura para JSON e salva em um arquivo
 with open('api/tarot.json', 'w', encoding='utf-8') as saida_json:
     json.dump(estrutura_json, saida_json, ensure_ascii=False, indent=4)
