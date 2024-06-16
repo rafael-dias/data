@@ -19,7 +19,7 @@ jobs:
          git config --local user.email "action@github.com"
          git checkout -B main
          git add .
-         git commit -m "api gerada"
+         git commit -m "apagando arquivo"
          git push
        
      - name: Converter
