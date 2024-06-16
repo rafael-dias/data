@@ -12,15 +12,15 @@ jobs:
        uses: actions/setup-python@v4
        with:
          python-version: 3.8 #install the python needed
-     - name: Apagar Arquivo
-       run: |
-         rm -f api/tarot.json
-         git config --local user.name "GitHub Action"
-         git config --local user.email "action@github.com"
-         git checkout -B main
-         git add .
-         git commit -m "apagando arquivo"
-         git push
+    #  - name: Apagar Arquivo
+    #    run: |
+    #      rm -f api/tarot.json
+    #      git config --local user.name "GitHub Action"
+    #      git config --local user.email "action@github.com"
+    #      git checkout -B main
+    #      git add .
+    #      git commit -m "apagando arquivo"
+    #      git push
        
      - name: Converter
        run: |
