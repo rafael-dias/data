@@ -1,6 +1,11 @@
 **Momento atual:**
 
- A pessoa sente o impulso de ser mais generosa consigo mesma e com o mundo, de valorizar mais seus talentos, sua abundancia interna e sua capacidade de frutificar. A segunda carta pode mostrar quais iniciativas são tomadas ou quais bloqueios dificultam sua expressão prática.  ncora: Por excesso, com muita agua na carta astral, esta pessoa imagina que, se não for generosa, sempre disposta a ser uma vaca de tetas cheias e disponível para os demais, ajudando-os emocional e materialmente; se não mostrar permanentemente a grandeza de seu coração e de seu bolso, o mundo vai rejeitá-la. Assim, vive comprando os outros. A flor de Agrimony a ajudará a deixar de lado essa máscara, a de Goldenrod* amainará sua necessidade compulsiva de agradar e a de Centaury desenvolverá sua capacidade de dizer não. Por falta, com pouca Água, nunca valorizou sua abundância interna, seus potenciais e sua criatividade. Desvaloriza-se continuamente e evita qualquer confronto. A essência de Buttercup* ajuda a valorizar-se, especialmente quando há tendências á autoanulação. 
+ A pessoa sente o impulso de ser mais generosa consigo mesma e com o mundo, de valorizar mais seus talentos, sua abundancia interna e sua capacidade de frutificar. A segunda carta pode mostrar quais iniciativas são tomadas ou quais bloqueios dificultam sua expressão prática. 
+
+
+ **Ancora:** 
+
+Por excesso, com muita agua na carta astral, esta pessoa imagina que, se não for generosa, sempre disposta a ser uma vaca de tetas cheias e disponível para os demais, ajudando-os emocional e materialmente; se não mostrar permanentemente a grandeza de seu coração e de seu bolso, o mundo vai rejeitá-la. Assim, vive comprando os outros. A flor de Agrimony a ajudará a deixar de lado essa máscara, a de Goldenrod* amainará sua necessidade compulsiva de agradar e a de Centaury desenvolverá sua capacidade de dizer não. Por falta, com pouca Água, nunca valorizou sua abundância interna, seus potenciais e sua criatividade. Desvaloriza-se continuamente e evita qualquer confronto. A essência de Buttercup* ajuda a valorizar-se, especialmente quando há tendências á autoanulação. 
 
 
 **Infância:**

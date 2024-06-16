@@ -1,6 +1,11 @@
 **Momento atual:**
 
- A pessoa está questionando-se até que ponto consegue ser suficientemente operativa e funcional em suas atividades para chegar a resultados concretos. Sente o impulso de organizar-se, de trabalhar de uma maneira mais metódica ou inclusive de administrar melhor suas tarefas, trabalhando em equipe para poder chegar a melhores resultados.  ncora: Por excesso, mostra uma pessoa, que, especialmente no mundo do trabalho, foi exageradamente metódica e ordenada, sempre muito amarrada a suas rotinas. Todos os quatros na  ncora por excesso são maneiras de esconder a insegurança. Assim se sente mais segura se repete constantemente as mesmas atividades, se não inventa, se não sai do conhecido, arriscando-se a se jogar no desconhecido, mesmo que no fundo se sinta cansada e tensa com tanta rotina e seu trabalho tenha cada vez menos graça. Acaba escrava de sua agenda, enganchada em esquemas e rotinas profissionais, em que procura a segurança que lhe falta interiormente. Viveu para trabalhar e fez do seu trabalho uma prisão. O floral de Hornbeam pode ajudá-la a aceitar sua rigidez e seus hábitos tediosos e a descobrir como mudar seu estilo de vida. 
+ A pessoa está questionando-se até que ponto consegue ser suficientemente operativa e funcional em suas atividades para chegar a resultados concretos. Sente o impulso de organizar-se, de trabalhar de uma maneira mais metódica ou inclusive de administrar melhor suas tarefas, trabalhando em equipe para poder chegar a melhores resultados. 
+
+
+ **Ancora:** 
+
+Por excesso, mostra uma pessoa, que, especialmente no mundo do trabalho, foi exageradamente metódica e ordenada, sempre muito amarrada a suas rotinas. Todos os quatros na Ancora por excesso são maneiras de esconder a insegurança. Assim se sente mais segura se repete constantemente as mesmas atividades, se não inventa, se não sai do conhecido, arriscando-se a se jogar no desconhecido, mesmo que no fundo se sinta cansada e tensa com tanta rotina e seu trabalho tenha cada vez menos graça. Acaba escrava de sua agenda, enganchada em esquemas e rotinas profissionais, em que procura a segurança que lhe falta interiormente. Viveu para trabalhar e fez do seu trabalho uma prisão. O floral de Hornbeam pode ajudá-la a aceitar sua rigidez e seus hábitos tediosos e a descobrir como mudar seu estilo de vida. 
 
 
 **Infância:**

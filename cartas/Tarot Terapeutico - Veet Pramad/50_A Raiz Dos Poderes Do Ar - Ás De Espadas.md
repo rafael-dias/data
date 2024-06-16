@@ -1,6 +1,11 @@
 **Momento atual:**
 
- A pessoa está entrando em contato com o impulso interno de definir e viver um caminho de vida que realmente esteja enraizado na sua essência. Isto pode proceder de um momento de sossego e lucidez mental que lhe permite vislumbrar algumas coisas ou da percepção de que seus planos de vida anteriores nada tinham a ver com ela senão com as masturbações de uma mente desconectada e provavelmente turbinada.  ncora: Se tiver muito Ar, será incapaz de acalmar a mente; a pessoa, desconectada de seu Ser interior, elabora planos de vida exclusivamente racionais que tenta levar para frente. Sempre tem de haver uma boa razão para fazer ou dizer alguma coisa. Corporalmente, fica cada vez mais rígida, gastando mais e mais energia para conter as forças do inconsciente que, condenadas ao ostracismo, hostilizam o consciente. Recomendamos para essa mente tagarela o floral de White Chestnut, que acalma a mente. Com pouco Ar, indica que a pessoa tem dificuldade para elaborar um plano de vida mesmo que não tenha a ver consigo mesma. A essência de Nasturtium*, que traz calor e vitalidade ao processo mental, pode ajudar. 
+ A pessoa está entrando em contato com o impulso interno de definir e viver um caminho de vida que realmente esteja enraizado na sua essência. Isto pode proceder de um momento de sossego e lucidez mental que lhe permite vislumbrar algumas coisas ou da percepção de que seus planos de vida anteriores nada tinham a ver com ela senão com as masturbações de uma mente desconectada e provavelmente turbinada. 
+
+
+ **Ancora:** 
+
+Se tiver muito Ar, será incapaz de acalmar a mente; a pessoa, desconectada de seu Ser interior, elabora planos de vida exclusivamente racionais que tenta levar para frente. Sempre tem de haver uma boa razão para fazer ou dizer alguma coisa. Corporalmente, fica cada vez mais rígida, gastando mais e mais energia para conter as forças do inconsciente que, condenadas ao ostracismo, hostilizam o consciente. Recomendamos para essa mente tagarela o floral de White Chestnut, que acalma a mente. Com pouco Ar, indica que a pessoa tem dificuldade para elaborar um plano de vida mesmo que não tenha a ver consigo mesma. A essência de Nasturtium*, que traz calor e vitalidade ao processo mental, pode ajudar. 
 
 
 **Infância:**

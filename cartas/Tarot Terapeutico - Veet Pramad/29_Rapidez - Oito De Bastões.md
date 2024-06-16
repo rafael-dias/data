@@ -1,6 +1,6 @@
 **Momento atual:**
 
- A pessoa está explodindo ou prestes a explodir, produto de muito tempo de autocontenção de seus impulsos instintivos e criativos. A carta da  ncora e/ou a segunda carta indicará se é uma libertação consciente dos fatores que a tinham levado a uma situação de extrema tensão ou de uma reação compulsiva, inconsciente e aparatosa, que não resolve nada e que no pior dos casos pode ser destrutiva. Podemos também ver aqui a pessoa tomando consciência da dispersão de sua energia. 
+ A pessoa está explodindo ou prestes a explodir, produto de muito tempo de autocontenção de seus impulsos instintivos e criativos. A carta da Ancora e/ou a segunda carta indicará se é uma libertação consciente dos fatores que a tinham levado a uma situação de extrema tensão ou de uma reação compulsiva, inconsciente e aparatosa, que não resolve nada e que no pior dos casos pode ser destrutiva. Podemos também ver aqui a pessoa tomando consciência da dispersão de sua energia. 
 
 
 **Ancora:**
@@ -20,7 +20,7 @@
 
 **Voz da Essência e Método:**
 
- A pessoa chegou a seu limite de tensão e contenção. Não aguenta mais. É necessário explodir realizando umas boas catarses antes de sofrer um acidente ou somatizar. Sugere descarregar a raiva e a tensão internas com pleno conhecimento de suas causas. A Meditação Dinâmica de Osho será muito apropriada. O floral de Cherry Plum ajudará esta pessoa a dissolver o medo de perder o controle e de fazer barbaridades, para assim, com maior confiança em si mesma, poder entrar em profundidade no caos e na insatisfação interna e passar pelas catarses com mais proveito. Pode ser também o momento apropriado para romper seus vínculos, ataduras materiais e compromissos sem sentido. Com o Cavaleiro de Paus pode estar indicando a necessidade de mandar tudo às favas e/ou entrar de férias. Com cartas na  ncora que mostrem dispersão ou superficialidade pode sugerir definição e escolha de novas direções. 
+ A pessoa chegou a seu limite de tensão e contenção. Não aguenta mais. É necessário explodir realizando umas boas catarses antes de sofrer um acidente ou somatizar. Sugere descarregar a raiva e a tensão internas com pleno conhecimento de suas causas. A Meditação Dinâmica de Osho será muito apropriada. O floral de Cherry Plum ajudará esta pessoa a dissolver o medo de perder o controle e de fazer barbaridades, para assim, com maior confiança em si mesma, poder entrar em profundidade no caos e na insatisfação interna e passar pelas catarses com mais proveito. Pode ser também o momento apropriado para romper seus vínculos, ataduras materiais e compromissos sem sentido. Com o Cavaleiro de Paus pode estar indicando a necessidade de mandar tudo às favas e/ou entrar de férias. Com cartas na Ancora que mostrem dispersão ou superficialidade pode sugerir definição e escolha de novas direções. 
 
 
 **Caminho de crescimento:**

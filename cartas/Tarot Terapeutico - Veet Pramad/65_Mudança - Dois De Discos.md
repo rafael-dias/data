@@ -1,6 +1,11 @@
 **Momento atual:**
 
- Indica que a pessoa sente um impulso interno de fazer uma série de mudanças em sua vida a partir da percepção do que realmente quer viver. Pode estar também sentindo a necessidade de se adequar, de adaptar-se aos novos tempos e situações. Pode existir também uma certa consciência da necessidade de trabalhar a flexibilidade e o alongamento corporal.  ncora: Não consegue mudar porque sua desconexão interna a impede de acessar a visão de um projeto de vida que realmente a estimularia a crescer, a se expandir, a mudar, dando um significado mais profundo à sua vida. E como consequência há uma dificuldade crônica para fazer qualquer tipo de mudança e adaptar-se às contínuas transformações das coisas, mantendo-se entrincheirada nas suas rotinas, psiquicamente tensa e corporalmente rígida. Podemos sugerir Rock Water, que ajuda a ser mais flexível, e Sagebrush* para encontrar seu verdadeiro caminho. Com a Roda da Fortuna pode querer mudar tudo e ser incapaz de fixar-se em um trabalho, cidade ou relacionamento. Esta carta é tão harmoniosa que não tem interpretação por excesso. 
+ Indica que a pessoa sente um impulso interno de fazer uma série de mudanças em sua vida a partir da percepção do que realmente quer viver. Pode estar também sentindo a necessidade de se adequar, de adaptar-se aos novos tempos e situações. Pode existir também uma certa consciência da necessidade de trabalhar a flexibilidade e o alongamento corporal. 
+
+
+ **Ancora:** 
+
+Não consegue mudar porque sua desconexão interna a impede de acessar a visão de um projeto de vida que realmente a estimularia a crescer, a se expandir, a mudar, dando um significado mais profundo à sua vida. E como consequência há uma dificuldade crônica para fazer qualquer tipo de mudança e adaptar-se às contínuas transformações das coisas, mantendo-se entrincheirada nas suas rotinas, psiquicamente tensa e corporalmente rígida. Podemos sugerir Rock Water, que ajuda a ser mais flexível, e Sagebrush* para encontrar seu verdadeiro caminho. Com a Roda da Fortuna pode querer mudar tudo e ser incapaz de fixar-se em um trabalho, cidade ou relacionamento. Esta carta é tão harmoniosa que não tem interpretação por excesso. 
 
 
 **Infância:**

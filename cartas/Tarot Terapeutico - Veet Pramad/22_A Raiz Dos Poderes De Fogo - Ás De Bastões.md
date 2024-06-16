@@ -1,6 +1,11 @@
 **Momento atual:**
 
- O consulente está sentindo um forte impulso para iniciar uma nova atividade que, sintonizada com a sua essência, permite-lhe canalizar naturalmente sua energia. Ainda não existe nada concreto, além de certa tensão criativa e entusiasmo, mas tudo está disposto para que a ação ocorra. A segunda carta pode mostrar fatores internos que freiam a iniciativa ou de que maneira esta pode manifestar-se.  ncora: Com menos de 10% de Fogo, esta pessoa tem muita dificuldade de tomar iniciativas, de se jogar em algo novo, entregando-se a seus impulsos e intuições. Essa apreensão com o desconhecido pode ser amainada com a essência de Aspen. Com mais de 50% de Fogo, atira-se de cabeça em qualquer coisa que a exalta, mas à menor dificuldade se desinfla, cansa-se e abandona, de maneira que não consegue dar continuidade a nada. O floral de Gentian a ajudará a perseverar em suas iniciativas, apesar dos reveses e complicações que possam aparecer, e a ampliar a visão de sua vida, facilitando-lhe assim a extração das lições necessárias. 
+ O consulente está sentindo um forte impulso para iniciar uma nova atividade que, sintonizada com a sua essência, permite-lhe canalizar naturalmente sua energia. Ainda não existe nada concreto, além de certa tensão criativa e entusiasmo, mas tudo está disposto para que a ação ocorra. A segunda carta pode mostrar fatores internos que freiam a iniciativa ou de que maneira esta pode manifestar-se. 
+
+
+ **Ancora:** 
+
+Com menos de 10% de Fogo, esta pessoa tem muita dificuldade de tomar iniciativas, de se jogar em algo novo, entregando-se a seus impulsos e intuições. Essa apreensão com o desconhecido pode ser amainada com a essência de Aspen. Com mais de 50% de Fogo, atira-se de cabeça em qualquer coisa que a exalta, mas à menor dificuldade se desinfla, cansa-se e abandona, de maneira que não consegue dar continuidade a nada. O floral de Gentian a ajudará a perseverar em suas iniciativas, apesar dos reveses e complicações que possam aparecer, e a ampliar a visão de sua vida, facilitando-lhe assim a extração das lições necessárias. 
 
 
 **Infância:**
