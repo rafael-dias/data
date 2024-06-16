@@ -43,7 +43,7 @@ for key in estrutura_json:
 
     import random
     random_number = random.randint(1000000000, 9999999999)
-    versao = '{"versao":'+random_number+'}'
+    versao = '{"versao":'+str(random_number)+'}'
 
 with open(os.path.join('api/versao.json'), 'w', encoding='utf-8') as file:
     file.write(versao)
