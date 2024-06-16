@@ -1,33 +1,49 @@
-import glob
+import os
+import json
+
+# Função para extrair o ID e o nome do arquivo
+def extrair_informacoes(nome_arquivo):
+    partes = nome_arquivo.split('_')
+    id = partes[0]
+    nome = '_'.join(partes[1:]).replace('.md', '')
+    return id, nome
+
+# Função para ler o conteúdo do arquivo
+def ler_conteudo_arquivo(caminho):
+    with open(caminho, 'r', encoding='utf-8') as arquivo:
+        return arquivo.read()
+
+# Estrutura para armazenar os dados
+estrutura_json = {}
+
+# Caminho para a pasta 'cartas'
+caminho_base = 'cartas/'
+
+# Percorre os diretórios e arquivos
+for diretorio, _, arquivos in os.walk(caminho_base):
+    nome_diretorio = os.path.basename(diretorio)
+    if nome_diretorio not in estrutura_json:
+        
+        if nome_diretorio != '':
+            estrutura_json[nome_diretorio] = []
+    
+    for arquivo in arquivos:
+        if arquivo.endswith('.md'):
+            caminho_completo = os.path.join(diretorio, arquivo)
+            id, nome = extrair_informacoes(arquivo)
+            conteudo = ler_conteudo_arquivo(caminho_completo)
+            estrutura_json[nome_diretorio].append({
+                'id': int(id),
+                'nome': nome,
+                'dados': conteudo
+            })
+
+# Converte a estrutura para JSON e salva em um arquivo
+with open('api/tarot.json', 'w', encoding='utf-8') as saida_json:
+    json.dump(estrutura_json, saida_json, ensure_ascii=False, indent=4)
+
+print('JSON criado com sucesso!')
 
 
-def Ler_arquivos(file_list):
-    for file in file_list:
-        with open(file, 'r') as fd:
-            yield fd.read()
-
-
-def Juntar_arquivos(file_list, filename='api/tarot.json'):
-    with open(filename, 'w') as f:
-        i=0
-        f.write('\'{"data":[ ')
-        for descricao in Ler_arquivos(file_list):
-            nome = file_list[i].split('.md')[0].split('/')
-            livro = nome[1]
-            cartacompleta = nome[2].split('-')
-            carta = cartacompleta[1]
-            numero_carta = cartacompleta[0]
-            virgula =','
-
-            if(i == (len(file_list) - 1)):
-                virgula = ''
-
-            f.write('{ "livro": "%s", "id": "%s", "nome_carta": "%s", "dados": "%s"}%s' % (livro, numero_carta, carta, descricao, virgula))
-
-            i=i+1
-        f.write(']}\'')
-
-
-files = glob.glob("cartas/*/*.md")
-
-Juntar_arquivos(files)
+# with open(os.path.join('api', 'tarot.json'), "w") as file:
+#     file.write(json_object)
