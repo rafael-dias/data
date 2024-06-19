@@ -1,5 +1,5 @@
-**Luz:** AQUISIÇÃO  
-**Sombra:** POSSE
+**LUZ:** AQUISIÇÃO  
+**SOMBRA:** POSSE
 
 PALAVRAS-CHAVE:
 - LEAL

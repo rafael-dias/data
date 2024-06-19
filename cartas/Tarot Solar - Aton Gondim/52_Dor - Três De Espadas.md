@@ -1,5 +1,5 @@
-**Luz:** CLAREZA  
-**Sombra:** DESGOSTO
+**LUZ:** CLAREZA  
+**SOMBRA:** DESGOSTO
 
 PALAVRAS-CHAVE:
 - PERDA

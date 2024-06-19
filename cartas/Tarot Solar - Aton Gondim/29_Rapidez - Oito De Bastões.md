@@ -1,5 +1,5 @@
-**Luz:** RESPOSTA  
-**Sombra:** REAÇÃO
+**LUZ:** RESPOSTA  
+**SOMBRA:** REAÇÃO
 
 PALAVRAS-CHAVE:
 - ASSERTIVIDADE

@@ -1,5 +1,5 @@
-**Luz:** AFIRMAÇÃO  
-**Sombra:** AGRESSÃO
+**LUZ:** AFIRMAÇÃO  
+**SOMBRA:** AGRESSÃO
 
 PALAVRAS-CHAVE:
 - CONVICÇÃO

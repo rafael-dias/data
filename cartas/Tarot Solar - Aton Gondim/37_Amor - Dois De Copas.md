@@ -1,5 +1,5 @@
-**Luz:** ATRAÇÃO  
-**Sombra:** CODEPENDÊNCIA
+**LUZ:** ATRAÇÃO  
+**SOMBRA:** CODEPENDÊNCIA
 
 PALAVRAS-CHAVE:
 - UNIÃO

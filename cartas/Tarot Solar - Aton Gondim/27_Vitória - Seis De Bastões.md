@@ -1,5 +1,5 @@
-**Luz:** VITÓRIA  
-**Sombra:** ORGULHO
+**LUZ:** VITÓRIA  
+**SOMBRA:** ORGULHO
 
 PALAVRAS-CHAVE:
 - LIDERANÇA

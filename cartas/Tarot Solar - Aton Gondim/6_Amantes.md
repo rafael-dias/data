@@ -1,5 +1,5 @@
-**Luz:** UNIÃO  
-**Sombra:** OBSESSÃO
+**LUZ:** UNIÃO  
+**SOMBRA:** OBSESSÃO
 
 PALAVRAS-CHAVE:
 - ÊXTASE

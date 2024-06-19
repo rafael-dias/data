@@ -1,5 +1,5 @@
-**Luz:** CUIDADO  
-**Sombra:** DISTRAÇÃO
+**LUZ:** CUIDADO  
+**SOMBRA:** DISTRAÇÃO
 
 PALAVRAS-CHAVE:
 - CRIATIVA

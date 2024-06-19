@@ -1,5 +1,5 @@
-**Luz:** CONSERVAÇÃO  
-**Sombra:** GANÂNCIA
+**LUZ:** CONSERVAÇÃO  
+**SOMBRA:** GANÂNCIA
 
 PALAVRAS-CHAVE:
 - POSSE

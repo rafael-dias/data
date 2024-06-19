@@ -1,5 +1,5 @@
-**Luz:** MEDITAÇÃO  
-**Sombra:** PROCRASTINAÇÃO
+**LUZ:** MEDITAÇÃO  
+**SOMBRA:** PROCRASTINAÇÃO
 
 PALAVRAS-CHAVE:
 - DORMIR

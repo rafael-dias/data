@@ -1,5 +1,5 @@
-**Luz:** LIMITES  
-**Sombra:** RESTRIÇÕES
+**LUZ:** LIMITES  
+**SOMBRA:** RESTRIÇÕES
 
 PALAVRAS-CHAVE:
 - DESAMPARO

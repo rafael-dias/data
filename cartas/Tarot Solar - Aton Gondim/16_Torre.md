@@ -1,5 +1,5 @@
-**Luz:** DEMOLIÇÃO  
-**Sombra:** DESTRUIÇÃO
+**LUZ:** DEMOLIÇÃO  
+**SOMBRA:** DESTRUIÇÃO
 
 PALAVRAS-CHAVE:
 - DISSOLUÇÃO

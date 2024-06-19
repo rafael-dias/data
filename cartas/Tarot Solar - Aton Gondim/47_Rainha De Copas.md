@@ -1,5 +1,5 @@
-**Luz:** EMPATIA  
-**Sombra:** PENA
+**LUZ:** EMPATIA  
+**SOMBRA:** PENA
 
 PALAVRAS-CHAVE:
 - SABEDORIA

@@ -1,5 +1,5 @@
-**Luz:** AVANÇO  
-**Sombra:** NEGLIGÊNCIA
+**LUZ:** AVANÇO  
+**SOMBRA:** NEGLIGÊNCIA
 
 PALAVRAS-CHAVE:
 - DETERMINAÇÃO

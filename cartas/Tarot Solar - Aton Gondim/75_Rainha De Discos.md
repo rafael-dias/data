@@ -1,5 +1,5 @@
-**Luz:** CONSOLO  
-**Sombra:** PREGUIÇA
+**LUZ:** CONSOLO  
+**SOMBRA:** PREGUIÇA
 
 PALAVRAS-CHAVE:
 - EDUCADORA

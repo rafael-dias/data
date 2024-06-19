@@ -1,5 +1,5 @@
-**Luz:** DIREÇÃO  
-**Sombra:** REPRESSÃO
+**LUZ:** DIREÇÃO  
+**SOMBRA:** REPRESSÃO
 
 PALAVRAS-CHAVE:
 - CORAJOSO

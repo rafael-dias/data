@@ -1,5 +1,5 @@
-**Luz:** COMPARAÇÃO  
-**Sombra:** DELIBERAÇÃO
+**LUZ:** COMPARAÇÃO  
+**SOMBRA:** DELIBERAÇÃO
 
 PALAVRAS-CHAVE:
 - MALABARISMO

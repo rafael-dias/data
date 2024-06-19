@@ -1,5 +1,5 @@
-**Luz:** COMPOSTURA  
-**Sombra:** RIGIDEZ
+**LUZ:** COMPOSTURA  
+**SOMBRA:** RIGIDEZ
 
 PALAVRAS-CHAVE:
 - FORÇA

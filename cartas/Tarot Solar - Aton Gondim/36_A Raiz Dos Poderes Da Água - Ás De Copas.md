@@ -1,5 +1,5 @@
-**Luz:** REFRESCAR-SE  
-**Sombra:** INUNDAÇÃO
+**LUZ:** REFRESCAR-SE  
+**SOMBRA:** INUNDAÇÃO
 
 PALAVRAS-CHAVE:
 - ALEGRIA

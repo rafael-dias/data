@@ -1,5 +1,5 @@
-**Luz:** ABERTURA  
-**Sombra:** NEGAÇÃO
+**LUZ:** ABERTURA  
+**SOMBRA:** NEGAÇÃO
 
 PALAVRAS-CHAVE:
 - OTIMISMO

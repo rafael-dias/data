@@ -1,5 +1,5 @@
-**Luz:** AUDÁCIA  
-**Sombra:** BRAVATA
+**LUZ:** AUDÁCIA  
+**SOMBRA:** BRAVATA
 
 PALAVRAS-CHAVE:
 - VISÃO DE FUTURO

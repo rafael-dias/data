@@ -1,5 +1,5 @@
-**Luz:** TRÉGUA  
-**Sombra:** IMPASSE
+**LUZ:** TRÉGUA  
+**SOMBRA:** IMPASSE
 
 PALAVRAS-CHAVE:
 - IMPARCIALIDADE

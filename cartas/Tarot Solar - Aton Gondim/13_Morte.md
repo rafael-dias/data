@@ -1,5 +1,5 @@
-**Luz:** CONCLUSÃO  
-**Sombra:** REDUÇÃO
+**LUZ:** CONCLUSÃO  
+**SOMBRA:** REDUÇÃO
 PALAVRAS-CHAVE:
 - FIM
 - TRANSFORMAÇÃO

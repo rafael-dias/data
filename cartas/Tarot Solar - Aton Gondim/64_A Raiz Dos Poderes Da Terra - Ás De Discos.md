@@ -1,5 +1,5 @@
-**Luz:** BÊNÇÃO  
-**Sombra:** OBRIGAÇÃO
+**LUZ:** BÊNÇÃO  
+**SOMBRA:** OBRIGAÇÃO
 PALAVRAS-CHAVE:
 - OPORTUNIDADE
 - SEMENTE

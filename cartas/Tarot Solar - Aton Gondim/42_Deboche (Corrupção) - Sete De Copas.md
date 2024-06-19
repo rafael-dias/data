@@ -1,5 +1,5 @@
-**Luz:** IMAGINAÇÃO  
-**Sombra:** ILUSÃO
+**LUZ:** IMAGINAÇÃO  
+**SOMBRA:** ILUSÃO
 
 PALAVRAS-CHAVE:
 - FANTASIAS

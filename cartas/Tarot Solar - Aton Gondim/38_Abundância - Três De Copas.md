@@ -1,5 +1,5 @@
-**Luz:** CELEBRAÇÃO  
-**Sombra:** OBSESSÃO
+**LUZ:** CELEBRAÇÃO  
+**SOMBRA:** OBSESSÃO
 
 PALAVRAS-CHAVE:
 - AMIZADE

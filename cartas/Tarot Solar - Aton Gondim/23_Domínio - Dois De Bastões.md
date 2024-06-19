@@ -1,5 +1,5 @@
-**Luz:** ESCOLHA  
-**Sombra:** DETURPAÇÃO
+**LUZ:** ESCOLHA  
+**SOMBRA:** DETURPAÇÃO
 
 PALAVRAS-CHAVE:
 - POTENCIAL

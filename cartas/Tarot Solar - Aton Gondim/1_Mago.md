@@ -1,10 +1,10 @@
-**Luz:** MAESTRIA  
-**Sombra:** TRAPAÇA
+**LUZ:** MAESTRIA  
+**SOMBRA:** TRAPAÇA
 
 PALAVRAS-CHAVE:
 - CONSCIÊNCIA
 - PODER
-- Foco
+- FOCO
 - INTENÇÃO
 - MAGIA
 - SUCESSO

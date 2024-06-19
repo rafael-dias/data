@@ -1,5 +1,5 @@
-**Luz:** SACIEDADE  
-**Sombra:** TÉDIO
+**LUZ:** SACIEDADE  
+**SOMBRA:** TÉDIO
 
 PALAVRAS-CHAVE:
 - AFASTAMENTO
