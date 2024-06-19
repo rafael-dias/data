@@ -1,4 +1,4 @@
-**Luz:** DETERMINAÇÃO
+**Luz:** DETERMINAÇÃO  
 **Sombra:** DEFENSIVIDADE
 
 PALAVRAS-CHAVE:

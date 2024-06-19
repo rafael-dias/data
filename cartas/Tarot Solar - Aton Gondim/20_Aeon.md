@@ -1,4 +1,4 @@
-**Luz:** RENASCIMENTO
+**Luz:** RENASCIMENTO  
 **Sombra:** AVALIAÇÃO
 
 PALAVRAS-CHAVE:

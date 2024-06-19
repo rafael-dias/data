@@ -1,4 +1,4 @@
-**Luz:** MEDITAÇÃO
+**Luz:** MEDITAÇÃO  
 **Sombra:** EXTREMISMO
 
 PALAVRAS-CHAVE:

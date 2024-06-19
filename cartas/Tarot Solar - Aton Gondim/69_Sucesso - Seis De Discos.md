@@ -1,4 +1,4 @@
-**Luz:** GENEROSIDADE
+**Luz:** GENEROSIDADE  
 **Sombra:** MANIPULAÇÃO
 
 PALAVRAS-CHAVE:

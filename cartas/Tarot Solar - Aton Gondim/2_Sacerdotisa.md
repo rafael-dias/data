@@ -1,4 +1,4 @@
-**Luz:** INTUIÇÃO
+**Luz:** INTUIÇÃO  
 **Sombra:** PRESUNÇÃO
 
 PALAVRAS-CHAVE:

@@ -1,4 +1,4 @@
-**Luz:** TRÉGUA
+**Luz:** TRÉGUA  
 **Sombra:** IMPASSE
 
 PALAVRAS-CHAVE:

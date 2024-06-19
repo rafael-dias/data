@@ -1,4 +1,4 @@
-**Luz:** ATRAÇÃO
+**Luz:** ATRAÇÃO  
 **Sombra:** CODEPENDÊNCIA
 
 PALAVRAS-CHAVE:

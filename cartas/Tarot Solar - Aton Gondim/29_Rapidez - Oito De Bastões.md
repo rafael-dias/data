@@ -1,4 +1,4 @@
-**Luz:** RESPOSTA
+**Luz:** RESPOSTA  
 **Sombra:** REAÇÃO
 
 PALAVRAS-CHAVE:

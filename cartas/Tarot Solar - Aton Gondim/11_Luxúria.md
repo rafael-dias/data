@@ -1,4 +1,4 @@
-**Luz:** AFIRMAÇÃO
+**Luz:** AFIRMAÇÃO  
 **Sombra:** AGRESSÃO
 
 PALAVRAS-CHAVE:

@@ -1,4 +1,4 @@
-**Luz:** PRAGMATISMO
+**Luz:** PRAGMATISMO  
 **Sombra:** POSSE
 
 PALAVRAS-CHAVE:

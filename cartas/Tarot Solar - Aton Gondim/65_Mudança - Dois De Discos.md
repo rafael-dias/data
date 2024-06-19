@@ -1,4 +1,4 @@
-**Luz:** COMPARAÇÃO
+**Luz:** COMPARAÇÃO  
 **Sombra:** DELIBERAÇÃO
 
 PALAVRAS-CHAVE:

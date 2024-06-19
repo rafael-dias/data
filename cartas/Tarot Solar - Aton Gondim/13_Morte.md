@@ -1,4 +1,4 @@
-**Luz:** CONCLUSÃO
+**Luz:** CONCLUSÃO  
 **Sombra:** REDUÇÃO
 PALAVRAS-CHAVE:
 - FIM

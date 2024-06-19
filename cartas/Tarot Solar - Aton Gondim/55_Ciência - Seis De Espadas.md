@@ -1,4 +1,4 @@
-**Luz:** PERSPECTIVA
+**Luz:** PERSPECTIVA  
 **Sombra:** VITIMIZAÇÃO
 
 PALAVRAS-CHAVE:

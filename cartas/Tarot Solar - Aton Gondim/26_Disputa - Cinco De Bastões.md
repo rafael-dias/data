@@ -1,4 +1,4 @@
-**Luz:** CONFRONTAÇÃO
+**Luz:** CONFRONTAÇÃO  
 **Sombra:** CONFLITO
 
 PALAVRAS-CHAVE:

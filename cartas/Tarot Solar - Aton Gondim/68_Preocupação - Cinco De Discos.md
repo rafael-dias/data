@@ -1,4 +1,4 @@
-**Luz:** NECESSIDADE
+**Luz:** NECESSIDADE  
 **Sombra:** POBREZA
 
 PALAVRAS-CHAVE:

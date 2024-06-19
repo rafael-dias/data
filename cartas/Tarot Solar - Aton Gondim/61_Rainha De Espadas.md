@@ -1,4 +1,4 @@
-**Luz:** PERCEPÇÃO
+**Luz:** PERCEPÇÃO  
 **Sombra:** PARANOIA
 
 PALAVRAS-CHAVE:

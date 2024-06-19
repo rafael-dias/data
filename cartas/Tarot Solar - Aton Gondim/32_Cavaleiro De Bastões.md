@@ -1,4 +1,4 @@
-**Luz:** DIREÇÃO
+**Luz:** DIREÇÃO  
 **Sombra:** REPRESSÃO
 
 PALAVRAS-CHAVE:

@@ -1,4 +1,4 @@
-**Luz:** ESCOLHA
+**Luz:** ESCOLHA  
 **Sombra:** DETURPAÇÃO
 
 PALAVRAS-CHAVE:

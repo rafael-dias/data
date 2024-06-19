@@ -1,4 +1,4 @@
-**Luz:** SABEDORIA
+**Luz:** SABEDORIA  
 **Sombra:** INTELECTUALISMO
 
 PALAVRAS-CHAVE:

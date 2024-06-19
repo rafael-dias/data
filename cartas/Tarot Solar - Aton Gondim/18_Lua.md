@@ -1,4 +1,4 @@
-**Luz:** MISTÉRIO
+**Luz:** MISTÉRIO  
 **Sombra:** LOUCURA
 
 PALAVRAS-CHAVE:

@@ -1,4 +1,4 @@
-**Luz:** AUDÁCIA
+**Luz:** AUDÁCIA  
 **Sombra:** BRAVATA
 
 PALAVRAS-CHAVE:

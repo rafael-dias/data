@@ -1,4 +1,4 @@
-**Luz:** COMPOSTURA
+**Luz:** COMPOSTURA  
 **Sombra:** RIGIDEZ
 
 PALAVRAS-CHAVE:

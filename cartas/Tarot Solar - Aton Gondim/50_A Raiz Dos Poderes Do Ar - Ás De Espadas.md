@@ -1,4 +1,4 @@
-**Luz:** OBJETIVIDADE
+**Luz:** OBJETIVIDADE  
 **Sombra:** ASTÚCIA
 
 PALAVRAS-CHAVE:

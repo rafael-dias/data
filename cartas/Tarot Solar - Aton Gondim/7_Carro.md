@@ -1,4 +1,4 @@
-**Luz:** AVANÇO
+**Luz:** AVANÇO  
 **Sombra:** NEGLIGÊNCIA
 
 PALAVRAS-CHAVE:

@@ -1,4 +1,4 @@
-**Luz:** BÊNÇÃO
+**Luz:** BÊNÇÃO  
 **Sombra:** OBRIGAÇÃO
 PALAVRAS-CHAVE:
 - OPORTUNIDADE

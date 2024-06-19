@@ -1,4 +1,4 @@
-**Luz:** EQUILÍBRIO
+**Luz:** EQUILÍBRIO  
 **Sombra:** PARCIALIDADE
 
 PALAVRAS-CHAVE:

@@ -1,4 +1,4 @@
-**Luz:** INSPIRAÇÃO
+**Luz:** INSPIRAÇÃO  
 **Sombra:** INFLEXIBILIDADE
 
 PALAVRAS-CHAVE:

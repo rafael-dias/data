@@ -1,4 +1,4 @@
-**Luz:** LUXO
+**Luz:** LUXO  
 **Sombra:** EXCESSO
 
 PALAVRAS-CHAVE:

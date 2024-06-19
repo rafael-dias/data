@@ -1,4 +1,4 @@
-**Luz:** REALIZAÇÃO
+**Luz:** REALIZAÇÃO  
 **Sombra:** DISCREPÂNCIA
 
 PALAVRAS-CHAVE:

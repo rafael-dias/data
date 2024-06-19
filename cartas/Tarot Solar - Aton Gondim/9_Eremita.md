@@ -1,4 +1,4 @@
-**Luz:** INTROSPECÇÃO
+**Luz:** INTROSPECÇÃO  
 **Sombra:** ISOLAMENTO
 
 PALAVRAS-CHAVE:

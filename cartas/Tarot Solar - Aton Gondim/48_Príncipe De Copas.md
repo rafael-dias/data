@@ -1,4 +1,4 @@
-**Luz:** ZELO
+**Luz:** ZELO  
 **Sombra:** INTOLERÂNCIA
 
 PALAVRAS-CHAVE:

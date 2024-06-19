@@ -1,4 +1,4 @@
-**Luz:** AUTORIDADE
+**Luz:** AUTORIDADE  
 **Sombra:** RIGIDEZ
 
 PALAVRAS-CHAVE:

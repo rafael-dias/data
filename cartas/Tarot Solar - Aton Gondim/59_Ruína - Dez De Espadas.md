@@ -1,4 +1,4 @@
-**Luz:** DESAPEGO
+**Luz:** DESAPEGO  
 **Sombra:** DESTRUIÇÃO
 
 PALAVRAS-CHAVE:

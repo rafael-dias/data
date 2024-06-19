@@ -1,4 +1,4 @@
-**Luz:** PREENCHIMENTO
+**Luz:** PREENCHIMENTO  
 **Sombra:** DEFICIT
 
 PALAVRAS-CHAVE:

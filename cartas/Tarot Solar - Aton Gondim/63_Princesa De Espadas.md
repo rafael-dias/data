@@ -1,4 +1,4 @@
-**Luz:** PRATICA
+**Luz:** PRATICA  
 **Sombra:** PRETENSÃO
 
 PALAVRAS-CHAVE:

@@ -1,4 +1,4 @@
-**Luz:** REVOLUÇÃO
+**Luz:** REVOLUÇÃO  
 **Sombra:** REPETIÇÃO
 PALAVRAS-CHAVE:
 - MOVIMENTO

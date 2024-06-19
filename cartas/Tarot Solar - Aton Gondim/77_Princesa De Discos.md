@@ -1,4 +1,4 @@
-**Luz:** CAUTELOSO
+**Luz:** CAUTELOSO  
 **Sombra:** DESCUIDADO
 
 PALAVRAS-CHAVE:

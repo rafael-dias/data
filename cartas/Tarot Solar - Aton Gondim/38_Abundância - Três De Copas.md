@@ -1,4 +1,4 @@
-**Luz:** CELEBRAÇÃO
+**Luz:** CELEBRAÇÃO  
 **Sombra:** OBSESSÃO
 
 PALAVRAS-CHAVE:

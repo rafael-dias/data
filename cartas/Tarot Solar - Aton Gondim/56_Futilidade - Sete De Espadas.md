@@ -1,4 +1,4 @@
-**Luz:** JUSTIFICATIVA
+**Luz:** JUSTIFICATIVA  
 **Sombra:** PRESUNÇÃO
 
 PALAVRAS-CHAVE:

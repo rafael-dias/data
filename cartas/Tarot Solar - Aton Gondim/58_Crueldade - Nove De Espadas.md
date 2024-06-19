@@ -1,4 +1,4 @@
-**Luz:** INSIGHT
+**Luz:** INSIGHT  
 **Sombra:** PREOCUPAÇÃO
 
 PALAVRAS-CHAVE:

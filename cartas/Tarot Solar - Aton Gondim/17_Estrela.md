@@ -1,4 +1,4 @@
-**Luz:** ABERTURA
+**Luz:** ABERTURA  
 **Sombra:** NEGAÇÃO
 
 PALAVRAS-CHAVE:

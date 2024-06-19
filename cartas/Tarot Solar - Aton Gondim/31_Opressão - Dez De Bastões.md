@@ -1,4 +1,4 @@
-**Luz:** TENACIDADE
+**Luz:** TENACIDADE  
 **Sombra:** EXAUSTÃO
 
 PALAVRAS-CHAVE:

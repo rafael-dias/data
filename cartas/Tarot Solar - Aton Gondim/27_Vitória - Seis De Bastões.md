@@ -1,4 +1,4 @@
-**Luz:** VITÓRIA
+**Luz:** VITÓRIA  
 **Sombra:** ORGULHO
 
 PALAVRAS-CHAVE:

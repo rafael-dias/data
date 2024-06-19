@@ -1,4 +1,4 @@
-**Luz:** FERTILIDADE
+**Luz:** FERTILIDADE  
 **Sombra:** SUPERPROTEÇÃO
 
 PALAVRAS-CHAVE:

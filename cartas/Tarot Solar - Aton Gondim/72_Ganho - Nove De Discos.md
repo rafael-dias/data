@@ -1,4 +1,4 @@
-**Luz:** DISCIPLINA
+**Luz:** DISCIPLINA  
 **Sombra:** EXCESSO DE CONFIANÇA
 
 PALAVRAS-CHAVE:

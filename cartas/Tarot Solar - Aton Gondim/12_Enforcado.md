@@ -1,4 +1,4 @@
-**Luz:** TRANSCENDÊNCIA
+**Luz:** TRANSCENDÊNCIA  
 **Sombra:** PERFÍDIA (TRAIÇÃO)
 
 PALAVRAS-CHAVE:

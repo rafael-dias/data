@@ -1,4 +1,4 @@
-**Luz:** AQUISIÇÃO
+**Luz:** AQUISIÇÃO  
 **Sombra:** POSSE
 
 PALAVRAS-CHAVE:
