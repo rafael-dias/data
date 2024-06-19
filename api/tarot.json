@@ -395,392 +395,392 @@
         {
             "id": 0,
             "nome": "Louco",
-            "dados": "**Luz:** INOCÊNCIA  \n**Sombra:** INSENSATEZ\n\nPALAVRAS-CHAVE:\n- OPORTUNIDADE\n- PÁGINA EM BRANCO\n- MENTE ABERTA\n- AVENTURA\n- TOLICE\n- INGENUIDADE"
+            "dados": "**LUZ:** INOCÊNCIA  \n**SOMBRA:** INSENSATEZ\n\nPALAVRAS-CHAVE:\n- OPORTUNIDADE\n- PÁGINA EM BRANCO\n- MENTE ABERTA\n- AVENTURA\n- TOLICE\n- INGENUIDADE"
         },
         {
             "id": 1,
             "nome": "Mago",
-            "dados": "**Luz:** MAESTRIA  \n**Sombra:** TRAPAÇA\n\nPALAVRAS-CHAVE:\n- CONSCIÊNCIA\n- PODER\n- Foco\n- INTENÇÃO\n- MAGIA\n- SUCESSO"
+            "dados": "**LUZ:** MAESTRIA  \n**SOMBRA:** TRAPAÇA\n\nPALAVRAS-CHAVE:\n- CONSCIÊNCIA\n- PODER\n- FOCO\n- INTENÇÃO\n- MAGIA\n- SUCESSO"
         },
         {
             "id": 2,
             "nome": "Sacerdotisa",
-            "dados": "**Luz:** INTUIÇÃO  \n**Sombra:** PRESUNÇÃO\n\nPALAVRAS-CHAVE:\n- O INVISÍVEL\n- SUBCONSCIENTE\nSEGREDOS\n- SABEDORIA\n- RECEPTIVIDADE\n- CICLOS NATURAIS"
+            "dados": "**LUZ:** INTUIÇÃO  \n**SOMBRA:** PRESUNÇÃO\n\nPALAVRAS-CHAVE:\n- O INVISÍVEL\n- SUBCONSCIENTE\n- SEGREDOS\n- SABEDORIA\n- RECEPTIVIDADE\n- CICLOS NATURAIS"
         },
         {
             "id": 3,
             "nome": "Imperatriz",
-            "dados": "**Luz:** FERTILIDADE  \n**Sombra:** SUPERPROTEÇÃO\n\nPALAVRAS-CHAVE:\n- CRIAÇÃO\n- ABUNDÂNCIA\n- CULTIVO\n- MÃE\n- SENSUALIDADE\n- GERÊNCIA"
+            "dados": "**LUZ:** FERTILIDADE  \n**SOMBRA:** SUPERPROTEÇÃO\n\nPALAVRAS-CHAVE:\n- CRIAÇÃO\n- ABUNDÂNCIA\n- CULTIVO\n- MÃE\n- SENSUALIDADE\n- GERÊNCIA"
         },
         {
             "id": 4,
             "nome": "Imperador",
-            "dados": "**Luz:** AUTORIDADE  \n**Sombra:** RIGIDEZ\n\nPALAVRAS-CHAVE:\n- ESTRUTURA\n- LIDERANÇA\n- ALICERCE\n- PERSISTÊNCIA\n- REGRAS"
+            "dados": "**LUZ:** AUTORIDADE  \n**SOMBRA:** RIGIDEZ\n\nPALAVRAS-CHAVE:\n- ESTRUTURA\n- LIDERANÇA\n- ALICERCE\n- PERSISTÊNCIA\n- REGRAS"
         },
         {
             "id": 5,
             "nome": "Hierofante",
-            "dados": "**Luz:** FÉ   \n**Sombra:** FANATISMO\n\nPALAVRAS-CHAVE:\n- ENSINO\n- APRENDIZADO\n- CREDO\n- TRADIÇÃO\n- CASAMENTO\n- DISCiPLINA\n- SOCIEDADE"
+            "dados": "**LUZ:** FÉ   \n**SOMBRA:** FANATISMO\n\nPALAVRAS-CHAVE:\n- ENSINO\n- APRENDIZADO\n- CREDO\n- TRADIÇÃO\n- CASAMENTO\n- DISCIPLINA\n- SOCIEDADE"
         },
         {
             "id": 6,
             "nome": "Amantes",
-            "dados": "**Luz:** UNIÃO  \n**Sombra:** OBSESSÃO\n\nPALAVRAS-CHAVE:\n- ÊXTASE\n- PARCERIA\n- ESCOLHA\n- PAIXÃO\n- SEXUALIDADE\n- INDECISÃO"
+            "dados": "**LUZ:** UNIÃO  \n**SOMBRA:** OBSESSÃO\n\nPALAVRAS-CHAVE:\n- ÊXTASE\n- PARCERIA\n- ESCOLHA\n- PAIXÃO\n- SEXUALIDADE\n- INDECISÃO"
         },
         {
             "id": 7,
             "nome": "Carro",
-            "dados": "**Luz:** AVANÇO  \n**Sombra:** NEGLIGÊNCIA\n\nPALAVRAS-CHAVE:\n- DETERMINAÇÃO\n- ÍMPETO\n- FORÇA DE VONTADE\n- PERSEVERANÇA\n- PROGRESSO\n- CONTROLE"
+            "dados": "**LUZ:** AVANÇO  \n**SOMBRA:** NEGLIGÊNCIA\n\nPALAVRAS-CHAVE:\n- DETERMINAÇÃO\n- ÍMPETO\n- FORÇA DE VONTADE\n- PERSEVERANÇA\n- PROGRESSO\n- CONTROLE"
         },
         {
             "id": 8,
             "nome": "Ajustamento",
-            "dados": "**Luz:** EQUILÍBRIO  \n**Sombra:** PARCIALIDADE\n\nPALAVRAS-CHAVE:\n- RESPONSABILIDADE\n- DECISÃO\n- INTEGRIDADE\n- ÉTICA\n- LÓGICA\n- HONESTIDADE"
+            "dados": "**LUZ:** EQUILÍBRIO  \n**SOMBRA:** PARCIALIDADE\n\nPALAVRAS-CHAVE:\n- RESPONSABILIDADE\n- DECISÃO\n- INTEGRIDADE\n- ÉTICA\n- LÓGICA\n- HONESTIDADE"
         },
         {
             "id": 9,
             "nome": "Eremita",
-            "dados": "**Luz:** INTROSPECÇÃO  \n**Sombra:** ISOLAMENTO\n\nPALAVRAS-CHAVE:\n- SOLIDÃO\n- GUIA\n- SABEDORIA\n- RETIRO\n- ESTUDO\n- ORIENTAÇÃO"
+            "dados": "**LUZ:** INTROSPECÇÃO  \n**SOMBRA:** ISOLAMENTO\n\nPALAVRAS-CHAVE:\n- SOLIDÃO\n- GUIA\n- SABEDORIA\n- RETIRO\n- ESTUDO\n- ORIENTAÇÃO"
         },
         {
             "id": 10,
             "nome": "Fortuna",
-            "dados": "**Luz:** REVOLUÇÃO  \n**Sombra:** REPETIÇÃO\nPALAVRAS-CHAVE:\n- MOVIMENTO\n- MUDANÇA\n- EXPANSÃO\n- OPORTUNIDADE\n- ACELERAÇÃO\n- DESTINO\n- SORTE"
+            "dados": "**LUZ:** REVOLUÇÃO  \n**SOMBRA:** REPETIÇÃO\nPALAVRAS-CHAVE:\n- MOVIMENTO\n- MUDANÇA\n- EXPANSÃO\n- OPORTUNIDADE\n- ACELERAÇÃO\n- DESTINO\n- SORTE"
         },
         {
             "id": 11,
             "nome": "Luxúria",
-            "dados": "**Luz:** AFIRMAÇÃO  \n**Sombra:** AGRESSÃO\n\nPALAVRAS-CHAVE:\n- CONVICÇÃO\n- PODER INTERIOR\n- CORAGEM\n- EMPODERAMENTO\n- SER INSTINTIVO\n- PACIÊNCIA"
+            "dados": "**LUZ:** AFIRMAÇÃO  \n**SOMBRA:** AGRESSÃO\n\nPALAVRAS-CHAVE:\n- CONVICÇÃO\n- PODER INTERIOR\n- CORAGEM\n- EMPODERAMENTO\n- SER INSTINTIVO\n- PACIÊNCIA"
         },
         {
             "id": 12,
             "nome": "Enforcado",
-            "dados": "**Luz:** TRANSCENDÊNCIA  \n**Sombra:** PERFÍDIA (TRAIÇÃO)\n\nPALAVRAS-CHAVE:\n- RENDIÇÃO\n- SACRIFÍCIO\n- QUIETUDE\n- NOVA PERSPECTIVA\n- DEVOÇÃO\n- ABNEGAÇÃO\n- ESTAGNAÇÃO"
+            "dados": "**LUZ:** TRANSCENDÊNCIA  \n**SOMBRA:** PERFÍDIA (TRAIÇÃO)\n\nPALAVRAS-CHAVE:\n- RENDIÇÃO\n- SACRIFÍCIO\n- QUIETUDE\n- NOVA PERSPECTIVA\n- DEVOÇÃO\n- ABNEGAÇÃO\n- ESTAGNAÇÃO"
         },
         {
             "id": 13,
             "nome": "Morte",
-            "dados": "**Luz:** CONCLUSÃO  \n**Sombra:** REDUÇÃO\nPALAVRAS-CHAVE:\n- FIM\n- TRANSFORMAÇÃO\n- ENCERRAMENTO\n- PURGA.\n- REGENERAÇÃO\n- METAMORFOSE"
+            "dados": "**LUZ:** CONCLUSÃO  \n**SOMBRA:** REDUÇÃO\nPALAVRAS-CHAVE:\n- FIM\n- TRANSFORMAÇÃO\n- ENCERRAMENTO\n- PURGA.\n- REGENERAÇÃO\n- METAMORFOSE"
         },
         {
             "id": 14,
             "nome": "Arte",
-            "dados": "**Luz:** MEDITAÇÃO  \n**Sombra:** EXTREMISMO\n\nPALAVRAS-CHAVE:\n- SÍNTESE\n- INTEGRAÇÃO\n- AJUSTE.\n- CURA\n- PACIÊNCIA\n- MODERAÇÃO\n- CIRCUNSPECÇÃO"
+            "dados": "**LUZ:** MEDITAÇÃO  \n**SOMBRA:** EXTREMISMO\n\nPALAVRAS-CHAVE:\n- SÍNTESE\n- INTEGRAÇÃO\n- AJUSTE\n- CURA\n- PACIÊNCIA\n- MODERAÇÃO\n- CIRCUNSPECÇÃO"
         },
         {
             "id": 15,
             "nome": "Diabo",
-            "dados": "**Luz:** SENSUALiDADE  \n**Sombra:** LICENCIOSIDADE\n\nPALAVRAS-CHAVE:\n- INDULGÊNCIA\n- APEGO\n- MATERIALISMO\n- VÍCIO\n- PRAZER.\n- LUXÚRIA\n- AUTO-LIMITÂNCIA"
+            "dados": "**LUZ:** SENSUALIDADE  \n**SOMBRA:** LICENCIOSIDADE\n\nPALAVRAS-CHAVE:\n- INDULGÊNCIA\n- APEGO\n- MATERIALISMO\n- VÍCIO\n- PRAZER.\n- LUXÚRIA\n- AUTO-LIMITÂNCIA"
         },
         {
             "id": 16,
             "nome": "Torre",
-            "dados": "**Luz:** DEMOLIÇÃO  \n**Sombra:** DESTRUIÇÃO\n\nPALAVRAS-CHAVE:\n- DISSOLUÇÃO\n- CAOS\n- AFLIÇÃO\n- MUDANÇA BRUSCA\n- RUPTURA\n- DESASTRES NATURAIS"
+            "dados": "**LUZ:** DEMOLIÇÃO  \n**SOMBRA:** DESTRUIÇÃO\n\nPALAVRAS-CHAVE:\n- DISSOLUÇÃO\n- CAOS\n- AFLIÇÃO\n- MUDANÇA BRUSCA\n- RUPTURA\n- DESASTRES NATURAIS"
         },
         {
             "id": 17,
             "nome": "Estrela",
-            "dados": "**Luz:** ABERTURA  \n**Sombra:** NEGAÇÃO\n\nPALAVRAS-CHAVE:\n- OTIMISMO\n- ESPERANÇA\n- RENOVAÇÃO\n- LIMPEZA\n- PAZ\n- CONEXÃO\n- RECONHECIMENTO"
+            "dados": "**LUZ:** ABERTURA  \n**SOMBRA:** NEGAÇÃO\n\nPALAVRAS-CHAVE:\n- OTIMISMO\n- ESPERANÇA\n- RENOVAÇÃO\n- LIMPEZA\n- PAZ\n- CONEXÃO\n- RECONHECIMENTO"
         },
         {
             "id": 18,
             "nome": "Lua",
-            "dados": "**Luz:** MISTÉRIO  \n**Sombra:** LOUCURA\n\nPALAVRAS-CHAVE:\n- DESCONHECIDO\n- OCULTO\n- ILUSÃO\n- MEDOS\n- DÚVIDA\n- AUGÚRIO"
+            "dados": "**LUZ:** MISTÉRIO  \n**SOMBRA:** LOUCURA\n\nPALAVRAS-CHAVE:\n- DESCONHECIDO\n- OCULTO\n- ILUSÃO\n- MEDOS\n- DÚVIDA\n- AUGÚRIO"
         },
         {
             "id": 19,
             "nome": "Sol",
-            "dados": "**Luz:** ENERGIA  \n**Sombra:** FRIVOLIDADE\n\nPALAVRAS-CHAVE:\n- CLAREZA\n- INSPIRAÇÃO\n- ESCLARECIMENTO\n- VITALIDADE\n- POSITIVIDADE\n- FELICIDADE\n- SUCESSO"
+            "dados": "**LUZ:** ENERGIA  \n**SOMBRA:** FRIVOLIDADE\n\nPALAVRAS-CHAVE:\n- CLAREZA\n- INSPIRAÇÃO\n- ESCLARECIMENTO\n- VITALIDADE\n- POSITIVIDADE\n- FELICIDADE\n- SUCESSO"
         },
         {
             "id": 20,
             "nome": "Aeon",
-            "dados": "**Luz:** RENASCIMENTO  \n**Sombra:** AVALIAÇÃO\n\nPALAVRAS-CHAVE:\n- JULGAMENTO\n- RENOVAÇÃO\n- DESPERTAR\n- REVISÃO\n- OBJETIVIDADE\n- VERDADEIRA VOCAÇÃO"
+            "dados": "**LUZ:** RENASCIMENTO  \n**SOMBRA:** AVALIAÇÃO\n\nPALAVRAS-CHAVE:\n- JULGAMENTO\n- RENOVAÇÃO\n- DESPERTAR\n- REVISÃO\n- OBJETIVIDADE\n- VERDADEIRA VOCAÇÃO"
         },
         {
             "id": 21,
             "nome": "O Universo",
-            "dados": "**Luz:** PLENITUDE  \n**Sombra:** MATERIALISMO\n\nPALAVRAS-CHAVE:\n- INTEGRAÇÃO\n- REALIZAÇÃO\n- CUMPRIMENTO\n- HOLISMO\n- VITÓRIA\n- CULMINÂNCIA\n- FIM DE CICLO"
+            "dados": "**LUZ:** PLENITUDE  \n**SOMBRA:** MATERIALISMO\n\nPALAVRAS-CHAVE:\n- INTEGRAÇÃO\n- REALIZAÇÃO\n- CUMPRIMENTO\n- HOLISMO\n- VITÓRIA\n- CULMINÂNCIA\n- FIM DE CICLO"
         },
         {
             "id": 22,
             "nome": "A Raiz Dos Poderes De Fogo - Ás De Bastões",
-            "dados": "**Luz:** INSPIRAÇÃO  \n**Sombra:** INFLEXIBILIDADE\n\nPALAVRAS-CHAVE:\n- SIM\n- IDEIA\n- PAIXÃO\n- INSPIRAÇÃO\n- NASCIMENTO\n- OPORTUNIDADE\n- AVANÇO\n- DESPREOCUPAÇÃO"
+            "dados": "**LUZ:** INSPIRAÇÃO  \n**SOMBRA:** INFLEXIBILIDADE\n\nPALAVRAS-CHAVE:\n- SIM\n- IDEIA\n- PAIXÃO\n- INSPIRAÇÃO\n- NASCIMENTO\n- OPORTUNIDADE\n- AVANÇO\n- DESPREOCUPAÇÃO"
         },
         {
             "id": 23,
             "nome": "Domínio - Dois De Bastões",
-            "dados": "**Luz:** ESCOLHA  \n**Sombra:** DETURPAÇÃO\n\nPALAVRAS-CHAVE:\n- POTENCIAL\n- CONTEMPLAÇÃO\n- LIMIAR\n- PLANEJAMENTO"
+            "dados": "**LUZ:** ESCOLHA  \n**SOMBRA:** DETURPAÇÃO\n\nPALAVRAS-CHAVE:\n- POTENCIAL\n- CONTEMPLAÇÃO\n- LIMIAR\n- PLANEJAMENTO"
         },
         {
             "id": 24,
             "nome": "Virtude - Três De Bastões",
-            "dados": "**Luz:** PLANEJAMENTO  \n**Sombra:** DOGMATISMO\n\nPALAVRAS-CHAVE:\n- ESTABELECER\n- DELIMITAR\n- AUTORIDADE\n- OUSADIA\n- INICIATIVA\n- SUPERVISÃO\n- PLANOS EM LONGO PRAZO\n- CONVICÇÃO"
+            "dados": "**LUZ:** PLANEJAMENTO  \n**SOMBRA:** DOGMATISMO\n\nPALAVRAS-CHAVE:\n- ESTABELECER\n- DELIMITAR\n- AUTORIDADE\n- OUSADIA\n- INICIATIVA\n- SUPERVISÃO\n- PLANOS EM LONGO PRAZO\n- CONVICÇÃO"
         },
         {
             "id": 25,
             "nome": "Conclusão - Quatro De Bastões",
-            "dados": "**Luz:** CONQUISTAM  \n**Sombra:** MESMICE\n\nPALAVRAS-CHAVE:\n- REGRESSO À CASA\n- CHEGADA\n- COLHEITA\n- CERIMÔNIA\n- PROPRIEDADE\n- ALICERCES FORTES\n- GRATIDÃO\n- LAR FELIZ"
+            "dados": "**LUZ:** CONQUISTAM  \n**SOMBRA:** MESMICE\n\nPALAVRAS-CHAVE:\n- REGRESSO À CASA\n- CHEGADA\n- COLHEITA\n- CERIMÔNIA\n- PROPRIEDADE\n- ALICERCES FORTES\n- GRATIDÃO\n- LAR FELIZ"
         },
         {
             "id": 26,
             "nome": "Disputa - Cinco De Bastões",
-            "dados": "**Luz:** CONFRONTAÇÃO  \n**Sombra:** CONFLITO\n\nPALAVRAS-CHAVE:\n- COMPETIÇÃO\n- DISPUTAS\n- JOGOS\n- SOLUÇÃO DE PROBLEMAS\n- ESFORÇO\n- BRAINSTORMING\n- ABORRECIMENTOS\n- SUJEIRA DE DEBAIXO DO TAPETE"
+            "dados": "**LUZ:** CONFRONTAÇÃO  \n**SOMBRA:** CONFLITO\n\nPALAVRAS-CHAVE:\n- COMPETIÇÃO\n- DISPUTAS\n- JOGOS\n- SOLUÇÃO DE PROBLEMAS\n- ESFORÇO\n- BRAINSTORMING\n- ABORRECIMENTOS\n- SUJEIRA DE DEBAIXO DO TAPETE"
         },
         {
             "id": 27,
             "nome": "Vitória - Seis De Bastões",
-            "dados": "**Luz:** VITÓRIA  \n**Sombra:** ORGULHO\n\nPALAVRAS-CHAVE:\n- LIDERANÇA\n- EXEMPLO\n- SUCESSO\n- AVANÇO\n- GANHOS\n- RECONHECIMENTO"
+            "dados": "**LUZ:** VITÓRIA  \n**SOMBRA:** ORGULHO\n\nPALAVRAS-CHAVE:\n- LIDERANÇA\n- EXEMPLO\n- SUCESSO\n- AVANÇO\n- GANHOS\n- RECONHECIMENTO"
         },
         {
             "id": 28,
             "nome": "Valor - Sete De Bastões",
-            "dados": "**Luz:** DETERMINAÇÃO  \n**Sombra:** DEFENSIVIDADE\n\nPALAVRAS-CHAVE:\n- FIRMEZA\n- TENACIDADE\n- CORAGEM\n- PERSISTÊNCIA\n- DEFENDER PONTOS-DE-VISTA\n- ENFRENTAR OPOSIÇÃO"
+            "dados": "**LUZ:** DETERMINAÇÃO  \n**SOMBRA:** DEFENSIVIDADE\n\nPALAVRAS-CHAVE:\n- FIRMEZA\n- TENACIDADE\n- CORAGEM\n- PERSISTÊNCIA\n- DEFENDER PONTOS-DE-VISTA\n- ENFRENTAR OPOSIÇÃO"
         },
         {
             "id": 29,
             "nome": "Rapidez - Oito De Bastões",
-            "dados": "**Luz:** RESPOSTA  \n**Sombra:** REAÇÃO\n\nPALAVRAS-CHAVE:\n- ASSERTIVIDADE\n- AVANÇO\n- VELOCIDADE\n- COMUNICAÇÃO\n- RACIONALIZAÇÃO\n- FLUXO"
+            "dados": "**LUZ:** RESPOSTA  \n**SOMBRA:** REAÇÃO\n\nPALAVRAS-CHAVE:\n- ASSERTIVIDADE\n- AVANÇO\n- VELOCIDADE\n- COMUNICAÇÃO\n- RACIONALIZAÇÃO\n- FLUXO"
         },
         {
             "id": 30,
             "nome": "Força - Nove De Bastões",
-            "dados": "**Luz:** PERSISTÊNCIA  \n**Sombra:** MARTÍRIO\n\nPALAVRAS-CHAVE:\n- DEFENSIVIDADE\n- CUIDADO\n- PROTEÇÃO\n- ACUMULAÇÃO\n- FORTALEZA DE CARÁTER\n- VELHOS HÁBITOS\n- SUSPEIÇÃO\n- VIGÍLIA"
+            "dados": "**LUZ:** PERSISTÊNCIA  \n**SOMBRA:** MARTÍRIO\n\nPALAVRAS-CHAVE:\n- DEFENSIVIDADE\n- CUIDADO\n- PROTEÇÃO\n- ACUMULAÇÃO\n- FORTALEZA DE CARÁTER\n- VELHOS HÁBITOS\n- SUSPEIÇÃO\n- VIGÍLIA"
         },
         {
             "id": 31,
             "nome": "Opressão - Dez De Bastões",
-            "dados": "**Luz:** TENACIDADE  \n**Sombra:** EXAUSTÃO\n\nPALAVRAS-CHAVE:\n- SUCESSO\n- TRABALHO\n- RESPONSABILIDADE\n- SOBRECARREGADO\n- PESO\n- ESGOTAMENTO\n- ORGULHO\n- PRESO"
+            "dados": "**LUZ:** TENACIDADE  \n**SOMBRA:** EXAUSTÃO\n\nPALAVRAS-CHAVE:\n- SUCESSO\n- TRABALHO\n- RESPONSABILIDADE\n- SOBRECARREGADO\n- PESO\n- ESGOTAMENTO\n- ORGULHO\n- PRESO"
         },
         {
             "id": 32,
             "nome": "Cavaleiro De Bastões",
-            "dados": "**Luz:** DIREÇÃO  \n**Sombra:** REPRESSÃO\n\nPALAVRAS-CHAVE:\n- CORAJOSO\n- GENEROSO\n- AUTÊNTICO\n- LÍDER\n- PODEROSO\n- CRIATIVO\n- DOMINADOR\n- CONFIANTE\n- AUTO-CONFIANTE\n- MOTIVADOR\n- ORGULHOSO"
+            "dados": "**LUZ:** DIREÇÃO  \n**SOMBRA:** REPRESSÃO\n\nPALAVRAS-CHAVE:\n- CORAJOSO\n- GENEROSO\n- AUTÊNTICO\n- LÍDER\n- PODEROSO\n- CRIATIVO\n- DOMINADOR\n- CONFIANTE\n- AUTO-CONFIANTE\n- MOTIVADOR\n- ORGULHOSO"
         },
         {
             "id": 33,
             "nome": "Rainha De Bastões",
-            "dados": "**Luz:** CUIDADO  \n**Sombra:** DISTRAÇÃO\n\nPALAVRAS-CHAVE:\n- CRIATIVA\n- INDEPENDENTE\n- AUTO-CONFIANTE\n- APAIXONADA\n- ROMÂNTICA\n- LÍDER\n- CORAJOSA\n- EXTROVERTIDA\n- ENÉRGICA\n- INFLUENTE\n- DRAMÁTICA\n- AMIGÁVEL\n- OTIMISTA"
+            "dados": "**LUZ:** CUIDADO  \n**SOMBRA:** DISTRAÇÃO\n\nPALAVRAS-CHAVE:\n- CRIATIVA\n- INDEPENDENTE\n- AUTO-CONFIANTE\n- APAIXONADA\n- ROMÂNTICA\n- LÍDER\n- CORAJOSA\n- EXTROVERTIDA\n- ENÉRGICA\n- INFLUENTE\n- DRAMÁTICA\n- AMIGÁVEL\n- OTIMISTA"
         },
         {
             "id": 34,
             "nome": "Príncipe De Bastões",
-            "dados": "**Luz:** AUDÁCIA  \n**Sombra:** BRAVATA\n\nPALAVRAS-CHAVE:\n- VISÃO DE FUTURO\n- AVENTUREIRO\n- ESPONTÂNEO\n- TEMPERAMENTAL\n- EXCITANTE\n- PASSIONAL\n- EXTRAVAGANTE\n- APRESSADO\n- REBELDE\n- COMPETITIVO\n- MOTIVADOR"
+            "dados": "**LUZ:** AUDÁCIA  \n**SOMBRA:** BRAVATA\n\nPALAVRAS-CHAVE:\n- VISÃO DE FUTURO\n- AVENTUREIRO\n- ESPONTÂNEO\n- TEMPERAMENTAL\n- EXCITANTE\n- PASSIONAL\n- EXTRAVAGANTE\n- APRESSADO\n- REBELDE\n- COMPETITIVO\n- MOTIVADOR"
         },
         {
             "id": 35,
             "nome": "Princesa De Bastões",
-            "dados": "**Luz:** ENTUSIASMO  \n**Sombra:** INEXPERIÊNCIA\n\nPALAVRAS-CHAVE:\n- ESPÍRITO LIVRE\n- CURIOSO\n- ENTUSIASTA\n- DISPOSTO\n- AMBICIOSO\n- DESTEMIDO\n- INOCENTE\n- ENÉRGICO\n- EXTROVERTIDO"
+            "dados": "**LUZ:** ENTUSIASMO  \n**SOMBRA:** INEXPERIÊNCIA\n\nPALAVRAS-CHAVE:\n- ESPÍRITO LIVRE\n- CURIOSO\n- ENTUSIASTA\n- DISPOSTO\n- AMBICIOSO\n- DESTEMIDO\n- INOCENTE\n- ENÉRGICO\n- EXTROVERTIDO"
         },
         {
             "id": 36,
             "nome": "A Raiz Dos Poderes Da Água - Ás De Copas",
-            "dados": "**Luz:** REFRESCAR-SE  \n**Sombra:** INUNDAÇÃO\n\nPALAVRAS-CHAVE:\n- ALEGRIA\n- NOVO RELACIONAMENTO\n- DESPERTAR ESPIRITUAL\n- ABERTURA À EMOÇÃO\n- CONEXÃO PESSOAL\n- DESPERTAR DA INTUIÇÃO\n- INTROSPECÇÃO"
+            "dados": "**LUZ:** REFRESCAR-SE  \n**SOMBRA:** INUNDAÇÃO\n\nPALAVRAS-CHAVE:\n- ALEGRIA\n- NOVO RELACIONAMENTO\n- DESPERTAR ESPIRITUAL\n- ABERTURA À EMOÇÃO\n- CONEXÃO PESSOAL\n- DESPERTAR DA INTUIÇÃO\n- INTROSPECÇÃO"
         },
         {
             "id": 37,
             "nome": "Amor - Dois De Copas",
-            "dados": "**Luz:** ATRAÇÃO  \n**Sombra:** CODEPENDÊNCIA\n\nPALAVRAS-CHAVE:\n- UNIÃO\n- AMOR\n- APOIO\n- CONFIANÇA\n- IGUALDADE\n- COOPERAÇÃO\n- COMPROMISSO"
+            "dados": "**LUZ:** ATRAÇÃO  \n**SOMBRA:** CODEPENDÊNCIA\n\nPALAVRAS-CHAVE:\n- UNIÃO\n- AMOR\n- APOIO\n- CONFIANÇA\n- IGUALDADE\n- COOPERAÇÃO\n- COMPROMISSO"
         },
         {
             "id": 38,
             "nome": "Abundância - Três De Copas",
-            "dados": "**Luz:** CELEBRAÇÃO  \n**Sombra:** OBSESSÃO\n\nPALAVRAS-CHAVE:\n- AMIZADE\n- ENTRETENIMENTO\n- DIVERSÃO\n- SUCESSO\n- DANÇA\n- REGOZIJO"
+            "dados": "**LUZ:** CELEBRAÇÃO  \n**SOMBRA:** OBSESSÃO\n\nPALAVRAS-CHAVE:\n- AMIZADE\n- ENTRETENIMENTO\n- DIVERSÃO\n- SUCESSO\n- DANÇA\n- REGOZIJO"
         },
         {
             "id": 39,
             "nome": "Luxúria - Quatro De Copas",
-            "dados": "**Luz:** SACIEDADE  \n**Sombra:** TÉDIO\n\nPALAVRAS-CHAVE:\n- AFASTAMENTO\n- CONTEMPLAÇÃO\n- INSATISFAÇÃO\n- ABORRECIMENTO\n- DEVANEIO\n- INCUBAÇÃO"
+            "dados": "**LUZ:** SACIEDADE  \n**SOMBRA:** TÉDIO\n\nPALAVRAS-CHAVE:\n- AFASTAMENTO\n- CONTEMPLAÇÃO\n- INSATISFAÇÃO\n- ABORRECIMENTO\n- DEVANEIO\n- INCUBAÇÃO"
         },
         {
             "id": 40,
             "nome": "Desapontamento - Cinco De Copas",
-            "dados": "**Luz:** ARREPENDIMENTO  \n**Sombra:** DESESPERO\n\nPALAVRAS-CHAVE:\n- PERDA\n- PESAR\n- MEDO\n- CULPA\n- PESSIMISMO\n- PONTO DE MUTAÇÃO"
+            "dados": "**LUZ:** ARREPENDIMENTO  \n**SOMBRA:** DESESPERO\n\nPALAVRAS-CHAVE:\n- PERDA\n- PESAR\n- MEDO\n- CULPA\n- PESSIMISMO\n- PONTO DE MUTAÇÃO"
         },
         {
             "id": 41,
             "nome": "Prazer - Seis De Copas",
-            "dados": "**Luz:** PREENCHIMENTO  \n**Sombra:** DEFICIT\n\nPALAVRAS-CHAVE:\n- GENTILEZA\n- NOSTALGIA\n- MEMÓRIAS\n- CUIDADO\n- PROTEÇÃO\n- INFÂNCIA\n- SER FELIZ COMO UMA CRIANÇA"
+            "dados": "**LUZ:** PREENCHIMENTO  \n**SOMBRA:** DEFICIT\n\nPALAVRAS-CHAVE:\n- GENTILEZA\n- NOSTALGIA\n- MEMÓRIAS\n- CUIDADO\n- PROTEÇÃO\n- INFÂNCIA\n- SER FELIZ COMO UMA CRIANÇA"
         },
         {
             "id": 42,
             "nome": "Deboche (Corrupção) - Sete De Copas",
-            "dados": "**Luz:** IMAGINAÇÃO  \n**Sombra:** ILUSÃO\n\nPALAVRAS-CHAVE:\n- FANTASIAS\n- MUITAS ESCOLHAS\n- VISUALIZAÇÃO\n- ESTADOS ALTERADOS\n- \"BOM DEMAIS PRA SER VERDADE\"\n- EXPLOSÃO CRIATIVA\n- CORRUPÇÃO\n- VÍCIOS"
+            "dados": "**LUZ:** IMAGINAÇÃO  \n**SOMBRA:** ILUSÃO\n\nPALAVRAS-CHAVE:\n- FANTASIAS\n- MUITAS ESCOLHAS\n- VISUALIZAÇÃO\n- ESTADOS ALTERADOS\n- \"BOM DEMAIS PRA SER VERDADE\"\n- EXPLOSÃO CRIATIVA\n- CORRUPÇÃO\n- VÍCIOS"
         },
         {
             "id": 43,
             "nome": "Indolência - Oito De Copas",
-            "dados": "**Luz:** SAUDADE  \n**Sombra:** IMPLACABILIDADE\n\nPALAVRAS-CHAVE:\n- DEIXAR PRA TRÁS\n- SEGUIR\n- RETIRO\n- RESTAURAÇÃO EMOCIONAL\n- CHAMADO ESPIRITUAL\n- VIAGEM\n- ABANDONO"
+            "dados": "**LUZ:** SAUDADE  \n**SOMBRA:** IMPLACABILIDADE\n\nPALAVRAS-CHAVE:\n- DEIXAR PRA TRÁS\n- SEGUIR\n- RETIRO\n- RESTAURAÇÃO EMOCIONAL\n- CHAMADO ESPIRITUAL\n- VIAGEM\n- ABANDONO"
         },
         {
             "id": 44,
             "nome": "Felicidade - Nove De Copas",
-            "dados": "**Luz:** LUXO  \n**Sombra:** EXCESSO\n\nPALAVRAS-CHAVE:\n- SATISFAÇÃO EMOCIONAL\n- DESEJOS REALIZADOS\n- TEMPO BOM\n- INDULGÊNCIA\n- BANQUETE\n- MANiFESTAÇÃO\n- OSTENTAÇÃO\n- FELICIDADE \"PARA DAR E VENDER\"?"
+            "dados": "**LUZ:** LUXO  \n**SOMBRA:** EXCESSO\n\nPALAVRAS-CHAVE:\n- SATISFAÇÃO EMOCIONAL\n- DESEJOS REALIZADOS\n- TEMPO BOM\n- INDULGÊNCIA\n- BANQUETE\n- MANIFESTAÇÃO\n- OSTENTAÇÃO\n- FELICIDADE \"PARA DAR E VENDER\"?"
         },
         {
             "id": 45,
             "nome": "Saciedade - Dez De Copas",
-            "dados": "**Luz:** PLENITUDE  \n**Sombra:** ILUSÃO\n\nPALAVRAS-CHAVE:\n- PREENCHIMENTO EMOCIONAL\n- AMOR PARA COMPARTILHAR\n- ÊXTASE\n- LAR FELIZ\n- UNIÃO ABENÇOADA\n- IDEALIZAÇÃO\n- CRESCIMENTO FAMILIAR"
+            "dados": "**LUZ:** PLENITUDE  \n**SOMBRA:** ILUSÃO\n\nPALAVRAS-CHAVE:\n- PREENCHIMENTO EMOCIONAL\n- AMOR PARA COMPARTILHAR\n- ÊXTASE\n- LAR FELIZ\n- UNIÃO ABENÇOADA\n- IDEALIZAÇÃO\n- CRESCIMENTO FAMILIAR"
         },
         {
             "id": 46,
             "nome": "Cavaleiro De Copas",
-            "dados": "**Luz:** COMPOSTURA  \n**Sombra:** RIGIDEZ\n\nPALAVRAS-CHAVE:\n- FORÇA\n- EMOCIONAL\n- VALIDADOR\n- FIEL\n- CRÉDULO\n- RECONFORTANTE\n- ANTIQUADO\n- CONTROLE EMOCIONAL\n- COMPASSIVO\n- CONSELHEIRO "
+            "dados": "**LUZ:** COMPOSTURA  \n**SOMBRA:** RIGIDEZ\n\nPALAVRAS-CHAVE:\n- FORÇA\n- EMOCIONAL\n- VALIDADOR\n- FIEL\n- CRÉDULO\n- RECONFORTANTE\n- ANTIQUADO\n- CONTROLE EMOCIONAL\n- COMPASSIVO\n- CONSELHEIRO "
         },
         {
             "id": 47,
             "nome": "Rainha De Copas",
-            "dados": "**Luz:** EMPATIA  \n**Sombra:** PENA\n\nPALAVRAS-CHAVE:\n- SABEDORIA\n- SENSÍVEL\n- RECEPTIVA\n- AFETUOSA\n- VIRTUOSA\n- INTUITIVA\n- CONSELHEIRA\n- SONHADORA\n- EMOCIONAL"
+            "dados": "**LUZ:** EMPATIA  \n**SOMBRA:** PENA\n\nPALAVRAS-CHAVE:\n- SABEDORIA\n- SENSÍVEL\n- RECEPTIVA\n- AFETUOSA\n- VIRTUOSA\n- INTUITIVA\n- CONSELHEIRA\n- SONHADORA\n- EMOCIONAL"
         },
         {
             "id": 48,
             "nome": "Príncipe De Copas",
-            "dados": "**Luz:** ZELO  \n**Sombra:** INTOLERÂNCIA\n\nPALAVRAS-CHAVE:\n- BUSCADOR ESPIRITUAL\n- ATUANTE\n- IDEALISTA\n- ARTÍSTICO\n- POÉTICO\n- ENCANTADOR\n- SEDUÇÃO"
+            "dados": "**LUZ:** ZELO  \n**SOMBRA:** INTOLERÂNCIA\n\nPALAVRAS-CHAVE:\n- BUSCADOR ESPIRITUAL\n- ATUANTE\n- IDEALISTA\n- ARTÍSTICO\n- POÉTICO\n- ENCANTADOR\n- SEDUÇÃO"
         },
         {
             "id": 49,
             "nome": "Princesa De Copas",
-            "dados": "**Luz:** INTENSIDADE  \n**Sombra:** SUPERFICIALIDADE\n\nPALAVRAS-CHAVE:\n- ROMÂNTICO\n- INGÊNUO\n- SENSÍVEL\n- GENTIL\n- BRINCALHÃO\n- DOCE"
+            "dados": "**LUZ:** INTENSIDADE  \n**SOMBRA:** SUPERFICIALIDADE\n\nPALAVRAS-CHAVE:\n- ROMÂNTICO\n- INGÊNUO\n- SENSÍVEL\n- GENTIL\n- BRINCALHÃO\n- DOCE"
         },
         {
             "id": 50,
             "nome": "A Raiz Dos Poderes Do Ar - Ás De Espadas",
-            "dados": "**Luz:** OBJETIVIDADE  \n**Sombra:** ASTÚCIA\n\nPALAVRAS-CHAVE:\n- NOVA PERSPECTIVA\n- NOVOS PLANOS\n- FORÇA DE VONTADE\n- MENTE AFIADA\n- TOMAR DE DECISÕES\n- BUSCA DA VERDADE\n- CONFIANÇA"
+            "dados": "**LUZ:** OBJETIVIDADE  \n**SOMBRA:** ASTÚCIA\n\nPALAVRAS-CHAVE:\n- NOVA PERSPECTIVA\n- NOVOS PLANOS\n- FORÇA DE VONTADE\n- MENTE AFIADA\n- TOMAR DE DECISÕES\n- BUSCA DA VERDADE\n- CONFIANÇA"
         },
         {
             "id": 51,
             "nome": "Paz - Dois De Espadas",
-            "dados": "**Luz:** TRÉGUA  \n**Sombra:** IMPASSE\n\nPALAVRAS-CHAVE:\n- IMPARCIALIDADE\n- INDECISÃO\n- FECHAR-SE\n- IDEIAS CONFLITUOSAS\n- AMBIVALÊNCIA\n- PENSAR COM A CABEÇA"
+            "dados": "**LUZ:** TRÉGUA  \n**SOMBRA:** IMPASSE\n\nPALAVRAS-CHAVE:\n- IMPARCIALIDADE\n- INDECISÃO\n- FECHAR-SE\n- IDEIAS CONFLITUOSAS\n- AMBIVALÊNCIA\n- PENSAR COM A CABEÇA"
         },
         {
             "id": 52,
             "nome": "Dor - Três De Espadas",
-            "dados": "**Luz:** CLAREZA  \n**Sombra:** DESGOSTO\n\nPALAVRAS-CHAVE:\n- PERDA\n- SACRIFÍCIOS NECESSÁRIOS\n- TRAIÇÃO\n- MÁGOA\n- SEPARAÇÃO\n- SOFRIMENTO"
+            "dados": "**LUZ:** CLAREZA  \n**SOMBRA:** DESGOSTO\n\nPALAVRAS-CHAVE:\n- PERDA\n- SACRIFÍCIOS NECESSÁRIOS\n- TRAIÇÃO\n- MÁGOA\n- SEPARAÇÃO\n- SOFRIMENTO"
         },
         {
             "id": 53,
             "nome": "Trégua - Quatro De Espadas",
-            "dados": "**Luz:** MEDITAÇÃO  \n**Sombra:** PROCRASTINAÇÃO\n\nPALAVRAS-CHAVE:\n- DORMIR\n- PAUSA\n- RESTAURAÇÃO MENTAL\n- AUTO-REFLEXÃO\n- AVALIAÇÃO"
+            "dados": "**LUZ:** MEDITAÇÃO  \n**SOMBRA:** PROCRASTINAÇÃO\n\nPALAVRAS-CHAVE:\n- DORMIR\n- PAUSA\n- RESTAURAÇÃO MENTAL\n- AUTO-REFLEXÃO\n- AVALIAÇÃO"
         },
         {
             "id": 54,
             "nome": "Derrota - Cinco De Espadas",
-            "dados": "**Luz:** INDIVIDUALIDADE  \n**Sombra:** IRRACIONALIDADE\n\nPALAVRAS-CHAVE:\n- DESENTENDIMENTO\n- FALTA DE COMUNICAÇÃO\n- MENTE DISPERSA\n- AÇÕES DIVISIVAS\n- GANHAR VALE MESMO A PENA?"
+            "dados": "**LUZ:** INDIVIDUALIDADE  \n**SOMBRA:** IRRACIONALIDADE\n\nPALAVRAS-CHAVE:\n- DESENTENDIMENTO\n- FALTA DE COMUNICAÇÃO\n- MENTE DISPERSA\n- AÇÕES DIVISIVAS\n- GANHAR VALE MESMO A PENA?"
         },
         {
             "id": 55,
             "nome": "Ciência - Seis De Espadas",
-            "dados": "**Luz:** PERSPECTIVA  \n**Sombra:** VITIMIZAÇÃO\n\nPALAVRAS-CHAVE:\n- AFASTAR-SE\n- LUGAR DE CURA\n- RETIRO\n- TRANSIÇÃO\n- AMPLIAR VISÕES E HORIZONTES"
+            "dados": "**LUZ:** PERSPECTIVA  \n**SOMBRA:** VITIMIZAÇÃO\n\nPALAVRAS-CHAVE:\n- AFASTAR-SE\n- LUGAR DE CURA\n- RETIRO\n- TRANSIÇÃO\n- AMPLIAR VISÕES E HORIZONTES"
         },
         {
             "id": 56,
             "nome": "Futilidade - Sete De Espadas",
-            "dados": "**Luz:** JUSTIFICATIVA  \n**Sombra:** PRESUNÇÃO\n\nPALAVRAS-CHAVE:\n- ESTRATÉGIA\n- TESTES MENTAIS\n- ENGODO\n- JUNTAR DE INFORMAÇÕES\n- QUEBRA DE ACORDOS\n- DISSIMULAÇÃO"
+            "dados": "**LUZ:** JUSTIFICATIVA  \n**SOMBRA:** PRESUNÇÃO\n\nPALAVRAS-CHAVE:\n- ESTRATÉGIA\n- TESTES MENTAIS\n- ENGODO\n- JUNTAR DE INFORMAÇÕES\n- QUEBRA DE ACORDOS\n- DISSIMULAÇÃO"
         },
         {
             "id": 57,
             "nome": "Interferência - Oito De Espadas",
-            "dados": "**Luz:** LIMITES  \n**Sombra:** RESTRIÇÕES\n\nPALAVRAS-CHAVE:\n- DESAMPARO\n- OPÇÕES LIMITADAS\n- PENSAMENTOS RESTRITIVOS\n- DESCULPAS\n- MENTALIDADE DE VÍTIMA\n- AUTO-LIMITAÇÃO"
+            "dados": "**LUZ:** LIMITES  \n**SOMBRA:** RESTRIÇÕES\n\nPALAVRAS-CHAVE:\n- DESAMPARO\n- OPÇÕES LIMITADAS\n- PENSAMENTOS RESTRITIVOS\n- DESCULPAS\n- MENTALIDADE DE VÍTIMA\n- AUTO-LIMITAÇÃO"
         },
         {
             "id": 58,
             "nome": "Crueldade - Nove De Espadas",
-            "dados": "**Luz:** INSIGHT  \n**Sombra:** PREOCUPAÇÃO\n\nPALAVRAS-CHAVE:\n- TORMENTO MENTAL\n- INSÔNIA\n- DOENÇA\n- 'DESESPERO\n- DEPRESSÃO\n- A HORA MAIS ESCURA ANTES DO AMANHECER"
+            "dados": "**LUZ:** INSIGHT  \n**SOMBRA:** PREOCUPAÇÃO\n\nPALAVRAS-CHAVE:\n- TORMENTO MENTAL\n- INSÔNIA\n- DOENÇA\n- 'DESESPERO\n- DEPRESSÃO\n- A HORA MAIS ESCURA ANTES DO AMANHECER"
         },
         {
             "id": 59,
             "nome": "Ruína - Dez De Espadas",
-            "dados": "**Luz:** DESAPEGO  \n**Sombra:** DESTRUIÇÃO\n\nPALAVRAS-CHAVE:\n- FUNDO DO poço\n- ADMITIR FALHAS\n- DESISTIR\n- RENUNCIAR\n- AUTOPIEDADE\n- NENHUM CAMINHO A NÃO SER PARA"
+            "dados": "**LUZ:** DESAPEGO  \n**SOMBRA:** DESTRUIÇÃO\n\nPALAVRAS-CHAVE:\n- FUNDO DO POÇO\n- ADMITIR FALHAS\n- DESISTIR\n- RENUNCIAR\n- AUTOPIEDADE\n- NENHUM CAMINHO A NÃO SER PARA"
         },
         {
             "id": 60,
             "nome": "Cavaleiro De Espadas",
-            "dados": "**Luz:** SABEDORIA  \n**Sombra:** INTELECTUALISMO\n\nPALAVRAS-CHAVE:\n- JUIZ\n- INTENCIONAL\n- EFICIENTE\n- INTELIGENTE\n- LÓGICO\n- DECISIVO\n- JUSTO\n- CRÍTICO\n- REGRAS\n- BRUSCO"
+            "dados": "**LUZ:** SABEDORIA  \n**SOMBRA:** INTELECTUALISMO\n\nPALAVRAS-CHAVE:\n- JUIZ\n- INTENCIONAL\n- EFICIENTE\n- INTELIGENTE\n- LÓGICO\n- DECISIVO\n- JUSTO\n- CRÍTICO\n- REGRAS\n- BRUSCO"
         },
         {
             "id": 61,
             "nome": "Rainha De Espadas",
-            "dados": "**Luz:** PERCEPÇÃO  \n**Sombra:** PARANOIA\n\nPALAVRAS-CHAVE:\n- AUTO-CONSCIENTE\n- INTELIGENTE\n- HONESTA\n- JUSTA\n- AUTO-CONFIANTE\n- RESERVADA\n- SÁBIA\n- AUTO-DISCIPLINADA\n- PERFECCIONISTA\n- CRÍTICA\n- ANALÍTICA"
+            "dados": "**LUZ:** PERCEPÇÃO  \n**SOMBRA:** PARANOIA\n\nPALAVRAS-CHAVE:\n- AUTO-CONSCIENTE\n- INTELIGENTE\n- HONESTA\n- JUSTA\n- AUTO-CONFIANTE\n- RESERVADA\n- SÁBIA\n- AUTO-DISCIPLINADA\n- PERFECCIONISTA\n- CRÍTICA\n- ANALÍTICA"
         },
         {
             "id": 62,
             "nome": "Príncipe De Espadas",
-            "dados": "**Luz:** CONTUNDÊNCIA  \n**Sombra:** BRUSQUIDÃO\n\nPALAVRAS-CHAVE:\n- REVOLUCIONÁRIO\n- PENSAMENTO CRÍTICO\n- IMPACIENTE\n- BUSCADOR DA VERDADE\n- SABE-TUDO\n- FARISAICO (HIPÓCRITA)\n- EFICIÊNCIA"
+            "dados": "**LUZ:** CONTUNDÊNCIA  \n**SOMBRA:** BRUSQUIDÃO\n\nPALAVRAS-CHAVE:\n- REVOLUCIONÁRIO\n- PENSAMENTO CRÍTICO\n- IMPACIENTE\n- BUSCADOR DA VERDADE\n- SABE-TUDO\n- FARISAICO (HIPÓCRITA)\n- EFICIÊNCIA"
         },
         {
             "id": 63,
             "nome": "Princesa De Espadas",
-            "dados": "**Luz:** PRATICA  \n**Sombra:** PRETENSÃO\n\nPALAVRAS-CHAVE:\n- CONSCIENCIOSO\n- CURIOSO\n- IDEALISTA\n- EM GUARDA\n- ALERTA\n- FOCADO\n- OUSADO\n- APRENDER NOVAS HABILIDADE"
+            "dados": "**LUZ:** PRATICA  \n**SOMBRA:** PRETENSÃO\n\nPALAVRAS-CHAVE:\n- CONSCIENCIOSO\n- CURIOSO\n- IDEALISTA\n- EM GUARDA\n- ALERTA\n- FOCADO\n- OUSADO\n- APRENDER NOVAS HABILIDADE"
         },
         {
             "id": 64,
             "nome": "A Raiz Dos Poderes Da Terra - Ás De Discos",
-            "dados": "**Luz:** BÊNÇÃO  \n**Sombra:** OBRIGAÇÃO\nPALAVRAS-CHAVE:\n- OPORTUNIDADE\n- SEMENTE\n- DOM\n- DINHEIRO\n- NOVA RESPONSABILIDADE\n- NOVOS RECURSOS\n- SAÚDE"
+            "dados": "**LUZ:** BÊNÇÃO  \n**SOMBRA:** OBRIGAÇÃO\nPALAVRAS-CHAVE:\n- OPORTUNIDADE\n- SEMENTE\n- DOM\n- DINHEIRO\n- NOVA RESPONSABILIDADE\n- NOVOS RECURSOS\n- SAÚDE"
         },
         {
             "id": 65,
             "nome": "Mudança - Dois De Discos",
-            "dados": "**Luz:** COMPARAÇÃO  \n**Sombra:** DELIBERAÇÃO\n\nPALAVRAS-CHAVE:\n- MALABARISMO\n- MANTER-SE OCUPADO\n- ADAPTAÇÃO\n- ORGANIZAÇÃO\n- VIAJAR SE PRECISO"
+            "dados": "**LUZ:** COMPARAÇÃO  \n**SOMBRA:** DELIBERAÇÃO\n\nPALAVRAS-CHAVE:\n- MALABARISMO\n- MANTER-SE OCUPADO\n- ADAPTAÇÃO\n- ORGANIZAÇÃO\n- VIAJAR SE PRECISO"
         },
         {
             "id": 66,
             "nome": "Trabalho - Três De Discos",
-            "dados": "**Luz:** REALIZAÇÃO  \n**Sombra:** DISCREPÂNCIA\n\nPALAVRAS-CHAVE:\n- ASSISTÊNCIA\n- CONTRIBUIÇÃO\n- TRABALHO EM EQUIPE\n- APRENDIZADO\n- EMPREGO\n- COMPROMISSO"
+            "dados": "**LUZ:** REALIZAÇÃO  \n**SOMBRA:** DISCREPÂNCIA\n\nPALAVRAS-CHAVE:\n- ASSISTÊNCIA\n- CONTRIBUIÇÃO\n- TRABALHO EM EQUIPE\n- APRENDIZADO\n- EMPREGO\n- COMPROMISSO"
         },
         {
             "id": 67,
             "nome": "Poder - Quatro De Discos",
-            "dados": "**Luz:** CONSERVAÇÃO  \n**Sombra:** GANÂNCIA\n\nPALAVRAS-CHAVE:\n- POSSE\n- PROTECIONISMO\n- APEGO\n- ESTAGNAÇÃO\n- SEGURANÇA\n- PREOCUPAÇÃO\n- GUARDAR RECURSOS"
+            "dados": "**LUZ:** CONSERVAÇÃO  \n**SOMBRA:** GANÂNCIA\n\nPALAVRAS-CHAVE:\n- POSSE\n- PROTECIONISMO\n- APEGO\n- ESTAGNAÇÃO\n- SEGURANÇA\n- PREOCUPAÇÃO\n- GUARDAR RECURSOS"
         },
         {
             "id": 68,
             "nome": "Preocupação - Cinco De Discos",
-            "dados": "**Luz:** NECESSIDADE  \n**Sombra:** POBREZA\n\nPALAVRAS-CHAVE:\n- ALIENAÇÃO\n- DOENÇA\n- PERDAS\n- AUSTERIDADE\n- ASCETISMO\n- AMIGOS DE VERDADE"
+            "dados": "**LUZ:** NECESSIDADE  \n**SOMBRA:** POBREZA\n\nPALAVRAS-CHAVE:\n- ALIENAÇÃO\n- DOENÇA\n- PERDAS\n- AUSTERIDADE\n- ASCETISMO\n- AMIGOS DE VERDADE"
         },
         {
             "id": 69,
             "nome": "Sucesso - Seis De Discos",
-            "dados": "**Luz:** GENEROSIDADE  \n**Sombra:** MANIPULAÇÃO\n\nPALAVRAS-CHAVE:\n- TROCA\n- CARIDADE\n- EMPRÉSTIMOS\n- DEPENDÊNCIA\n- DEVOLVER\n- GRATIDÃO"
+            "dados": "**LUZ:** GENEROSIDADE  \n**SOMBRA:** MANIPULAÇÃO\n\nPALAVRAS-CHAVE:\n- TROCA\n- CARIDADE\n- EMPRÉSTIMOS\n- DEPENDÊNCIA\n- DEVOLVER\n- GRATIDÃO"
         },
         {
             "id": 70,
             "nome": "Fracasso - Sete De Discos",
-            "dados": "**Luz:** REAVALIAÇÃO  \n**Sombra:** MELANCOLIA\n\nPALAVRAS-CHAVE:\n- AVALIAÇÃO\n- PACIÊNCIA\n- PROGRESSO LENTO\n- APRENDER COM A EXPERIÊNCIA\n- COMPETÊNCIA\n- HORA CERTA DE COLHER"
+            "dados": "**LUZ:** REAVALIAÇÃO  \n**SOMBRA:** MELANCOLIA\n\nPALAVRAS-CHAVE:\n- AVALIAÇÃO\n- PACIÊNCIA\n- PROGRESSO LENTO\n- APRENDER COM A EXPERIÊNCIA\n- COMPETÊNCIA\n- HORA CERTA DE COLHER"
         },
         {
             "id": 71,
             "nome": "Prudência - Oito De Discos",
-            "dados": "**Luz:** LABORIOSIDADE  \n**Sombra:** COMPLACÊNCIA\n\nPALAVRAS-CHAVE:\n- AFINAÇÃO\n- APERFEIÇOAMENTO\n- MANUTENÇÃO\n- TRABALHO DURO\n- PRÁTICA\n- REPETIÇÃO"
+            "dados": "**LUZ:** LABORIOSIDADE  \n**SOMBRA:** COMPLACÊNCIA\n\nPALAVRAS-CHAVE:\n- AFINAÇÃO\n- APERFEIÇOAMENTO\n- MANUTENÇÃO\n- TRABALHO DURO\n- PRÁTICA\n- REPETIÇÃO"
         },
         {
             "id": 72,
             "nome": "Ganho - Nove De Discos",
-            "dados": "**Luz:** DISCIPLINA  \n**Sombra:** EXCESSO DE CONFIANÇA\n\nPALAVRAS-CHAVE:\n- RECOMPENSAS MERECIDAS\n- INDEPENDÊNCIA\n- PRAZER\n- LUXo\n- FRUTOS DO TRABALHO\n- AUTORREALIZAÇÃO"
+            "dados": "**LUZ:** DISCIPLINA  \n**SOMBRA:** EXCESSO DE CONFIANÇA\n\nPALAVRAS-CHAVE:\n- RECOMPENSAS MERECIDAS\n- INDEPENDÊNCIA\n- PRAZER\n- LUXO\n- FRUTOS DO TRABALHO\n- AUTORREALIZAÇÃO"
         },
         {
             "id": 73,
             "nome": "Riqueza - Dez De Discos",
-            "dados": "**Luz:** ABUNDANCIA  \n**Sombra:** EXTRAVAGÂNCIA\n\nPALAVRAS-CHAVE:\n- CONTINUIDADE\n- TRADIÇÃO\n- FORTUNA\n- LEGADO\n- ANCESTRALIDADE\n- FAMÍLIA\n- SEGURANÇA\n- RESPONSABILIDADE"
+            "dados": "**LUZ:** ABUNDANCIA  \n**SOMBRA:** EXTRAVAGÂNCIA\n\nPALAVRAS-CHAVE:\n- CONTINUIDADE\n- TRADIÇÃO\n- FORTUNA\n- LEGADO\n- ANCESTRALIDADE\n- FAMÍLIA\n- SEGURANÇA\n- RESPONSABILIDADE"
         },
         {
             "id": 74,
             "nome": "Cavaleiro De Discos",
-            "dados": "**Luz:** AQUISIÇÃO  \n**Sombra:** POSSE\n\nPALAVRAS-CHAVE:\n- LEAL\n- PESSOA DE NEGÓCIOS\n- AMANTE DO PRAZER\n- CONSERVADOR\n- PROVEDOR\n- POSSUIDOR\n- GESTOR"
+            "dados": "**LUZ:** AQUISIÇÃO  \n**SOMBRA:** POSSE\n\nPALAVRAS-CHAVE:\n- LEAL\n- PESSOA DE NEGÓCIOS\n- AMANTE DO PRAZER\n- CONSERVADOR\n- PROVEDOR\n- POSSUIDOR\n- GESTOR"
         },
         {
             "id": 75,
             "nome": "Rainha De Discos",
-            "dados": "**Luz:** CONSOLO  \n**Sombra:** PREGUIÇA\n\nPALAVRAS-CHAVE:\n- EDUCADORA\n- CURA\n- ECOLÓGICA\n- PROTETORA\n- HOSPITALEIRA\n- SAUDÁVEL\n- APOIADORA\n- PRÁTICA\n- COM PRINCÍPIOS\n- CALMA"
+            "dados": "**LUZ:** CONSOLO  \n**SOMBRA:** PREGUIÇA\n\nPALAVRAS-CHAVE:\n- EDUCADORA\n- CURA\n- ECOLÓGICA\n- PROTETORA\n- HOSPITALEIRA\n- SAUDÁVEL\n- APOIADORA\n- PRÁTICA\n- COM PRINCÍPIOS\n- CALMA"
         },
         {
             "id": 76,
             "nome": "Príncipe De Discos",
-            "dados": "**Luz:** PRAGMATISMO  \n**Sombra:** POSSE\n\nPALAVRAS-CHAVE:\n- CONFIÁVEL\n- ÚTIL\n- PERSISTÊNCIA\n- SENSUAL\n- CUIDADOSO\n- TEIMOSO\n- CAPAZ"
+            "dados": "**LUZ:** PRAGMATISMO  \n**SOMBRA:** POSSE\n\nPALAVRAS-CHAVE:\n- CONFIÁVEL\n- ÚTIL\n- PERSISTÊNCIA\n- SENSUAL\n- CUIDADOSO\n- TEIMOSO\n- CAPAZ"
         },
         {
             "id": 77,
             "nome": "Princesa De Discos",
-            "dados": "**Luz:** CAUTELOSO  \n**Sombra:** DESCUIDADO\n\nPALAVRAS-CHAVE:\n- ESTUDANTE\n- PRAGMÁTICO\n- COLECIONADOR\n- ESTÁVEL\n- FIRME\n- CONFIÁVEL"
+            "dados": "**LUZ:** CAUTELOSO  \n**SOMBRA:** DESCUIDADO\n\nPALAVRAS-CHAVE:\n- ESTUDANTE\n- PRAGMÁTICO\n- COLECIONADOR\n- ESTÁVEL\n- FIRME\n- CONFIÁVEL"
         }
     ],
     "Tarot Templo Vivente - Frater Goya": [
