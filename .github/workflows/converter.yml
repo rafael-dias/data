@@ -25,11 +25,11 @@ jobs:
      - name: Converter
        run: |
          python convert.py
-         git config --local user.name "GitHub Action"
-         git config --local user.email "action@github.com"
-         git checkout -B main
-         git add .
-         git commit -m "api gerada"
-         git push
+        #  git config --local user.name "GitHub Action"
+        #  git config --local user.email "action@github.com"
+        #  git checkout -B main
+        #  git add .
+        #  git commit -m "api gerada"
+        #  git push
        
    
