@@ -15,7 +15,8 @@ Nesta posição os Amantes, por falta, ilustram um padrão de conduta resultado 
 
 **Relacionamentos:**
 
- a) O relacionamento de maneiras agradáveis ou não empurra a pessoa a identificar e desenvolver suas polaridades internas, favorecendo assim o fluir em suas relações, a eliminar dependências, apegos, exigências e auto exigências, e perceber qual é a vida que tem tudo a ver com ela e a fazer as escolhas correspondentes. b) Vende a imagem da esposa ou marido modelo que sonhando com casamento está disposto/a a qualquer coisa para escutar a marcha nupcial. Se já casou continua aferrando-se a essa imagem esperando ser reconhecido/a pelo seu parceiro/a. Existe então um excesso de fantasias. Conhece alguém e fica imaginando a viagem de lua de mel. 
+ a) O relacionamento de maneiras agradáveis ou não empurra a pessoa a identificar e desenvolver suas polaridades internas, favorecendo assim o fluir em suas relações, a eliminar dependências, apegos, exigências e auto exigências, e perceber qual é a vida que tem tudo a ver com ela e a fazer as escolhas correspondentes.
+ b) Vende a imagem da esposa ou marido modelo que sonhando com casamento está disposto/a a qualquer coisa para escutar a marcha nupcial. Se já casou continua aferrando-se a essa imagem esperando ser reconhecido/a pelo seu parceiro/a. Existe então um excesso de fantasias. Conhece alguém e fica imaginando a viagem de lua de mel. 
 
 
 **Voz da Essência e Método:**
