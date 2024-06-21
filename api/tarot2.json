@@ -1,6 +1,6 @@
 [
     {
-        "id": 0,
+        "id": 5,
         "ordem": "0",
         "livro": "Tarot Solar",
         "autor": "Aton Gondim",
@@ -398,7 +398,7 @@
         ]
     },
     {
-        "id": 1,
+        "id": 4,
         "ordem": "1",
         "livro": "Tarot Terapeutico",
         "autor": "Veet Pramad",
@@ -796,7 +796,7 @@
         ]
     },
     {
-        "id": 2,
+        "id": 0,
         "ordem": "2",
         "livro": "Guia para o tarot de thoth",
         "autor": "Johann Heyss",
@@ -1194,7 +1194,7 @@
         ]
     },
     {
-        "id": 3,
+        "id": 1,
         "ordem": "3",
         "livro": "Tarot Templo Vivente",
         "autor": "Frater Goya",
@@ -1592,7 +1592,7 @@
         ]
     },
     {
-        "id": 4,
+        "id": 2,
         "ordem": "4",
         "livro": "Tarot Cabalistico",
         "autor": "Robert Wang",
@@ -1990,7 +1990,7 @@
         ]
     },
     {
-        "id": 5,
+        "id": 3,
         "ordem": "5",
         "livro": "Tarot Hermetico",
         "autor": "Marcelo Del Debbio",
