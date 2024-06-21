@@ -1,12 +1,1 @@
-`Acidentes` `Acontecimento Imprevisível` `Aflição` `Brigas` `Compreensão
-súbita` `Conflito` `Crise` `Crise conjugal` `Demissão` `Demonstração de força`
-`Desgaste Desilusão` `Desmoronamentos` `Destruição` `Dificuldades de maneira
-geral` `Discussões` `Explosão de sentimentos` `Falência` `Fragilidade` `Golpe
-do destino` `Iluminação` `Incapacidade` `Insegurança` `Libertação` `Mudança
-brusca` `Mudança radical` `Mudança súbita e Má` `O caos que precede o
-recomeço` `Perdas` `Perigo` `Possibilidade de demissão` `Queda` `Reconhecer
-suas próprias ideias fixas e romper com noções ultrapassadas` `Reconstrução`
-`Reestruturação` `Reformas` `Romper com amarras limitantes` `Rompimento de um
-vínculo limitante` `Ruína` `Ruptura` `Separação` `Separação repentina`
-`Tempestades purificadoras no relacionamento` `Terremoto` `Transformação.`
-
+`Acidentes` `Acontecimento Imprevisível` `Aflição` `Brigas` `Compreensão súbita` `Conflito` `Crise` `Crise conjugal` `Demissão` `Demonstração de força` `Desgaste Desilusão` `Desmoronamentos` `Destruição` `Dificuldades de maneira geral` `Discussões` `Explosão de sentimentos` `Falência` `Fragilidade` `Golpe do destino` `Iluminação` `Incapacidade` `Insegurança` `Libertação` `Mudança brusca` `Mudança radical` `Mudança súbita e Má` `O caos que precede o recomeço` `Perdas` `Perigo` `Possibilidade de demissão` `Queda` `Reconhecer suas próprias ideias fixas e romper com noções ultrapassadas` `Reconstrução` `Reestruturação` `Reformas` `Romper com amarras limitantes` `Rompimento de um vínculo limitante` `Ruína` `Ruptura` `Separação` `Separação repentina` `Tempestades purificadoras no relacionamento` `Terremoto` `Transformação.`  
