@@ -1,0 +1,32 @@
+`Futilidade` `Pensamentos em Futilidades` `Querer algo e crer não poder tê-lo`
+`Uma sensação de resignação, desistência` `Existe o desejo e a possibilidade
+de sair desta sensação de futilidade` `Criar Problemas Para Si Mesmo` `Criar
+problema por assumir sentimentos de culpa ou ressentimentos` `O Senhor da
+Futilidade` `Lua em Aquário` `Há vacilação, um desejo de conciliar, uma certa
+tolerância` `Esta carta sugere a política de apaziguamento, uma luta entre os
+muito fracos e o único forte, um esforço vão` `Muitas Línguas` `Uma sensação
+de futilidade` `Caminhos demais a serem seguidos, como ouvir ou falar várias
+línguas diferentes ao mesmo tempo` `Perda de Tempo` `Flexibilidade Mental`
+`Experimentar com programação, estilo de vida, rotina, crenças, ou
+comunicação` `Esperteza e astúcia com capacidade para criar planos e
+estratagemas` `Pesquisa` `coletar o conhecimento e as ideias dos outros`
+`Preparação` `Mentir e espreitar` `Evitar confronto` `Estratégia mental` `A
+mente cria um plano para conseguir o que quer` `Esquemas e ações que não
+solucionam coisa alguma, talvez uma sensação de isolamento` `Esperteza em
+conjunto com a ocultação de suas verdadeiras intenções` `Ou agir para tentar
+obter auxílio ou conselhos de outros` `A necessidade de prudência e evasão
+para alcançar um objetivo, É o momento de usar o cérebro, e não músculos` `Se
+a carta estiver mal colocada, pode indicar uma fuga de uma ação desonrosa`
+`Desonestidade` `Com frequência quer dizer enganar a si mesmo, quando a mente
+não quer enxergar a verdade e há uma ruptura das emoções` `Perder tempo e
+energia com bobagens` `Em termos mais gerais, uma carta de movimento complexo,
+uma força essencial de inspiração e ruptura que origina a tensão do poder a
+ser utilizado com criatividade` `Planejamento, tentativa, desejo, esperança,
+confiança` `pode ser também discussão, um plano que pode falhar, irritação`
+`Oposição` `Estar na ponta da espada` `Discussões, dificuldades, e
+impedimentos ao movimento` `Tédio` `Estabilidade mental em meio ao grande
+movimento` `Descanso ou tédio mental` `Dar a mente a oportunidade de
+reagrupar-se e renovar-se` `Evitar Confronto` `Táticas de evasão e ocultação`
+`Planos e ideias novos estão sendo semeados na mente, mas ainda não está claro
+como chegar a completá-los`
+

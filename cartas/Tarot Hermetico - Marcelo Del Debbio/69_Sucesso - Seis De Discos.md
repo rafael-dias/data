@@ -1,0 +1,35 @@
+`Justiça` `Cada um receberá o que merece` `Sucesso Físico` `Realização` `O
+desejo profundo de ser bem sucedido em algum empreendimento externo` `Sucesso,
+realização em todos os aspectos da vida pela vontade de arriscar-se, pelo
+comprometimento, e por confiar na intuição` `Ter que Dar` `Pela Lei do Carma
+você está sendo obrigado a dar neste momento` `Receberá de volta mais tarde`
+`O Senhor do Sucesso` `Lua em Touro` `O estabelecimento pleno e harmonioso da
+Energia da Terra` `Esta é uma carta de acomodação, falta total de imaginação e
+um tanto sonhador` `O peso da Terra, em última instância, trará a mera
+resolução das coisas materiais, a mudança virá em breve` `Porém, por ora,
+existe um sistema equilibrado` `Beleza` `O Caminho da Beleza` `Sentir a
+alegria de dar` `Sarar através da busca da beleza` `O estabelecimento
+harmónico e equilibrado da energia material oriunda de uma consciência
+elevada` `Um Ciclo Físico Previsível` `Renda ou segurança constante e
+previsível` `O dom do sucesso nos relacionamentos, conseguido através do
+compartilhamento dos recursos` `Tirar aquilo que é necessário` `Sensibilidade
+às necessidades dos outros` `Uma troca de energia` `Pode ser uma co-
+dependência` `Ser pago justamente por aquilo que fez` `Generosidade, ter mais
+do que o suficiente, compartilhar a saúde e a boa sorte` `Compartilhar,
+generosidade, caridade` `Um relacionamento onde uma das pessoas domina outras`
+`Dar às pessoas aquilo que elas são capazes de receber` `Sugere que dinheiro
+devido será pago` `receber o que seu por direito` `Pode ser auxílio financeiro
+vindo de um amigo generoso ou do empregador, questões financeiras colocadas
+num patamar mais estável` `Também sugere que a prosperidade atual deva ser
+compartilhada com outros` `Benefício` `A Harmonia da Terra ou a Bela Terra`
+`Uma força de cura e redenção Um benefício muitas vezes através da forma,
+padrão, ou formato que não é uma estrutura rígida, mas beleza, fluxo, e forma
+viva na qual se encontra os padrões de fluxo elementares` `Presentes, dádivas,
+gratificação` `Atenção, vigilância` `Agora é a hora aceita` `Prosperidade no
+presente` `Auxílio vindo de alguém, ganhos materiais, mas com uma advertència
+contra o gasto excessivo dos recursos devido à generosidade mal dirigida`
+`Sinergia` `A capacidade de reunir recursos para criar uma aliança entre poder
+e sucesso` `Reunir seus próprios recursos ou os dos outros` `Sucesso`
+`Constância na realização` `Ter saúde, energia física ou recursos próprios
+suficientes para poder incluir os outros`
+

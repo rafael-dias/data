@@ -1,0 +1,39 @@
+`O Protetor` `A Grávida` `Questões relativas à maternidade e à gravidez` `Pode
+também ser o nascimento de ideias, projetos, identidade e aspectos de si
+mesmo` `Demasiadamente Absorto em Algo` `Esta pessoa está por demais absorta
+em uma ideia, situação ou emoção e, portanto, não tem prazer naquilo que o
+cerca` `Terra de Terra` `O limiar da transfiguração` `Forte e bonita` `A
+feminilidade em sua projeção máxima, contendo todas as características de
+mulher, e depende totalmente das influências às quais ela está sujeita para
+que uma ou outra característica se manifeste` `Revelação` `Equilíbrio completo
+e sucesso total. O limiar da transformação` `Algo de novo está por vir,
+resultado da conclusão de um ciclo, e o presente está impregnado com o segredo
+do futuro` `Renovação do seu comprometimento com uma base de segurança que
+estava estagnada, ou arriscar algo que, no passado, estava em segurança`
+`Aberta ao conhecimento, i experiência e habilidades novas` `A procura da
+visão` `Busca na terra a direção` `Avalia valores` `Força pura e elementar da
+terra a personalidade buscando seu próprio nome através de orações solitárias
+e jejum` `Um tempo de solidão e de aprender a confiar na sabedoria do corpo e
+dos instintos` `O estudante perdido nos estudos, prestando pouca atenção a
+qualquer coisa além dos mesmos` `Trabalho real, estudo e erudição` `Alguém que
+se aproxima de qualquer atividade com essas qualidades de envolvimento e
+fascinação` `Uma criança ou jovem que tem respeito pelas coisas materiais e
+leva a sério o aprendizado de ideias novas` `Cuidadosa, trabalhadora e
+diligente, apesar de ser, às vezes, um pouco solene` `No caso de um evento,
+com frequência significa uma oportunidade de ganhar dinheiro, geralmente
+começando de baixo mas com bastante promessa de futuro` `Ameno` `Uma criança
+ou jovem que pode ser moldado ou desenvolvido` `Crianças diretas, sem
+complicações, que espelham as próprias circunstâncias e os outros que o
+cercam` `O ser com potencial imenso resultante. da mente e da alma
+impressionáveis e, assim, será de grande influència quando ele ou ela surgir
+na primavera` `Um jovem sombrio` `um jovem oficial ou soldado` `uma criança`
+`Aplicação, estudo, erudito, reflexão, notícias, mensagens, e aquele que as
+traz` `também domínio e administração` `Nimue, Nemesis e a companheira de
+Merlin. Uma divindade das druidas que, de acordo com os mitos antigos, ensinou
+magia a Merlin` `Concentração, desejo de aprender, e aplicação nas pesquisas
+acadêmicas` `O Jogador` `Domínio do Começo e do Retrocesso` `O interior lúdico
+da criança que cria com fantasia, imaginação e devaneios` `Sensibilidade
+Introvertida com Sentimento (ISF)` `O Aluno` `A necessidade de estabelecer a
+segurança, talvez através dos estudos e da introspecção` `Traz mensagens
+relativas à saúde, ao dinheiro, ao trabalho ou aos estudos`
+

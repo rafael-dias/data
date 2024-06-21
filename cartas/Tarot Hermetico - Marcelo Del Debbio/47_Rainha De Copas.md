@@ -1,0 +1,42 @@
+`O Compositor` `Mulher madura e apaixonada` `O Refletor do Emocional` `O
+arquétipo de Mãe amorosa` `Atribui poder a um individuo para expressar
+sentimentos de forma honesta e responsável sem culpas nem julgamentos` `Pode
+representar questões ligadas à maternidade` `Imaginação em Demasia` `Esta
+pessoa imagina muitas coisas sobre sua vida mas não faz nada para apossar-se
+delas nem solucioná-las` `Água de Água, com o poder da Água de receber e
+refletir` `Sonhadora, possuidora de extrema pureza e beleza, tranquila,
+paciente e, muitas vezes, extremamente popular` `Ver a sua verdade é quase
+impossível, pois ela reflete a natureza de quem a observa com grande
+perfeição` `A Fechadura` `Pureza e beleza extremas em sua forma mais sutil, a
+tranquilidade bruxulcante, consequência das emoções que perduram ao longo do
+tempo` `Um sentimento de amor e apoio maternal que é estável e alimenta`
+`Maturidade Emocional ou Intuitiva` `Sentir interações interpessoais e emoções
+evoluidas e desenvolvidas ou capacidades psíquicas/intuitivas` `Amor do Amor`
+`Canaliza sentimentos, emoções, sonhos, visões` `Empatia e compreensão
+incomuns, mas pode ser temperamental e de humores instáveis` `Pessoa que nutre
+ou abafa emoções` `Canaliza sentimentos e emoções, desejos, sonhos e visões
+interiores` `A pessoa que inspira a partir do seu interior` `Um tempo de
+ruminação interna, os pensamentos focados para o interior, e a mente tragada
+pelo poder da imaginação` `A carta de Taças mais bem sucedida e equilibrada`
+`Junta a consciència ao sentimento` `A possibilidade de mesclar imaginação e
+ação, criatividade e utilidade social` `Uma pessoa que alcançou um grau de
+compreensão de sua profundidade emocional e vive em grande medida no reino da
+fantasia e da imaginação` `Pessoa altamente artistica e criativa, até mesmo
+mística ou profética` `Amorosa` `Uma mulher madura com profundos poderes
+sexuais e de fertilidade, o que pode manifestar-se como maternidade ou um tipo
+de trabalho criativo` `Tudo em sua vida está relacionado à nutrição, as trocas
+sexuais, dar e receber, sentir, paixão` `Muitas das Rainhas dÁgua tornam-se
+espiritualmente dedicadas, ou tornam-se a mãe de uma família extensa, a avó no
+sentido espiritual e físico` `Mulher devotada que auxiliará o consulente`
+`inteligência amorosa e, portanto, o dom da visão` `Sucesso, felicidade,
+prazer, também sabedoria, virtude, a esposa perfeita e boa mãe` `Às vezes
+denota uma mulher de caráter duvidoso` `Durga, a Inacessível, que era
+inacessível aos homens. Também Virginal a Rainha de Gelo, uma fada divina das
+altas montanhas, e no Cristianismo a Virgem Rainha dos Céus` `Uma pessoa
+etérea, do outro mundo, com ideias das mais elevadas, talvez intangivelmente
+elevadas` `Aquele que se Regozija` `Domínio do Equilíbrio e do Amor, Sente e
+expressa a alegria da vida, permitindo que o amor pela vida flua` `Sentimentos
+Introvertidos com Sensibilidade. (ISFP)` `Ouvinte` `A efígie dágua, sem
+necessidade de reconhecimento ou confirmação, é a tela perfeita para as
+projeções dos outros.`
+

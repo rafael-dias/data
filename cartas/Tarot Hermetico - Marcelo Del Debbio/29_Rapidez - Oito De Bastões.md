@@ -1,0 +1,24 @@
+`Hora de defender o seu ponto de vista` `Prepare-se para a batalha` `Preste
+atenção aos inimigos próximos` `Coragem Espiritual` `Bravura` `Surgimento de
+coragem individual, a vontade de assumir riscos em prol do crescimento
+espiritual` `Necessidade de ter mais confiança em si mesmo e em suas ideias`
+`O estímulo da energia espiritual, todos desejando uma saída criativa` `O
+Senhor do Valor` `Marte em Leão` `Desenvolver forças e uma sensação de
+autoconfiança que continuará a crescer se você tiver a coragem de manter suas
+convicções` `Experimentar Papéis Diferentes` `Explorar novos aspectos de si
+mesmo` `A necessidade de se restar de provar-se contra os concorrentes`
+`Enfrentar uma situação e manter a postura` `Firmeza frente à oposição`
+`Responsabilidade` `Estar completamente só e confiar em si mesmo para saber
+como lidar com as mais difíceis situações` `Conflito emocionante`
+`Determinação e valor profundos` `Uma mudança bem-sucedida de projeto,
+Capacidade` `Fogo Vitorioso e Triunfo da Iluminação` `Fusão da intenção e dos
+sentimentos` `Valor` `No plano intelectual, significa discussão e luta verbal`
+`Nos negócios, negociações, guerra comercial, escambo, concorrência` `Uma
+carta de sucesso como combatente por cima onde seus inimigos não conseguem
+atingi-lo` `Desafio` `Assegurar a vitória contra os desafios` `A coragem para
+enfrentar e estudar seus medos` `Onde há medo, há coragem` `Os resultados dos
+esforços feitos ainda não são visíveis` `Uma vitória certa ontem, hoje já pode
+não mais estar tão certa assim` `Cuidado com traidores` `Nos Negócios
+representa um momento de se preocupar com pessoas próximas ou dentro` `No Amor
+representa o momento de expor tudo aquilo que você está pensando de verdade`
+

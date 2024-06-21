@@ -1,0 +1,21 @@
+`Uma pausa durante o crescimento na qual as sementes de um novo crescer e de
+um caminho melhor, mais recompensador, serão descobertas` `Utilizar a
+sabedoria e a compreensão para fazer aquilo que é certo` `Experiència Fisica`
+`Experiencias com dinheiro, recursos materiais, ou com o corpo` `Explorar
+modos de sentir-se centrado, seguro e com os pés na terra` `Não importa o que
+se faça, existe um certo momento em que é preciso esperar pelos resultados`
+`Demora` `Avaliar os resultados de seus esforços` `Observar os ciclos e
+processos` `Paciencia` `Crescimento e espera` `A mensagem desta carta é`
+`Tenha paciência, não há nada a fazer, a não ser esperar` `Não há maneira de
+apressar este nascimento, não há, certamente, um modo de ver por dentro` `O
+momento de poder olhar para trás com satisfação para aquilo que já foi
+conseguido` `Uma falta de satisfação disseminada que vem de empregos ou
+compromissos insatisfatórios` `Uma pausa durante o desenvolvimento de um
+empreendimento ou de um negócio` `Avaliar o que foi conseguido e aquilo que
+ainda precisa ser feito` `Derrota` `Bloqueio profundo, esperanças enganadas,
+ansiedade auto-induzida, perda da capacidade de inspirar` `Ultrapassagem`
+`Ultrapassar os bloqueios que impediam de atingir as metas e aspirações`
+`Liberação de talentos e recursos` `Espera` `Demora` `Incapacidade de agir
+fisicamente` `Este é um bom momento de fazer algo enquanto se espera como
+praticar seu passatempo favorito, refletir, ou pôr em dia as coisas de casa.`
+

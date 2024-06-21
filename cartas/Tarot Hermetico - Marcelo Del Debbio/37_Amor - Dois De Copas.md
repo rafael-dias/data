@@ -1,0 +1,33 @@
+`Flerte` `Amor` `Relacionamento Amoroso Profundo` `Um amor profundo, muito
+significativo na vida de alguém, um relacionamento com outra pessoa ou em
+direção a alguma forma de criatividade` `Comunicação com o outro` `Há um
+desejo de sentir plenamente e estar aberto a esse amor nesse momento`
+`Comunicação amorosa` `O Senhor do Amor` `Vênus em Câncer` `Os dois sempre
+representam a Palavra e a Vontade` `É a primeira manifestação do amor ao
+outro, como tal, esta carta se refere ao Amor que recupera a unidade da
+divisão pela aniquilação mútua` `O Amor subordinado à Vontade` `A harmonia
+entre masculino e feminino interpretada no sentido mais amplo` `Cordão
+Sagrado` `A fusão alegre dos opostos, Um grande sentimento de ligação e
+contentamento` `Receber apenas da forma como você é recebido` `Validar um
+Sentimento` `Escolher um sentimento ou relacionamento, ou validar uma
+experiência psíquica ou intuitiva` `Compaixão e resposta carinhosa` `Uma união
+amorosa e curativa de opostos` `O consciente e o inconsciente trabalhando
+juntos para que os aparentes opostos sejam reconciliados` `O empurrão da força
+de atração sobre o nível inconsciente das emoções` `A união resultante da
+fusão de desejos inconscientes com amor consciente do coração` `A garantia da
+amizade, o começo de um caso de amor` `A ligação da ação e do espírito` `O
+começo de um romance ou amizade bem equilibrada` `Ideias geradas entre dois
+parceiros com harmonia e cooperação` `Um compromisso de romance ou amizade`
+`Reconciliação de opostos ou resolução de discussões e disputas` `Liberdade`
+`A Sabedoria do Amor, Um princípio tranquilo` `Uma sensação de liberação, de
+liberdade` `O amor liberta a alma para suas origens espirituais` `Amor,
+paixão, amizade, afinidade, união, concórdia, solidariedade, o inter-
+relacionamento dos sexos, e como uma sugestão separada de todos os oficios da
+divindade aquele desejo que não está na Natureza, mas pelo qual a Natureza é
+santificada` `Arcano favorável nas coisas do prazer e nos negócios, assim como
+no amor, também na saúde e na honra` `Romance` `Confiança, solidariedade,
+realização de desejos` `Votos, promessas, compromissos, casamentos e amizade
+íntima` `Todas as permutas de parceria ativa` `Equilíbrio` `Estabilidade
+emocional e auto-suficiência` `O fluxo equilibrado de vitalidade emocional`
+`Paz interior` `A fusão de amante e amado` `A Síntese entre dois pólos.`
+

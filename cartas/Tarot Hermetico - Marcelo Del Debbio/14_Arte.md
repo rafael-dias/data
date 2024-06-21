@@ -1,0 +1,13 @@
+`A Espera` `A mistura certa` `Ambiente favorável` `Autocontrole` `Auxílio
+Divino` `Bem estar a dois` `Calma` `Compromissos` `Conciliação bem-sucedida de
+interesses` `Convivência com direitos iguais` `Cooperação agradável e
+produtiva` `Cura` `Dar melhor de si para superar contradições e diferenças`
+`Dissolver contradições e resistências` `Dominar as tensões interiores e
+encontrar a saída para um dilema` `Encerrar conflitos` `Encontrar a medida
+certa` `Encontrar equilíbrio entre trabalho e tempo livre` `Equilíbrio Mental`
+`Equilíbrio de forças Estabilidade` `Harmonia` `Meditação` `Moderação` `Mover
+se para a frente` `Negociações` `O Tempo` `Paciència` `Paz` `Perfeição`
+`Proteção` `Relação tântrica` `Relações Agradáveis` `Relaxamento` `Renovação`
+`Satisfação no trabalho` `Saúde` `Serenidade` `Sintonia` `Superação dos
+opostos` `Tranquilidade` `Vínculo profundo.`
+

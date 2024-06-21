@@ -1,0 +1,16 @@
+`A mãe` `Abundância` `Atividade criativa` `Aumento da família` `Bem estar
+Material` `Boas chances de crescimento e desenvolvimento` `Bom senso`
+`Carácter, Comando Amoroso` `Comunicação` `Confiar na capacidade de
+crescimento da vida e estar aberto a mudanças` `Crescimento` `Criação`
+`Criação de novos conceitos` `Criatividade` `Cuidar com carinho do que foi
+confiado, Cultivo` `Desenvolvimento intenso` `Esposa` `Evolução` `Fecundidade`
+`Fertilidade` `Força intuitiva` `Gravidez` `Independência` `Inovações`
+`Inteligência` `Mãe de Família` `Maternidade` `Mulher Apaixonada` `Nascimento`
+`Nutrição` `Objetividade` `Perspectivas novas e boas` `Poder natural`
+`Possessividade` `Potencial criativo` `Profunda confiança` `Proteção e
+aconchego` `Realização` `Reativação de um vínculo antigo` `Segurança` `Senso
+apurado para as tendências e ciclos nos negócios` `Sensualidade` `Sensualidade
+benéfica` `Sentimentos Generosos e Positivos` `Solicitude` `Superproteção`
+`Ter uma visão do eterno ciclo de nascimento e morte` `Transformações
+profissionais.`
+
