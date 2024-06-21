@@ -6,7 +6,7 @@ def extrair_informacoes(nome_arquivo):
     partes = nome_arquivo.split('_')
     id = partes[0]
     nome = partes[1]
-    tipo = partes[2]
+    tipo = partes[2].replace('.md', '')
     return id, nome, tipo
 
 
