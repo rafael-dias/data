@@ -1,0 +1,3 @@
+Simboliza o pensamento, reflexão, análise e troca de ideias, mente consciente, isto é, mente lógica ou racional. É o impulso de expressão, as percepções e a inteligência por meio da habilidade ou da palavra. Necessidade de estabelecer ligação com outros; necessidade de aprender.
+
+Mau uso da habilidade ou inteligência; anormalidade por meio da racionalização de todas as coisas. Comunicação opiniática e parcial.

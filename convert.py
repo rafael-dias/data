@@ -24,8 +24,15 @@ for indice, (diretorio, _, arquivos) in enumerate(os.walk(caminho_base)):
     indice -=1
     nome_diretorio = os.path.basename(diretorio)
     if nome_diretorio not in estrutura_json:
+        dados_livro = nome_diretorio.split('-')
+        if(len(dados_livro) > 1):
+            nome_livro = dados_livro[0].strip()
+            nome_autor = dados_livro[1].strip()
+        else:
+            nome_livro = "vazio_livro"
+            nome_autor = "vazio_autor"
         if nome_diretorio != '':
-            estrutura_json.append({"id":indice, "livro": nome_diretorio, "dados": []})
+            estrutura_json.append({"id":indice, "livro": nome_livro,"autor": nome_autor, "dados": []})
    
 
     # Atualize o índice aqui (se necessário)

@@ -1,799 +1,8 @@
 [
     {
         "id": 0,
-        "livro": "Tarot Solar - Aton Gondim",
-        "dados": [
-            {
-                "id": 0,
-                "nome": "Louco",
-                "dados": "**LUZ:** INOCÊNCIA  \n**SOMBRA:** INSENSATEZ\n\nPALAVRAS-CHAVE:\n- OPORTUNIDADE\n- PÁGINA EM BRANCO\n- MENTE ABERTA\n- AVENTURA\n- TOLICE\n- INGENUIDADE"
-            },
-            {
-                "id": 1,
-                "nome": "Mago",
-                "dados": "**LUZ:** MAESTRIA  \n**SOMBRA:** TRAPAÇA\n\nPALAVRAS-CHAVE:\n- CONSCIÊNCIA\n- PODER\n- FOCO\n- INTENÇÃO\n- MAGIA\n- SUCESSO"
-            },
-            {
-                "id": 2,
-                "nome": "Sacerdotisa",
-                "dados": "**LUZ:** INTUIÇÃO  \n**SOMBRA:** PRESUNÇÃO\n\nPALAVRAS-CHAVE:\n- O INVISÍVEL\n- SUBCONSCIENTE\n- SEGREDOS\n- SABEDORIA\n- RECEPTIVIDADE\n- CICLOS NATURAIS"
-            },
-            {
-                "id": 3,
-                "nome": "Imperatriz",
-                "dados": "**LUZ:** FERTILIDADE  \n**SOMBRA:** SUPERPROTEÇÃO\n\nPALAVRAS-CHAVE:\n- CRIAÇÃO\n- ABUNDÂNCIA\n- CULTIVO\n- MÃE\n- SENSUALIDADE\n- GERÊNCIA"
-            },
-            {
-                "id": 4,
-                "nome": "Imperador",
-                "dados": "**LUZ:** AUTORIDADE  \n**SOMBRA:** RIGIDEZ\n\nPALAVRAS-CHAVE:\n- ESTRUTURA\n- LIDERANÇA\n- ALICERCE\n- PERSISTÊNCIA\n- REGRAS"
-            },
-            {
-                "id": 5,
-                "nome": "Hierofante",
-                "dados": "**LUZ:** FÉ   \n**SOMBRA:** FANATISMO\n\nPALAVRAS-CHAVE:\n- ENSINO\n- APRENDIZADO\n- CREDO\n- TRADIÇÃO\n- CASAMENTO\n- DISCIPLINA\n- SOCIEDADE"
-            },
-            {
-                "id": 6,
-                "nome": "Amantes",
-                "dados": "**LUZ:** UNIÃO  \n**SOMBRA:** OBSESSÃO\n\nPALAVRAS-CHAVE:\n- ÊXTASE\n- PARCERIA\n- ESCOLHA\n- PAIXÃO\n- SEXUALIDADE\n- INDECISÃO"
-            },
-            {
-                "id": 7,
-                "nome": "Carro",
-                "dados": "**LUZ:** AVANÇO  \n**SOMBRA:** NEGLIGÊNCIA\n\nPALAVRAS-CHAVE:\n- DETERMINAÇÃO\n- ÍMPETO\n- FORÇA DE VONTADE\n- PERSEVERANÇA\n- PROGRESSO\n- CONTROLE"
-            },
-            {
-                "id": 8,
-                "nome": "Ajustamento",
-                "dados": "**LUZ:** EQUILÍBRIO  \n**SOMBRA:** PARCIALIDADE\n\nPALAVRAS-CHAVE:\n- RESPONSABILIDADE\n- DECISÃO\n- INTEGRIDADE\n- ÉTICA\n- LÓGICA\n- HONESTIDADE"
-            },
-            {
-                "id": 9,
-                "nome": "Eremita",
-                "dados": "**LUZ:** INTROSPECÇÃO  \n**SOMBRA:** ISOLAMENTO\n\nPALAVRAS-CHAVE:\n- SOLIDÃO\n- GUIA\n- SABEDORIA\n- RETIRO\n- ESTUDO\n- ORIENTAÇÃO"
-            },
-            {
-                "id": 10,
-                "nome": "Fortuna",
-                "dados": "**LUZ:** REVOLUÇÃO  \n**SOMBRA:** REPETIÇÃO\nPALAVRAS-CHAVE:\n- MOVIMENTO\n- MUDANÇA\n- EXPANSÃO\n- OPORTUNIDADE\n- ACELERAÇÃO\n- DESTINO\n- SORTE"
-            },
-            {
-                "id": 11,
-                "nome": "Luxúria",
-                "dados": "**LUZ:** AFIRMAÇÃO  \n**SOMBRA:** AGRESSÃO\n\nPALAVRAS-CHAVE:\n- CONVICÇÃO\n- PODER INTERIOR\n- CORAGEM\n- EMPODERAMENTO\n- SER INSTINTIVO\n- PACIÊNCIA"
-            },
-            {
-                "id": 12,
-                "nome": "Enforcado",
-                "dados": "**LUZ:** TRANSCENDÊNCIA  \n**SOMBRA:** PERFÍDIA (TRAIÇÃO)\n\nPALAVRAS-CHAVE:\n- RENDIÇÃO\n- SACRIFÍCIO\n- QUIETUDE\n- NOVA PERSPECTIVA\n- DEVOÇÃO\n- ABNEGAÇÃO\n- ESTAGNAÇÃO"
-            },
-            {
-                "id": 13,
-                "nome": "Morte",
-                "dados": "**LUZ:** CONCLUSÃO  \n**SOMBRA:** REDUÇÃO\nPALAVRAS-CHAVE:\n- FIM\n- TRANSFORMAÇÃO\n- ENCERRAMENTO\n- PURGA.\n- REGENERAÇÃO\n- METAMORFOSE"
-            },
-            {
-                "id": 14,
-                "nome": "Arte",
-                "dados": "**LUZ:** MEDITAÇÃO  \n**SOMBRA:** EXTREMISMO\n\nPALAVRAS-CHAVE:\n- SÍNTESE\n- INTEGRAÇÃO\n- AJUSTE\n- CURA\n- PACIÊNCIA\n- MODERAÇÃO\n- CIRCUNSPECÇÃO"
-            },
-            {
-                "id": 15,
-                "nome": "Diabo",
-                "dados": "**LUZ:** SENSUALIDADE  \n**SOMBRA:** LICENCIOSIDADE\n\nPALAVRAS-CHAVE:\n- INDULGÊNCIA\n- APEGO\n- MATERIALISMO\n- VÍCIO\n- PRAZER.\n- LUXÚRIA\n- AUTO-LIMITÂNCIA"
-            },
-            {
-                "id": 16,
-                "nome": "Torre",
-                "dados": "**LUZ:** DEMOLIÇÃO  \n**SOMBRA:** DESTRUIÇÃO\n\nPALAVRAS-CHAVE:\n- DISSOLUÇÃO\n- CAOS\n- AFLIÇÃO\n- MUDANÇA BRUSCA\n- RUPTURA\n- DESASTRES NATURAIS"
-            },
-            {
-                "id": 17,
-                "nome": "Estrela",
-                "dados": "**LUZ:** ABERTURA  \n**SOMBRA:** NEGAÇÃO\n\nPALAVRAS-CHAVE:\n- OTIMISMO\n- ESPERANÇA\n- RENOVAÇÃO\n- LIMPEZA\n- PAZ\n- CONEXÃO\n- RECONHECIMENTO"
-            },
-            {
-                "id": 18,
-                "nome": "Lua",
-                "dados": "**LUZ:** MISTÉRIO  \n**SOMBRA:** LOUCURA\n\nPALAVRAS-CHAVE:\n- DESCONHECIDO\n- OCULTO\n- ILUSÃO\n- MEDOS\n- DÚVIDA\n- AUGÚRIO"
-            },
-            {
-                "id": 19,
-                "nome": "Sol",
-                "dados": "**LUZ:** ENERGIA  \n**SOMBRA:** FRIVOLIDADE\n\nPALAVRAS-CHAVE:\n- CLAREZA\n- INSPIRAÇÃO\n- ESCLARECIMENTO\n- VITALIDADE\n- POSITIVIDADE\n- FELICIDADE\n- SUCESSO"
-            },
-            {
-                "id": 20,
-                "nome": "Aeon",
-                "dados": "**LUZ:** RENASCIMENTO  \n**SOMBRA:** AVALIAÇÃO\n\nPALAVRAS-CHAVE:\n- JULGAMENTO\n- RENOVAÇÃO\n- DESPERTAR\n- REVISÃO\n- OBJETIVIDADE\n- VERDADEIRA VOCAÇÃO"
-            },
-            {
-                "id": 21,
-                "nome": "O Universo",
-                "dados": "**LUZ:** PLENITUDE  \n**SOMBRA:** MATERIALISMO\n\nPALAVRAS-CHAVE:\n- INTEGRAÇÃO\n- REALIZAÇÃO\n- CUMPRIMENTO\n- HOLISMO\n- VITÓRIA\n- CULMINÂNCIA\n- FIM DE CICLO"
-            },
-            {
-                "id": 22,
-                "nome": "A Raiz Dos Poderes De Fogo - Ás De Bastões",
-                "dados": "**LUZ:** INSPIRAÇÃO  \n**SOMBRA:** INFLEXIBILIDADE\n\nPALAVRAS-CHAVE:\n- SIM\n- IDEIA\n- PAIXÃO\n- INSPIRAÇÃO\n- NASCIMENTO\n- OPORTUNIDADE\n- AVANÇO\n- DESPREOCUPAÇÃO"
-            },
-            {
-                "id": 23,
-                "nome": "Domínio - Dois De Bastões",
-                "dados": "**LUZ:** ESCOLHA  \n**SOMBRA:** DETURPAÇÃO\n\nPALAVRAS-CHAVE:\n- POTENCIAL\n- CONTEMPLAÇÃO\n- LIMIAR\n- PLANEJAMENTO"
-            },
-            {
-                "id": 24,
-                "nome": "Virtude - Três De Bastões",
-                "dados": "**LUZ:** PLANEJAMENTO  \n**SOMBRA:** DOGMATISMO\n\nPALAVRAS-CHAVE:\n- ESTABELECER\n- DELIMITAR\n- AUTORIDADE\n- OUSADIA\n- INICIATIVA\n- SUPERVISÃO\n- PLANOS EM LONGO PRAZO\n- CONVICÇÃO"
-            },
-            {
-                "id": 25,
-                "nome": "Conclusão - Quatro De Bastões",
-                "dados": "**LUZ:** CONQUISTAM  \n**SOMBRA:** MESMICE\n\nPALAVRAS-CHAVE:\n- REGRESSO À CASA\n- CHEGADA\n- COLHEITA\n- CERIMÔNIA\n- PROPRIEDADE\n- ALICERCES FORTES\n- GRATIDÃO\n- LAR FELIZ"
-            },
-            {
-                "id": 26,
-                "nome": "Disputa - Cinco De Bastões",
-                "dados": "**LUZ:** CONFRONTAÇÃO  \n**SOMBRA:** CONFLITO\n\nPALAVRAS-CHAVE:\n- COMPETIÇÃO\n- DISPUTAS\n- JOGOS\n- SOLUÇÃO DE PROBLEMAS\n- ESFORÇO\n- BRAINSTORMING\n- ABORRECIMENTOS\n- SUJEIRA DE DEBAIXO DO TAPETE"
-            },
-            {
-                "id": 27,
-                "nome": "Vitória - Seis De Bastões",
-                "dados": "**LUZ:** VITÓRIA  \n**SOMBRA:** ORGULHO\n\nPALAVRAS-CHAVE:\n- LIDERANÇA\n- EXEMPLO\n- SUCESSO\n- AVANÇO\n- GANHOS\n- RECONHECIMENTO"
-            },
-            {
-                "id": 28,
-                "nome": "Valor - Sete De Bastões",
-                "dados": "**LUZ:** DETERMINAÇÃO  \n**SOMBRA:** DEFENSIVIDADE\n\nPALAVRAS-CHAVE:\n- FIRMEZA\n- TENACIDADE\n- CORAGEM\n- PERSISTÊNCIA\n- DEFENDER PONTOS-DE-VISTA\n- ENFRENTAR OPOSIÇÃO"
-            },
-            {
-                "id": 29,
-                "nome": "Rapidez - Oito De Bastões",
-                "dados": "**LUZ:** RESPOSTA  \n**SOMBRA:** REAÇÃO\n\nPALAVRAS-CHAVE:\n- ASSERTIVIDADE\n- AVANÇO\n- VELOCIDADE\n- COMUNICAÇÃO\n- RACIONALIZAÇÃO\n- FLUXO"
-            },
-            {
-                "id": 30,
-                "nome": "Força - Nove De Bastões",
-                "dados": "**LUZ:** PERSISTÊNCIA  \n**SOMBRA:** MARTÍRIO\n\nPALAVRAS-CHAVE:\n- DEFENSIVIDADE\n- CUIDADO\n- PROTEÇÃO\n- ACUMULAÇÃO\n- FORTALEZA DE CARÁTER\n- VELHOS HÁBITOS\n- SUSPEIÇÃO\n- VIGÍLIA"
-            },
-            {
-                "id": 31,
-                "nome": "Opressão - Dez De Bastões",
-                "dados": "**LUZ:** TENACIDADE  \n**SOMBRA:** EXAUSTÃO\n\nPALAVRAS-CHAVE:\n- SUCESSO\n- TRABALHO\n- RESPONSABILIDADE\n- SOBRECARREGADO\n- PESO\n- ESGOTAMENTO\n- ORGULHO\n- PRESO"
-            },
-            {
-                "id": 32,
-                "nome": "Cavaleiro De Bastões",
-                "dados": "**LUZ:** DIREÇÃO  \n**SOMBRA:** REPRESSÃO\n\nPALAVRAS-CHAVE:\n- CORAJOSO\n- GENEROSO\n- AUTÊNTICO\n- LÍDER\n- PODEROSO\n- CRIATIVO\n- DOMINADOR\n- CONFIANTE\n- AUTO-CONFIANTE\n- MOTIVADOR\n- ORGULHOSO"
-            },
-            {
-                "id": 33,
-                "nome": "Rainha De Bastões",
-                "dados": "**LUZ:** CUIDADO  \n**SOMBRA:** DISTRAÇÃO\n\nPALAVRAS-CHAVE:\n- CRIATIVA\n- INDEPENDENTE\n- AUTO-CONFIANTE\n- APAIXONADA\n- ROMÂNTICA\n- LÍDER\n- CORAJOSA\n- EXTROVERTIDA\n- ENÉRGICA\n- INFLUENTE\n- DRAMÁTICA\n- AMIGÁVEL\n- OTIMISTA"
-            },
-            {
-                "id": 34,
-                "nome": "Príncipe De Bastões",
-                "dados": "**LUZ:** AUDÁCIA  \n**SOMBRA:** BRAVATA\n\nPALAVRAS-CHAVE:\n- VISÃO DE FUTURO\n- AVENTUREIRO\n- ESPONTÂNEO\n- TEMPERAMENTAL\n- EXCITANTE\n- PASSIONAL\n- EXTRAVAGANTE\n- APRESSADO\n- REBELDE\n- COMPETITIVO\n- MOTIVADOR"
-            },
-            {
-                "id": 35,
-                "nome": "Princesa De Bastões",
-                "dados": "**LUZ:** ENTUSIASMO  \n**SOMBRA:** INEXPERIÊNCIA\n\nPALAVRAS-CHAVE:\n- ESPÍRITO LIVRE\n- CURIOSO\n- ENTUSIASTA\n- DISPOSTO\n- AMBICIOSO\n- DESTEMIDO\n- INOCENTE\n- ENÉRGICO\n- EXTROVERTIDO"
-            },
-            {
-                "id": 36,
-                "nome": "A Raiz Dos Poderes Da Água - Ás De Copas",
-                "dados": "**LUZ:** REFRESCAR-SE  \n**SOMBRA:** INUNDAÇÃO\n\nPALAVRAS-CHAVE:\n- ALEGRIA\n- NOVO RELACIONAMENTO\n- DESPERTAR ESPIRITUAL\n- ABERTURA À EMOÇÃO\n- CONEXÃO PESSOAL\n- DESPERTAR DA INTUIÇÃO\n- INTROSPECÇÃO"
-            },
-            {
-                "id": 37,
-                "nome": "Amor - Dois De Copas",
-                "dados": "**LUZ:** ATRAÇÃO  \n**SOMBRA:** CODEPENDÊNCIA\n\nPALAVRAS-CHAVE:\n- UNIÃO\n- AMOR\n- APOIO\n- CONFIANÇA\n- IGUALDADE\n- COOPERAÇÃO\n- COMPROMISSO"
-            },
-            {
-                "id": 38,
-                "nome": "Abundância - Três De Copas",
-                "dados": "**LUZ:** CELEBRAÇÃO  \n**SOMBRA:** OBSESSÃO\n\nPALAVRAS-CHAVE:\n- AMIZADE\n- ENTRETENIMENTO\n- DIVERSÃO\n- SUCESSO\n- DANÇA\n- REGOZIJO"
-            },
-            {
-                "id": 39,
-                "nome": "Luxúria - Quatro De Copas",
-                "dados": "**LUZ:** SACIEDADE  \n**SOMBRA:** TÉDIO\n\nPALAVRAS-CHAVE:\n- AFASTAMENTO\n- CONTEMPLAÇÃO\n- INSATISFAÇÃO\n- ABORRECIMENTO\n- DEVANEIO\n- INCUBAÇÃO"
-            },
-            {
-                "id": 40,
-                "nome": "Desapontamento - Cinco De Copas",
-                "dados": "**LUZ:** ARREPENDIMENTO  \n**SOMBRA:** DESESPERO\n\nPALAVRAS-CHAVE:\n- PERDA\n- PESAR\n- MEDO\n- CULPA\n- PESSIMISMO\n- PONTO DE MUTAÇÃO"
-            },
-            {
-                "id": 41,
-                "nome": "Prazer - Seis De Copas",
-                "dados": "**LUZ:** PREENCHIMENTO  \n**SOMBRA:** DEFICIT\n\nPALAVRAS-CHAVE:\n- GENTILEZA\n- NOSTALGIA\n- MEMÓRIAS\n- CUIDADO\n- PROTEÇÃO\n- INFÂNCIA\n- SER FELIZ COMO UMA CRIANÇA"
-            },
-            {
-                "id": 42,
-                "nome": "Deboche (Corrupção) - Sete De Copas",
-                "dados": "**LUZ:** IMAGINAÇÃO  \n**SOMBRA:** ILUSÃO\n\nPALAVRAS-CHAVE:\n- FANTASIAS\n- MUITAS ESCOLHAS\n- VISUALIZAÇÃO\n- ESTADOS ALTERADOS\n- \"BOM DEMAIS PRA SER VERDADE\"\n- EXPLOSÃO CRIATIVA\n- CORRUPÇÃO\n- VÍCIOS"
-            },
-            {
-                "id": 43,
-                "nome": "Indolência - Oito De Copas",
-                "dados": "**LUZ:** SAUDADE  \n**SOMBRA:** IMPLACABILIDADE\n\nPALAVRAS-CHAVE:\n- DEIXAR PRA TRÁS\n- SEGUIR\n- RETIRO\n- RESTAURAÇÃO EMOCIONAL\n- CHAMADO ESPIRITUAL\n- VIAGEM\n- ABANDONO"
-            },
-            {
-                "id": 44,
-                "nome": "Felicidade - Nove De Copas",
-                "dados": "**LUZ:** LUXO  \n**SOMBRA:** EXCESSO\n\nPALAVRAS-CHAVE:\n- SATISFAÇÃO EMOCIONAL\n- DESEJOS REALIZADOS\n- TEMPO BOM\n- INDULGÊNCIA\n- BANQUETE\n- MANIFESTAÇÃO\n- OSTENTAÇÃO\n- FELICIDADE \"PARA DAR E VENDER\"?"
-            },
-            {
-                "id": 45,
-                "nome": "Saciedade - Dez De Copas",
-                "dados": "**LUZ:** PLENITUDE  \n**SOMBRA:** ILUSÃO\n\nPALAVRAS-CHAVE:\n- PREENCHIMENTO EMOCIONAL\n- AMOR PARA COMPARTILHAR\n- ÊXTASE\n- LAR FELIZ\n- UNIÃO ABENÇOADA\n- IDEALIZAÇÃO\n- CRESCIMENTO FAMILIAR"
-            },
-            {
-                "id": 46,
-                "nome": "Cavaleiro De Copas",
-                "dados": "**LUZ:** COMPOSTURA  \n**SOMBRA:** RIGIDEZ\n\nPALAVRAS-CHAVE:\n- FORÇA\n- EMOCIONAL\n- VALIDADOR\n- FIEL\n- CRÉDULO\n- RECONFORTANTE\n- ANTIQUADO\n- CONTROLE EMOCIONAL\n- COMPASSIVO\n- CONSELHEIRO "
-            },
-            {
-                "id": 47,
-                "nome": "Rainha De Copas",
-                "dados": "**LUZ:** EMPATIA  \n**SOMBRA:** PENA\n\nPALAVRAS-CHAVE:\n- SABEDORIA\n- SENSÍVEL\n- RECEPTIVA\n- AFETUOSA\n- VIRTUOSA\n- INTUITIVA\n- CONSELHEIRA\n- SONHADORA\n- EMOCIONAL"
-            },
-            {
-                "id": 48,
-                "nome": "Príncipe De Copas",
-                "dados": "**LUZ:** ZELO  \n**SOMBRA:** INTOLERÂNCIA\n\nPALAVRAS-CHAVE:\n- BUSCADOR ESPIRITUAL\n- ATUANTE\n- IDEALISTA\n- ARTÍSTICO\n- POÉTICO\n- ENCANTADOR\n- SEDUÇÃO"
-            },
-            {
-                "id": 49,
-                "nome": "Princesa De Copas",
-                "dados": "**LUZ:** INTENSIDADE  \n**SOMBRA:** SUPERFICIALIDADE\n\nPALAVRAS-CHAVE:\n- ROMÂNTICO\n- INGÊNUO\n- SENSÍVEL\n- GENTIL\n- BRINCALHÃO\n- DOCE"
-            },
-            {
-                "id": 50,
-                "nome": "A Raiz Dos Poderes Do Ar - Ás De Espadas",
-                "dados": "**LUZ:** OBJETIVIDADE  \n**SOMBRA:** ASTÚCIA\n\nPALAVRAS-CHAVE:\n- NOVA PERSPECTIVA\n- NOVOS PLANOS\n- FORÇA DE VONTADE\n- MENTE AFIADA\n- TOMAR DE DECISÕES\n- BUSCA DA VERDADE\n- CONFIANÇA"
-            },
-            {
-                "id": 51,
-                "nome": "Paz - Dois De Espadas",
-                "dados": "**LUZ:** TRÉGUA  \n**SOMBRA:** IMPASSE\n\nPALAVRAS-CHAVE:\n- IMPARCIALIDADE\n- INDECISÃO\n- FECHAR-SE\n- IDEIAS CONFLITUOSAS\n- AMBIVALÊNCIA\n- PENSAR COM A CABEÇA"
-            },
-            {
-                "id": 52,
-                "nome": "Dor - Três De Espadas",
-                "dados": "**LUZ:** CLAREZA  \n**SOMBRA:** DESGOSTO\n\nPALAVRAS-CHAVE:\n- PERDA\n- SACRIFÍCIOS NECESSÁRIOS\n- TRAIÇÃO\n- MÁGOA\n- SEPARAÇÃO\n- SOFRIMENTO"
-            },
-            {
-                "id": 53,
-                "nome": "Trégua - Quatro De Espadas",
-                "dados": "**LUZ:** MEDITAÇÃO  \n**SOMBRA:** PROCRASTINAÇÃO\n\nPALAVRAS-CHAVE:\n- DORMIR\n- PAUSA\n- RESTAURAÇÃO MENTAL\n- AUTO-REFLEXÃO\n- AVALIAÇÃO"
-            },
-            {
-                "id": 54,
-                "nome": "Derrota - Cinco De Espadas",
-                "dados": "**LUZ:** INDIVIDUALIDADE  \n**SOMBRA:** IRRACIONALIDADE\n\nPALAVRAS-CHAVE:\n- DESENTENDIMENTO\n- FALTA DE COMUNICAÇÃO\n- MENTE DISPERSA\n- AÇÕES DIVISIVAS\n- GANHAR VALE MESMO A PENA?"
-            },
-            {
-                "id": 55,
-                "nome": "Ciência - Seis De Espadas",
-                "dados": "**LUZ:** PERSPECTIVA  \n**SOMBRA:** VITIMIZAÇÃO\n\nPALAVRAS-CHAVE:\n- AFASTAR-SE\n- LUGAR DE CURA\n- RETIRO\n- TRANSIÇÃO\n- AMPLIAR VISÕES E HORIZONTES"
-            },
-            {
-                "id": 56,
-                "nome": "Futilidade - Sete De Espadas",
-                "dados": "**LUZ:** JUSTIFICATIVA  \n**SOMBRA:** PRESUNÇÃO\n\nPALAVRAS-CHAVE:\n- ESTRATÉGIA\n- TESTES MENTAIS\n- ENGODO\n- JUNTAR DE INFORMAÇÕES\n- QUEBRA DE ACORDOS\n- DISSIMULAÇÃO"
-            },
-            {
-                "id": 57,
-                "nome": "Interferência - Oito De Espadas",
-                "dados": "**LUZ:** LIMITES  \n**SOMBRA:** RESTRIÇÕES\n\nPALAVRAS-CHAVE:\n- DESAMPARO\n- OPÇÕES LIMITADAS\n- PENSAMENTOS RESTRITIVOS\n- DESCULPAS\n- MENTALIDADE DE VÍTIMA\n- AUTO-LIMITAÇÃO"
-            },
-            {
-                "id": 58,
-                "nome": "Crueldade - Nove De Espadas",
-                "dados": "**LUZ:** INSIGHT  \n**SOMBRA:** PREOCUPAÇÃO\n\nPALAVRAS-CHAVE:\n- TORMENTO MENTAL\n- INSÔNIA\n- DOENÇA\n- 'DESESPERO\n- DEPRESSÃO\n- A HORA MAIS ESCURA ANTES DO AMANHECER"
-            },
-            {
-                "id": 59,
-                "nome": "Ruína - Dez De Espadas",
-                "dados": "**LUZ:** DESAPEGO  \n**SOMBRA:** DESTRUIÇÃO\n\nPALAVRAS-CHAVE:\n- FUNDO DO POÇO\n- ADMITIR FALHAS\n- DESISTIR\n- RENUNCIAR\n- AUTOPIEDADE\n- NENHUM CAMINHO A NÃO SER PARA"
-            },
-            {
-                "id": 60,
-                "nome": "Cavaleiro De Espadas",
-                "dados": "**LUZ:** SABEDORIA  \n**SOMBRA:** INTELECTUALISMO\n\nPALAVRAS-CHAVE:\n- JUIZ\n- INTENCIONAL\n- EFICIENTE\n- INTELIGENTE\n- LÓGICO\n- DECISIVO\n- JUSTO\n- CRÍTICO\n- REGRAS\n- BRUSCO"
-            },
-            {
-                "id": 61,
-                "nome": "Rainha De Espadas",
-                "dados": "**LUZ:** PERCEPÇÃO  \n**SOMBRA:** PARANOIA\n\nPALAVRAS-CHAVE:\n- AUTO-CONSCIENTE\n- INTELIGENTE\n- HONESTA\n- JUSTA\n- AUTO-CONFIANTE\n- RESERVADA\n- SÁBIA\n- AUTO-DISCIPLINADA\n- PERFECCIONISTA\n- CRÍTICA\n- ANALÍTICA"
-            },
-            {
-                "id": 62,
-                "nome": "Príncipe De Espadas",
-                "dados": "**LUZ:** CONTUNDÊNCIA  \n**SOMBRA:** BRUSQUIDÃO\n\nPALAVRAS-CHAVE:\n- REVOLUCIONÁRIO\n- PENSAMENTO CRÍTICO\n- IMPACIENTE\n- BUSCADOR DA VERDADE\n- SABE-TUDO\n- FARISAICO (HIPÓCRITA)\n- EFICIÊNCIA"
-            },
-            {
-                "id": 63,
-                "nome": "Princesa De Espadas",
-                "dados": "**LUZ:** PRATICA  \n**SOMBRA:** PRETENSÃO\n\nPALAVRAS-CHAVE:\n- CONSCIENCIOSO\n- CURIOSO\n- IDEALISTA\n- EM GUARDA\n- ALERTA\n- FOCADO\n- OUSADO\n- APRENDER NOVAS HABILIDADE"
-            },
-            {
-                "id": 64,
-                "nome": "A Raiz Dos Poderes Da Terra - Ás De Discos",
-                "dados": "**LUZ:** BÊNÇÃO  \n**SOMBRA:** OBRIGAÇÃO\nPALAVRAS-CHAVE:\n- OPORTUNIDADE\n- SEMENTE\n- DOM\n- DINHEIRO\n- NOVA RESPONSABILIDADE\n- NOVOS RECURSOS\n- SAÚDE"
-            },
-            {
-                "id": 65,
-                "nome": "Mudança - Dois De Discos",
-                "dados": "**LUZ:** COMPARAÇÃO  \n**SOMBRA:** DELIBERAÇÃO\n\nPALAVRAS-CHAVE:\n- MALABARISMO\n- MANTER-SE OCUPADO\n- ADAPTAÇÃO\n- ORGANIZAÇÃO\n- VIAJAR SE PRECISO"
-            },
-            {
-                "id": 66,
-                "nome": "Trabalho - Três De Discos",
-                "dados": "**LUZ:** REALIZAÇÃO  \n**SOMBRA:** DISCREPÂNCIA\n\nPALAVRAS-CHAVE:\n- ASSISTÊNCIA\n- CONTRIBUIÇÃO\n- TRABALHO EM EQUIPE\n- APRENDIZADO\n- EMPREGO\n- COMPROMISSO"
-            },
-            {
-                "id": 67,
-                "nome": "Poder - Quatro De Discos",
-                "dados": "**LUZ:** CONSERVAÇÃO  \n**SOMBRA:** GANÂNCIA\n\nPALAVRAS-CHAVE:\n- POSSE\n- PROTECIONISMO\n- APEGO\n- ESTAGNAÇÃO\n- SEGURANÇA\n- PREOCUPAÇÃO\n- GUARDAR RECURSOS"
-            },
-            {
-                "id": 68,
-                "nome": "Preocupação - Cinco De Discos",
-                "dados": "**LUZ:** NECESSIDADE  \n**SOMBRA:** POBREZA\n\nPALAVRAS-CHAVE:\n- ALIENAÇÃO\n- DOENÇA\n- PERDAS\n- AUSTERIDADE\n- ASCETISMO\n- AMIGOS DE VERDADE"
-            },
-            {
-                "id": 69,
-                "nome": "Sucesso - Seis De Discos",
-                "dados": "**LUZ:** GENEROSIDADE  \n**SOMBRA:** MANIPULAÇÃO\n\nPALAVRAS-CHAVE:\n- TROCA\n- CARIDADE\n- EMPRÉSTIMOS\n- DEPENDÊNCIA\n- DEVOLVER\n- GRATIDÃO"
-            },
-            {
-                "id": 70,
-                "nome": "Fracasso - Sete De Discos",
-                "dados": "**LUZ:** REAVALIAÇÃO  \n**SOMBRA:** MELANCOLIA\n\nPALAVRAS-CHAVE:\n- AVALIAÇÃO\n- PACIÊNCIA\n- PROGRESSO LENTO\n- APRENDER COM A EXPERIÊNCIA\n- COMPETÊNCIA\n- HORA CERTA DE COLHER"
-            },
-            {
-                "id": 71,
-                "nome": "Prudência - Oito De Discos",
-                "dados": "**LUZ:** LABORIOSIDADE  \n**SOMBRA:** COMPLACÊNCIA\n\nPALAVRAS-CHAVE:\n- AFINAÇÃO\n- APERFEIÇOAMENTO\n- MANUTENÇÃO\n- TRABALHO DURO\n- PRÁTICA\n- REPETIÇÃO"
-            },
-            {
-                "id": 72,
-                "nome": "Ganho - Nove De Discos",
-                "dados": "**LUZ:** DISCIPLINA  \n**SOMBRA:** EXCESSO DE CONFIANÇA\n\nPALAVRAS-CHAVE:\n- RECOMPENSAS MERECIDAS\n- INDEPENDÊNCIA\n- PRAZER\n- LUXO\n- FRUTOS DO TRABALHO\n- AUTORREALIZAÇÃO"
-            },
-            {
-                "id": 73,
-                "nome": "Riqueza - Dez De Discos",
-                "dados": "**LUZ:** ABUNDANCIA  \n**SOMBRA:** EXTRAVAGÂNCIA\n\nPALAVRAS-CHAVE:\n- CONTINUIDADE\n- TRADIÇÃO\n- FORTUNA\n- LEGADO\n- ANCESTRALIDADE\n- FAMÍLIA\n- SEGURANÇA\n- RESPONSABILIDADE"
-            },
-            {
-                "id": 74,
-                "nome": "Cavaleiro De Discos",
-                "dados": "**LUZ:** AQUISIÇÃO  \n**SOMBRA:** POSSE\n\nPALAVRAS-CHAVE:\n- LEAL\n- PESSOA DE NEGÓCIOS\n- AMANTE DO PRAZER\n- CONSERVADOR\n- PROVEDOR\n- POSSUIDOR\n- GESTOR"
-            },
-            {
-                "id": 75,
-                "nome": "Rainha De Discos",
-                "dados": "**LUZ:** CONSOLO  \n**SOMBRA:** PREGUIÇA\n\nPALAVRAS-CHAVE:\n- EDUCADORA\n- CURA\n- ECOLÓGICA\n- PROTETORA\n- HOSPITALEIRA\n- SAUDÁVEL\n- APOIADORA\n- PRÁTICA\n- COM PRINCÍPIOS\n- CALMA"
-            },
-            {
-                "id": 76,
-                "nome": "Príncipe De Discos",
-                "dados": "**LUZ:** PRAGMATISMO  \n**SOMBRA:** POSSE\n\nPALAVRAS-CHAVE:\n- CONFIÁVEL\n- ÚTIL\n- PERSISTÊNCIA\n- SENSUAL\n- CUIDADOSO\n- TEIMOSO\n- CAPAZ"
-            },
-            {
-                "id": 77,
-                "nome": "Princesa De Discos",
-                "dados": "**LUZ:** CAUTELOSO  \n**SOMBRA:** DESCUIDADO\n\nPALAVRAS-CHAVE:\n- ESTUDANTE\n- PRAGMÁTICO\n- COLECIONADOR\n- ESTÁVEL\n- FIRME\n- CONFIÁVEL"
-            }
-        ]
-    },
-    {
-        "id": 1,
-        "livro": "Tarot Templo Vivente - Frater Goya",
-        "dados": [
-            {
-                "id": 0,
-                "nome": "Louco",
-                "dados": "A libertação, as tentativas que fazemos de romper com os padrões de\n\"normalidade\". A espiritualidade que busca a libertação da matéria. Idealismo\ne aspiração. Quando está mal aspectado por outras cartas, pode representar a\ndesestrutura causada por uma liberdade ilimitada que é incapaz de se\nsustentar. Ou ainda, pode ser uma alienação da realidade, uma fuga do mundo\nou, em um estágio mais avançado, a loucura, excentricidade ou mesmo mania.\n\n  \n\nEm matéria espiritual, o Louco significa ideia, pensamento, espiritualidade,\nque se esforça para superar a terra. Mas o essencial desta carta é que\nrepresenta originalidade, impulso, impulso súbito ou impacto, vindo de um lado\ncompletamente estranho. Todos esses impulsos estão certos, se corretamente\nrecebidos; e a interpretação bem ou mal da carta depende inteiramente da\natitude correta do consultante.\n\n  \n\nNa Magia: Espiritualidade confusa, mediunidade não resolvida, o indivíduo tem\nmuita energia, mas não canaliza.\n\n"
-            },
-            {
-                "id": 1,
-                "nome": "Mago",
-                "dados": "Aprendizado, comunicação, habilidade para aprender e para realizar trabalhos\nmanuais. Conhecimento, vontade e astúcia. Quando está mal aspectado pode\nrepresentar a antítese do que foi descrito acima: embuste, falta de\ncomunicação, dificuldade para aprender e inaptidão para realizar aquilo a que\nse propôs.\n\n  \n\nSabedoria, habilidade, destreza, habilidade manual, astúcia, engano, roubo. Às\nvezes, sabedoria oculta ou poder, às vezes um rápido impulso, como \"ondas\ncerebrais\". Pode implicar mensagens, contratos, acertos comerciais, a\ninterferência de aprendizagem ou de inteligência com o assunto em mãos.\n\n  \n\nNa Magia: Início da Magia – seja nos planos espiritual, astral ou físico.\n\n"
-            },
-            {
-                "id": 2,
-                "nome": "Sacerdotisa",
-                "dados": "Intuição, vidência, assimilação do aprendizado realizado pelo Mago, mudanças\nde estado de humor. Quando está mal aspectada pode representar falta de\nsensibilidade, incapacidade de ver a realidade tal como ela é; alguém que\ntenta enganar alguém.\n\n  \n\nInfluência, exaltação e graciosa influência sobre o tema. Mudança,\nalternância, aumentar ou diminuir, flutuação. Há, no entanto, uma passividade\na ser levada pelo entusiasmo; pode tornar-se uma \"influência lunar\" a menos\nque seja mantido um cuidadoso equilíbrio.\n\n  \n\nNa Magia: Magia Oculta, origem indeterminada – reza, orações, mandinga,\ngeralmente para o amor, às vezes solicitação de proteção a alguém.\n\n"
-            },
-            {
-                "id": 3,
-                "nome": "Imperatriz",
-                "dados": "Prazer, luxúria, aspectos ligados à maternidade, capacidade de trabalho,\nsacrifício em prol de um ideal, esforço sobre-humano para completar a tarefa a\nque se propõe. Se mal aspectada pode representar libertinagem, falta de\nvontade, preguiça e incapacidade de levar à termo aquilo a que se propõe.\n\n  \n\nAmor, beleza, felicidade, prazer, sucesso, realização, felicidade,\ngraciosidade, elegância, luxo, ociosidade, dissipação, amizade, gentileza,\nprazer.\n\n  \n\nNa Magia: Quando perto do arcano II, significa que foi mulher quem fez a\nmagia, sem o arcano II é magia mental. Poder de Combate.\n\n"
-            },
-            {
-                "id": 4,
-                "nome": "Imperador",
-                "dados": "Força de vontade, voz de comando, atitude imperativa, início de uma\nestabilidade. Quando está mal aspectado pode indicar violência, ambição\ndesmedida, instabilidade, irritabilidade sem motivo.\n\n  \n\nGuerra, conquista, vitória, conflito, ambição, originalidade, confiança\nautoimportância, megalomania e belicosidade, energia, vigor, teimosia, pouco\nprático, imprudência, gênio ruim (temperamental).\n\n  \n\nNa Magia: Quando perto do arcano I, o mentor da magia foi homem, não há magia,\nmas alguma adversidade no plano mental. Poder de Combate.\n\n"
-            },
-            {
-                "id": 5,
-                "nome": "Hierofante",
-                "dados": "Sabedoria Divina alcançada pelo trabalho, esforço, dedicação e disciplina.\nConhecimento utilizado para instrução, bons conselhos. Se estiver mal\naspectado pode representar o mal uso do conhecimento adquirido, ou a\nincapacidade de buscar e aprender.\n\n  \n\nResistência obstinada, labuta, resistência, placidez, manifestação,\nexplicação, ensino, bondade de coração, a ajuda de superiores, paciência,\norganização, paz.\n\n  \n\nNa Magia: Magia com protetores espirituais com finalidade para o bem. Processo\nkármico, pois o arcano V é o Senhor do Karma.\n\n"
-            },
-            {
-                "id": 6,
-                "nome": "Amantes",
-                "dados": "Decisão, opção por vontade própria, escolha aparentemente sem importância, ou\nem assuntos de pequena monta, relacionamento. Quando está mal aspectada pode\nindicar indecisão, pressão de terceiros, perda ou tensão nos relacionamentos.\n\n  \n\nAbertura à inspiração, intuição, inteligência, segunda visão, infantilidade,\nfrivolidade, cheio de pensamentos, apartado da consideração de ordem prática,\nautocontradição, trivialidade.\n\n  \n\nNa Magia: Amarração de casal, amor, casamento, sexual, impotência, depende de\noutros arcanos associados.\n\n"
-            },
-            {
-                "id": 7,
-                "nome": "Carro",
-                "dados": "Tentativa de gerar/criar uma estrutura. Preparação para seguir rumo à vitória,\npreparo, saúde, domínio de nossas forças e emoções, desapego. Quando está mal\naspectado pode indicar uma falsa visão de bem-estar, falta de estrutura,\ndespreparo e descontrole emocional.\n\n  \n\nTriunfo, vitória, esperança, memória, digestão, violência na manutenção de\nideias tradicionais, o \"duro de matar\", crueldade, desejo de destruição,\nobediência, fidelidade, autoridade sob autoridade.\n\n  \n\nNa Magia: Magia efetuada em processo de permeação dos planos astral e físico.\nMagia Mental.\n\n"
-            },
-            {
-                "id": 8,
-                "nome": "Ajustamento",
-                "dados": "Equilíbrio, emoções equilibradas, senso de justiça, busca de harmonia na vida.\nQuando está mal aspectada, indica um desequilíbrio, falta de sinceridade e até\ndesequilíbrio mental.\n\n  \n\nJustiça, ou melhor, ajustar, o ato de ajuste, a suspensão de todas as decisões\nde ação pendente; em termos materiais, pode se referir a processos judiciais\nou processos. Socialmente, casamento ou contratos de casamento; tratados\npolíticos.\n\n  \n\nNa Magia: Não há magia ou há o fim da Magia. Situação Kármica desta vida onde\ntudo foi criado pela própria pessoa.\n\n"
-            },
-            {
-                "id": 9,
-                "nome": "Eremita",
-                "dados": "Sabedoria, reflexão, trabalho rotineiro, disciplina, dedicação, abnegação,\niniciação. Se mal aspectado pode indicar solidão, perdas, falta de sabedoria e\nfalta de disposição ao trabalho.\n\n  \n\nIluminação do interior (de si mesmo), impulso secreto interno; planos práticos\nderivados de acordos. Retirar-se da participação em eventos atuais.\n\n  \n\nNa Magia: Magia para separação do casal, solidão, tristeza, pobreza, inércia.\nNo entanto, quem fez a magia pode ser descoberto.\n\n"
-            },
-            {
-                "id": 10,
-                "nome": "Fortuna",
-                "dados": "Sorte e oportunidade, momento certo de começar algo. Sucesso. Quando mal\naspectada pode indicar momento inadequado para se começar algo, perda de\noportunidades ou corrupção pelo poder conquistado.\n\n  \n\nMudança de fortuna (ou sorte). Isso geralmente significa boa fortuna por causa\ndo fato da consulta implicar ansiedade ou descontentamento.\n\n  \n\nNa Magia: Instável, grande confusão na vida, mas a própria pessoa pode estar\ncausando tudo, podendo ser kármico.\n\n"
-            },
-            {
-                "id": 11,
-                "nome": "Luxúria",
-                "dados": "O domínio das emoções. Força demonstrada pela suavidade (sedução), amor\npassional. Se estiver mal aspectada, pode indicar mal uso da força, crimes\npassionais, instabilidade emocional.\n\n  \n\nCoragem, força, energia e ação, uma grande paixão; recorrer a magia, o uso de\npoder mágico.\n\n  \n\nNa Magia: Pode haver uma magia, mas não produz nenhum efeito sobre o\nconsulente.\n\n"
-            },
-            {
-                "id": 12,
-                "nome": "Enforcado",
-                "dados": "O não-agir, o conhecimento puro, sem interferência da vontade. Quando está mal\naspectado indica precipitação, falta de consciência, ficar no seu próprio\ncaminho.\n\n  \n\nSacrifício forçado, punição, perda fatal ou voluntária, sofrimento, derrota,\nfracasso, morte, abandono momentâneo.\n\n  \n\nNa Magia: Magia para desordem material, impotência ou frigidez, larvas,\nburacos áuricos, vingança.\n\n"
-            },
-            {
-                "id": 13,
-                "nome": "Morte",
-                "dados": "Morte de alguma situação que não tem mais razão de continuar. Desligamento\ngradativo e natural, mudanças que irão gerar crescimento. Se mal aspectada,\npode indicar mágoas, ressentimentos, perdas, prejuízo.\n\n  \n\nMudança, transmissão, voluntária ou involuntária, em qualquer caso, o\ndesenvolvimento lógico de condições existentes, mas talvez repentina e\ninesperada. Morte aparente ou destruição, mas tal interpretação é ilusão.\n\n  \n\nNa Magia: Perda da saúde, emprego, negócios, projetos, amor. É muito agressiva\ne aumenta o poder das outras cartas negativamente.\n\n"
-            },
-            {
-                "id": 14,
-                "nome": "Arte",
-                "dados": "Equilíbrio das partes, o ponto certo exigido para a mudança que irá ocorrer.\nVisão interior, transmutação. Quando está mal aspectada, indica cegueira\ninterior, inadaptação, perda de medida, falta de coragem para olhar a si mesmo\ne reparar seus erros.\n\n  \n\nCombinação de forças, realização, ação baseada em cálculo preciso, rota de\nfuga, sucesso depois de manobras elaboradas.\n\n  \n\nNa Magia: Proteção. Poder de Combate.\n\n"
-            },
-            {
-                "id": 15,
-                "nome": "Diabo",
-                "dados": "Realização material, ambição, luta para conquistar uma posição. Se estiver mal\naspectada pode indicar perda pela má utilização do bem recebido, limitação,\nobsessão, tentação.\n\n  \n\nImpulso cego, irresistivelmente forte e inescrupuloso, ambição, tentação,\nobsessão, plano secreto prestes a ser executado; trabalho duro, rigidez,\nobstinação, descontentamento, dor, resistência.\n\n  \n\nNa Magia: Perda de posição social, amor, saúde, sendo o contrário também\nverdadeiro – ganho de tudo. Geralmente, é uma entidade não artificial, boa ou\nruim, que colabora no processo. A pessoa também pode estar causando tudo por\nprocessos de drogas ou álcool.\n\n"
-            },
-            {
-                "id": 16,
-                "nome": "Torre",
-                "dados": "Rompimento com o passado, crescimento, vontade, coragem, amor homossexual\n(masculino). Quando mal aspectada pode indicar ruína, discussão, ir além dos\nlimites permitidos, decadência moral e física.\n\n  \n\nDisputa, combate, perigo, ruína, destruição de planos, morte súbita, fuga da\nprisão (de qualquer tipo).\n\n  \n\nNa Magia: Destruição ou ruína.\n\n"
-            },
-            {
-                "id": 17,
-                "nome": "Estrela",
-                "dados": "Esperança, realização a longo prazo, fé, auxílio, conhecimento, determinação.\nQuando está mal aspectada pode indicar ilusão, falsas esperanças, falta de\ndeterminação, dificuldade em focar a atenção no objetivo proposto.\n\n  \n\nEsperança, ajuda inesperada, clareza de visão, a realização de possibilidades,\ndiscernimento espiritual, mal aspectada: erro de julgamento, devaneio,\ndesapontamento.\n\n  \n\nNa Magia: Poder de Combate. Ou não há magia por proteção espiritual.\n\n"
-            },
-            {
-                "id": 18,
-                "nome": "Lua",
-                "dados": "Superar a si mesmo, mudanças, coragem para enfrentar as situações. Estando mal\naspectada pode indicar medo injustificado, sofrimento, angústia, falsidade,\nilusão, trabalhos mágicos feitos pelo ou para o consulente.\n\n  \n\nIlusão, engano, confusão, histeria, mesmo loucura, devaneio, falsidade, erro,\ncrise, \"hora mais escura antes do amanhecer\", mudança importante próxima.\n\n  \n\nNa Magia: O único Arcano Maior que transmite a Magia.\n\n"
-            },
-            {
-                "id": 19,
-                "nome": "Sol",
-                "dados": "Iluminação, glória, virtude, realização pessoal. Se estiver mal aspectada pode\nindicar limitação, incapacidade de ver adiante, desperdício, falsa aparência\nde poder, dificuldade de enxergar os próprios limites.\n\n  \n\nGlória, riqueza ganho, triunfo, prazer, franqueza, verdade, despudor,\narrogância, vaidade, manifestação, a recuperação da doença, mas às vezes morte\nsúbita.\n\n  \n\nNa Magia: Poder de Combate. Mestre Espiritual.\n\n"
-            },
-            {
-                "id": 20,
-                "nome": "Aeon",
-                "dados": "Mudanças de grande porte, decisão importante tomada para o bem, definição.\nQuando está mal aspectada indica incapacidade de decidir, indefinição,\nincapacidade de interferir no resultado.\n\n  \n\nDecisão final em relação ao momento atual, novo presente em relação ao futuro,\nsempre representa a tomada de um passo definitivo.\n\n  \n\nNa Magia: Magia de morte, obsessores\n\n"
-            },
-            {
-                "id": 21,
-                "nome": "O Universo",
-                "dados": "O Ilimitado, a superação final, o rompimento de toda e qualquer amarra\nmaterial/espiritual, unidade. Mesmo mal aspectada, essa carta sugere sucesso e\nvitória decisiva sobre os acontecimentos.\n\n  \n\nA questão da pergunta em si, a síntese, o fim da questão, pode significar\natraso, oposição, obstinação, inércia, paciência, perseverança, teimosia\npersistente na dificuldade. A cristalização de toda a questão envolvida.\n\n  \n\nNa Magia: O Universo (Arcano). Não há magia. Poder de Combate.\n\n"
-            },
-            {
-                "id": 22,
-                "nome": "A Raiz Dos Poderes De Fogo - Ás De Bastões",
-                "dados": "**A raiz dos poderes do fogo.**\n\n  \n\nEncontra-se no Polo Norte do Universo.\n\n  \n\nSimboliza a fortaleza, rapidez, vigor, energia e governo, de acordo com sua\nnatureza, vários trabalhos e questões. Implica força natural com o oposto da\ninvocada.\n\n"
-            },
-            {
-                "id": 23,
-                "nome": "Domínio - Dois De Bastões",
-                "dados": "**O Senhor do domínio.**\n\n  \n\nOrgulho em detrimento de outros, autoridade, poder,domínio.\n\n  \n\nÉ o lado agressivo de Áries. Enobrecimento e ambição, moderando a\nimpulsividade, reforçando o caráter, desenvolvendo a paciência e a\nperseverança, e conferindo uma vitalidade robusta. É a natureza íntegra do\nsigno.\n\nForça, domínio, harmonia da regra e da justiça. Atrevimento, valor, força,\nvingança, resolução, generosidade, orgulho, sensibilidade, ambição,\nrefinamento, turbulência. Infatigável; também sagaz, mas implacável e\nobstinado.\n\n  \n\nChokmah de Yod. Influência sobre os demais, autoridade, poder, domínio.\n\n"
-            },
-            {
-                "id": 24,
-                "nome": "Virtude - Três De Bastões",
-                "dados": "**O Senhor da força estabelecida.**\n\n  \n\nArrogância, orgulho, autoafirmação.\n\n  \n\nDominado pelo Sol, mostra o lado idealista do signo. Mas também, a\nimpulsividade, o desassossego e as atividades exteriores.\n\n  \n\nForça estabelecida, fortaleza, realização da esperança. Conclusão do trabalho.\nÊxito após a luta. Orgulho, nobreza, riqueza, poder, altivez. Grosseria,\npresunção e insolência. Generosidade, obstinação.\n\n  \n\nBinah de Yod. Orgulho, arrogância, petulância. Esta carta é muito melhor do\nque se descreve.\n\n"
-            },
-            {
-                "id": 25,
-                "nome": "Conclusão - Quatro De Bastões",
-                "dados": "**O Senhor do trabalho aperfeiçoado.**\n\n  \n\nLiquidação, arranjo de conclusão.\n\n  \n\nDominado por Vênus, dá fortes paixões e sede de prazeres, amor às artes e à\npoesia. Sentimentos bondosos, mas impulsivos, criando, ademais, uma disposição\ncordial e simpática.\n\n  \n\nPerfeição e finalização de algo construído com dificuldade e trabalho.\nDescanso após o trabalho, sutileza, inteligência, beleza, alegria, êxito\nconcluído, faculdade de raciocínio, conclusões retiradas do conhecimento\nprévio. Desapercebimento, informal e inconstante por excesso de impaciência e\npressa nas ações. De elegantes maneiras, às vezes pouco sincero.\n\n  \n\nChesed de Yod. Solução, disposição, finalização.\n\n"
-            },
-            {
-                "id": 26,
-                "nome": "Disputa - Cinco De Bastões",
-                "dados": "**O Senhor da contenda.**\n\n  \n\nBrigando e lutando.\n\n  \n\nDominado por Saturno, cria uma natureza forte, veemente, difícil de refrear,\nfalso orgulho, caráter severo, cauteloso e até desconfiado pela falta de\nconfiança em si mesmo, atentíssimo a seus próprios interesses e forçado mais\nde uma vez a dobrar-se a obstáculos e dificuldades da vida exterior em que\npese seu grande amor à independência.\n\n  \n\nÉ a contenda violenta e o atrevimento, imprudência, crueldade, luxúria,\ndesejo, prodigalidade e generosidade; dependendo das cartas próximas a ela.\n\n  \n\nGeburah de Yod. Luta e Contenda.\n\n"
-            },
-            {
-                "id": 27,
-                "nome": "Vitória - Seis De Bastões",
-                "dados": "**O Senhor da vitória.**\n\n  \n\nGanho.\n\n  \n\nDominado por Júpiter, debilita a energia, a constância e a tranquila\nperseverança, fomentando a atividade externa e demonstrativa, mas desperta\ntambém a autoconfiança, bondade e o humanitarismo.\n\n  \n\nVitória depois da contenda: amor, prazer conseguido por meio do trabalho.\nPrecaução, sociabilidade e diplomacia, ainda que objetivando a vitória. Também\ninsolência e orgulho de riqueza e êxitos. O resultado depende das cartas\npróximas.\n\n  \n\nTiphareth de Yod. Ganância.\n\n"
-            },
-            {
-                "id": 28,
-                "nome": "Valor - Sete De Bastões",
-                "dados": "**O Senhor do valor.**\n\n  \n\nOposição, e também coragem.\n\n  \n\nDominado por Marte, aumenta a energia, a iniciativa, a ousadia, a\nimpulsividade, o afã de atuar e reinar. Mas, a natureza é aberta e magnânima.\nHomens desse tipo são tirânicos como donos e rebeldes como serventes. Desgaste\nda vontade.\n\n  \n\nVitória possível, dependendo da energia e do valor empregados. Valor,\noposição, obstáculos e dificuldades, com valor para afrontá-los. Disputas,\nignorância, pretensão e ameaças. Também a vitória em coisas pequenas e sem\nimportância. Influência sobre os subordinados.\n\n  \n\nNetzach de Yod. Oposição, ainda que com valor.\n\n"
-            },
-            {
-                "id": 29,
-                "nome": "Rapidez - Oito De Bastões",
-                "dados": "**O Senhor da prontidão.**\n\n  \n\nComunicações apressadas e mensagens, rapidez.\n\n  \n\nDominado por Mercúrio, atrai um juízo acertado, intelecto agudo, claro e\nsábio. Adaptabilidade, energia mental e inclinação para estudos científicos e\nfilosóficos. Esgotamento da energia.\n\n  \n\nForça demasiada aplicada muito repentinamente. Violento mas não duradouro.\nVelocidade, rapidez, valor, atrevimento, confiança, liberdade, guerra,\nviolência. Amor ao ar livre, esportes em campo aberto, jardins e prados.\nGeneroso, sutil, eloquente, mas algo irresponsável. Roubo, opressão. Depende\ndas cartas à sua volta.\n\n  \n\nHod de Yod. Comunicações e mensagens apressadas, rapidez.\n\n"
-            },
-            {
-                "id": 30,
-                "nome": "Força - Nove De Bastões",
-                "dados": "**O Senhor da grande força.**\n\n  \n\nForça, poder, saúde, recuperação da doença.\n\n  \n\nDominado pela Lua, caracteriza as pessoas de viva imaginação, força criadora e\nde inclinações românticas, mas também de desassossego.\n\n  \n\nTremenda e constante força que não pode ser abalada.\n\n  \n\nForça hercúlea, mas as vezes aplicada cientificamente. Grande êxito, mas com\nluta e energia. Vitória precedida por medo e apreensão. Boa saúde e\nrecuperação sem admitir dúvidas. Generoso, inquisidor e curioso. Preocupado\ncom aparências externas, intratável, obstinado.\n\n  \n\nYesod de Yod. Força, poder, saúde, recuperação da enfermidade.\n\n"
-            },
-            {
-                "id": 31,
-                "nome": "Opressão - Dez De Bastões",
-                "dados": "**O Senhor da opressão.**\n\n  \n\nCrueldade, maldade, vingança, injustiça.\n\n  \n\nDominado por Saturno, demonstra paixões fortes, mas refreadas e uma\nmentalidade filosófica, sóbria, idônea para investigações profundas, sobretudo\nno domínio científico.\n\n  \n\nForça e energia cruéis e despóticas, mas aplicadas somente a fins materiais e\negoístas. Às vezes, mostra o fracasso em um assunto e a oposição demasiado\nforte para ser controlada. Emanando o princípio de um egoísmo pessoal muito\nacentuado. Má intensão, ligeireza, mentiras, malícia, calúnia, obstinação.\nHabilidade em maldade e enganação, se estiver mal posicionada. Também\ngenerosidade, desinteresse e abnegação.\n\n  \n\nMalkuth de Yod. Crueldade, malícia, vingança, injustiça.\n\n"
-            },
-            {
-                "id": 32,
-                "nome": "Cavaleiro De Bastões",
-                "dados": "**O Senhor da chama e do raio.**\n\n  \n\nRei dos Espíritos de Fogo.\n\n  \n\nRege de 20º de Escorpião a 20º de Sagitário.\n\n  \n\nEle é ativo, generoso, forte, repentino, impetuoso. Se mal dignificada, ele é\nperverso, cruel, intolerante, brutal. Não é capaz de modificar sua atitude\nsegundo as circunstâncias. Se fracassa no início, sua força esgota-se\nrapidamente.\n\n"
-            },
-            {
-                "id": 33,
-                "nome": "Rainha De Bastões",
-                "dados": "**A Rainha dos tronos das chamas.**\n\n  \n\nRege de 20º de Peixes a 20º de Áries.\n\n  \n\nAdaptabilidade, força persistente aplicada a um objeto. Mão firme para\ncomandar, grande poder de atração, poder governador mas amável. É amável desde\nque não tenha oposições a ela. Embora pareça orgulhosa, esse orgulho não passa\nde vaidade autocomplacente e até, pode-se dizer, jactância. Quando está mal\naspectada, é obstinada, vingativa, dominadora, tirânica e dada a voltar-se\ncontra outra pessoa sem causa aparente. Tem uma certa tendência à obsessão,\npodendo chegar a falsas conclusões, raciocinando com grande brutalidade. Pode\nser tirânica e estúpida. Ao se sentir ofendida, busca vingança, mesmo que\ninjustificada.\n\n"
-            },
-            {
-                "id": 34,
-                "nome": "Príncipe De Bastões",
-                "dados": "**O Príncipe da carruagem de fogo.**\n\n  \n\nRege de 20º de Câncer a 20º de Leão.\n\n  \n\nRápido, forte, romântico, impaciente, às vezes violento, mas justo e generoso,\nnobre e despreza a mesquinhez. Muitas vezes acaba atuando por impulso; em\noutros momentos, é influenciado pelas energias próximas a ele, ou por assuntos\nsem importância. Quando expressa sua opinião, pode se tornar violento.\nDespreza a mesquinhez de qualquer tipo, assim como a estreiteza da visão. Luta\nsempre em desvantagem, embora no final sempre ganhe a última batalha.\n\n  \n\nQuando está mal aspectado mostra-se cruel, indiferente, preguiçoso,\nintolerante e perverso. Tem um senso de humor extremamente mutável, o que é\ndado pelo último decanato de Câncer nessa carta.\n\n"
-            },
-            {
-                "id": 35,
-                "nome": "Princesa De Bastões",
-                "dados": "**  Princesa da chama brilhante.**\n\n  \n\nA Rosa do Palácio de Fogo.\n\n  \n\nRege os céus acima do Polo Norte num de seus quadrantes, junto com o Ás de\nPaus.\n\n  \n\nBrilho, individualismo, ousadia, coragem, beleza, força, rápida na ira e no\namor. Desejo de poder, entusiasmo, vingança. Mal aspectada torna-se\nsuperficial, desleal, teatral, cruel, instável, dominadora. Jamais se esquece\nde um ultraje ou de uma afronta. Sua paciência é aquela necessária para\nrealizar seus projetos de vingança.\n\n"
-            },
-            {
-                "id": 36,
-                "nome": "A Raiz Dos Poderes Da Água - Ás De Copas",
-                "dados": "**A raiz dos poderes das águas.**\n\n  \n\nEncontra-se no Polo Norte do Universo.\n\n  \n\nEla simboliza a fertilidade, a produtividade, beleza, prazer, felicidade.\n\n  \n\n"
-            },
-            {
-                "id": 37,
-                "nome": "Amor - Dois De Copas",
-                "dados": "**  Senhor do amor.**\n\n  \n\nCasamento, amor, prazer.\n\n  \n\nDominado por Vênus, caracteriza uma natureza sociável, amável, magnânima,\nbondosa e atraente. Mas afeita aos prazeres e que gosta de destacar seu\nexterior pelo modo de vestir-se, adereços, etc.\n\n  \n\nHarmonia do masculino e do feminino unidos. Harmonia, prazer, alegria,\nsutileza: mas, se está mal aspectada, desperdício, derrota, atos simples e\ntolos.\n\n  \n\nChokmah de Heh. Matrimônio, amor, prazer.\n\n  \n\n"
-            },
-            {
-                "id": 38,
-                "nome": "Abundância - Três De Copas",
-                "dados": "**O Senhor da abundância.**\n\n  \n\nDominado por Mercúrio, une um bom intelecto com uma imaginação forte e é um\nestudioso notório. A eloquência que existe degenera circunstancialmente em\nmera loquacidade. Na vida exterior, o nativo atrai inimizades pelo uso\ndemasiado franco da língua e da pena.\n\n  \n\nAbundância, exuberância, êxito, prazer, sensibilidade, êxito passivo, boa\nsorte e fortuna, amor. Satisfação, amabilidade liberalidade.\n\n  \n\nBinah de Heh. Abundância, hospitalidade, comida e bebida, prazer, baile, novas\nroupas, regozijo.\n\n"
-            },
-            {
-                "id": 39,
-                "nome": "Luxo - Quatro De Copas",
-                "dados": "**O Senhor do prazer mesclado.**\n\n  \n\nDominado pela Lua, apresenta as mesmas características do signo de Câncer.\n\n  \n\nÊxito ou prazer que se aproximam do fim. Um período estacionário de\nfelicidade, que pode ou não continuar. Não significa amor e casamento tanto\nquanto a carta anterior. É um símbolo demasiado passivo para representar\nperfeitamente a felicidade completa. Prontidão, persuasão e captura. Aquisição\nmediante luta. Às vezes injustiça. Alguns inconvenientes com o prazer\nimplicado.\n\n  \n\nChesed de Heh. Receber prazer ou amabilidade dos demais, mas com algum\ndescontentamento.\n\n  \n\n"
-            },
-            {
-                "id": 40,
-                "nome": "Desapontamento - Cinco De Copas",
-                "dados": "**O Senhor da perda no prazer.**\n\n  \n\nDesengano, tristeza e perda daquelas coisas das quais se espera o prazer.\nPena, perfídia, engano. Rancor, degradação. Caridade e amabilidade degradadas.\nToda classe de inquietudes e problemas de fontes insuspeitas e inesperadas.\n\n  \n\nGeburah de Heh. Desengano no amor, ruptura do matrimônio, crueldade de um\namigo; perda da amizade.\n\n"
-            },
-            {
-                "id": 41,
-                "nome": "Prazer - Seis De Copas",
-                "dados": "**O Senhor do prazer.**\n\n  \n\nDominado pelo Sol, desenvolve uma disposição orgulhosa, altaneira, com desejo\nde reinar e inclinada ao rigor e à tirania.\n\n  \n\nComeço de um sólido aumento, ganância e prazer, mas apenas o começo. Também\nafronta, descobrimento, conhecimento, e em alguns casos, contenda e luta que\nsurgem da presunção injustificada. Às vezes, mal agradecido, vaidoso e\npresunçoso. Outras, amável e paciente. Segundo a influência, como de praxe.\n\n  \n\nTiphareth de Heh. Princípio do desejo, felicidade, êxito, ou diversão.\n\n"
-            },
-            {
-                "id": 42,
-                "nome": "Deboche (Corrupção) - Sete De Copas",
-                "dados": "**O Senhor do êxito ilusório.**\n\n  \n\nDominado por Vênus, fomenta falta de limites, apetites pervertidos e\ninconstância nos assuntos amorosos.\n\n  \n\nPossível vitória, mas neutralizada pela falta de caráter da pessoa. Êxito\nilusório, decepção no momento da aparente vitória. Mentiras, erros, promessas\nnão cumpridas. Embriagues, ira, vaidade, luxúria, fornicação, violência contra\nas mulheres, libertinagem egoísta, decepção no amor e na amizade. Algumas\nvezes obtém o êxito, mas não é continuado. Modificado segundo as influências\npróximas como de hábito.\n\n  \n\nOs cálices vazios nessa carta fazem uma alusão ao fato\n\nde Netzach (a sétima sephira) não ter contato direto com Kether (a primeira\nsephira) e, portanto, não compartilha das bênçãos (ou emanações) vindas do\nalto. Desgaste emocional.\n\n  \n\nNetzach de Heh. Mentiras, promessas não cumpridas, ilusão, decepção, erro.\nLigeiro êxito inicial, mas não mantido.\n\n"
-            },
-            {
-                "id": 43,
-                "nome": "Indolência - Oito De Copas",
-                "dados": "**O Senhor do êxito abandonado.**\n\n  \n\nDominado por Saturno, indica entusiasmo mal utilizado, simpatias corruptas,\nreligiosidade que se inclina ao fanatismo, disputas e discórdia com inimigos\npoderosos e com falsos amigos, diminuindo sua própria posição.\n\n  \n\nÊxito temporal, mas sem resultados posteriores. O objeto\n\né largado de lado tão logo é obtido. Não duradouro, inclusive entre as mãos\n(como areia escorrendo pelos dedos). Indolência no êxito. Viagens de um lugar\na outro. Sofrimento e aflição sem causa. Busca de riquezas. Instabilidade.\nEsgotamento emocional.\n\n  \n\nComo na carta anterior, essa carta indica, pelos cálices\n\nsuperiores vazios, a perda do contato com a fonte divina (Kether). O êxito não\né continuado e é abandonado logo em seguida. A busca do êxito pela vitória em\nsi, mas sem saber o que fazer com o objeto conquistado. (ver também o arcano\nXV – O Diabo para maiores explicações).\n\n  \n\nHod de Heh. Êxito abandonado, dissimulação do interesse.\n\n"
-            },
-            {
-                "id": 44,
-                "nome": "Felicidade - Nove De Copas",
-                "dados": "**O Senhor da felicidade material.**\n\n  \n\nDominado por Júpiter, possui as mesmas características dadas pelo próprio\nsigno.\n\n  \n\nCompleta e perfeita realização do prazer e da felicidade, quase perfeita.\nAutoadulação, vaidade, presunção, falar muito de si mesmo, não obstante amável\ne encantador, podendo ser abnegado. De nobres pensamentos, não se satisfaz\nfacilmente com ideias limitadas ou pequenas. Tem tendência a tornar-se mau\npelo excesso de presunção. De natureza boa e generosa, mas às vezes\nprecipitado.\n\n  \n\nYesod de Heh. Êxito completo, prazer e felicidade, desejos cumpridos.\n\n"
-            },
-            {
-                "id": 45,
-                "nome": "Saciedade - Dez De Copas",
-                "dados": "**O Senhor do êxito aperfeiçoado.**\n\n  \n\nDominado por Marte, dá mais força, capacidade, energia e confiança em si\nmesmo, mas fomenta um desenvolvimento de zelos, rigor, aspereza e de apreço\nexcessivo aos seus próprios caprichos.\n\n  \n\nPermanente e duradouro êxito e felicidade, porque está inspirado desde Kether.\nNão tão sensual como o “Senhor da Felicidade Material (Nove de Copas)”, mas\nquase mais feliz. Prazer, libertinagem, corrupção, tranquilidade, pacificação.\nAmabilidade, pena, generosidade, atitude desenfreada, segundo as influências\npróximas, como é próprio dos Arcanos Menores.\n\n  \n\nEssa carta acaba não sendo tão maravilhosa quanto parece ser. Podem sobrevir\ndela aborrecimentos e discórdias; repugnância que advém do excesso de luxo.\nEmbrutecimento pelo excesso de prazer.\n\n  \n\nMalkuth de Heh. Assunto estabelecido, completitude e boa fortuna.\n\n"
-            },
-            {
-                "id": 46,
-                "nome": "Cavaleiro De Copas",
-                "dados": "**O Senhor das ondas e das águas.**\n\n  \n\nRei das hostes do mar.\n\n  \n\nRege de 20º de Aquário até 20º de Peixes.\n\n  \n\nSuas características são evidentemente passivas. Gracioso, poético, venusiano,\nindolente mas entusiasta quando estimulado. Mal aspectado é sensual,\nmentiroso, perigoso e falso. Seu caráter demonstra falta de perspicácia.\n\n"
-            },
-            {
-                "id": 47,
-                "nome": "Rainha De Copas",
-                "dados": "**Rainha dos tronos das águas.**\n\n  \n\nRege de 20º de Gêmeos até 20º de Câncer.\n\n  \n\nÉ imaginativa, poética, ilusionista, amável, mas não é dada a tomar as dores\ndos demais. Vaidosa, de boa natureza sob uma aparência de sonolência. Sua\nimaginação é mais forte que seus sentimentos. É muito afetada por outras\ninfluências e então depende mais da dignidade boa ou má dos aspectos ao seu\nredor, do que do restante dos símbolos. Tudo aquilo que ela representa pode\nser distorcido por seu reflexo. Esta carta associa-se diretamente com a carta\nda Sacerdotisa (Arcano Maior n.º II). Pode-se até mesmo usar as mesmas\natribuições desta carta. Enquanto o Arcano Maior (A Sacerdotisa) representa um\naspecto interno, esta carta pode assumir uma pessoa de fato, não apenas uma\nsituação, mas alguém.\n\n"
-            },
-            {
-                "id": 48,
-                "nome": "Príncipe De Copas",
-                "dados": "**Príncipe da carruagem das águas.**\n\n  \n\nRege de 20º de Libra a 20º de Escorpião.\n\n  \n\nÉ sutil, violento, habilidoso, tranquilo, imperturbável, astuto e artístico.\nSob uma calma exterior esconde sua verdadeira natureza. É poderoso para o bem\nou para o mal, mas se sente mais atraído para o mal, ainda que apenas\naparentemente conciliando poder e sabedoria. Mal aspectado é intensamente\nmalvado e impiedoso. Preocupa-se consigo mesmo e com o alcance de seu poder.\nNão se responsabiliza pelos demais, o que faz dele uma péssima escolha para\ntrabalhos em equipe.\n\n"
-            },
-            {
-                "id": 49,
-                "nome": "Princesa De Copas",
-                "dados": "**Princesa das águas e dos lótus do Palácio das Inundações.**\n\n  \n\nRege um dos quadrantes do Céu no Polo Norte, ao redor de Kether, junto com o\nÁs de Copas.\n\n  \n\nDoçura, poesia, virtuosidade, voluptuosidade, gentileza e amabilidade.\nImaginação, sonolência, às vezes indolência. Mas é valente se for estimulada.\nMal aspectada é egoísta e luxuriosa (caprichosa).\n\n"
-            },
-            {
-                "id": 50,
-                "nome": "A Raiz Dos Poderes Do Ar - Ás De Espadas",
-                "dados": "**A raiz dos poderes do ar.**\n\n  \n\nEncontra-se no Polo Norte do Universo.\n\n  \n\nSimboliza o invocado, em contraste com a força natural, pois é a invocação da\nEspada. Levantada com a ponta para cima invoca a coroa divina do brilho\nespiritual, mas invertida é a invocação da força demoníaca e se converte num\ntemível símbolo do mal. Representa, portanto, grande poder para o bem e para o\nmal mas, invocado, também representa a força em torvelinho e a fortaleza pela\naflição. É a afirmação da justiça que defende a autoridade divina e pode\nconverter-se na espada da ira do castigo e da aflição.\n\n"
-            },
-            {
-                "id": 51,
-                "nome": "Paz - Dois De Espadas",
-                "dados": "**O Senhor da paz restaurada.**\n\n  \n\nDominado pela Lua, predispõe a um caráter débil, fácil de influenciar,\nexcêntrico e variável.\n\n  \n\nCaracterísticas contraditórias da mesma natureza, fortaleza pelo sofrimento.\nPrazer depois da dor. Sacrifício e aflição, ainda que a força surja deles,\nsimbolizados pela posição da rosa, como se a própria dor houvesse produzido a\nbeleza. Acordo, paz restaurada, trégua, verdade e falsidade. Pena e compaixão.\nAjuda ao debilitado, acordo, justiça, desinteresse. Também uma tendência à\nrepetição das afrontas a serem perdoadas. Dado às petições. Falta de tato e\npropensão a fazer perguntas de pouca importância, loquaz.\n\n  \n\nChokmah de Vav. Paz nas disputas, ainda que com alguma tensão nas relações.\nAtos às vezes egoístas e às vezes desinteressados. Depende também das\ninfluências externas. Discussão feita, terminada, mas ainda algumas tensões\nnas relações, ações, às vezes egoísta, por vezes, egoísta.\n\n  \n\n"
-            },
-            {
-                "id": 52,
-                "nome": "Dor - Três De Espadas",
-                "dados": "**O Senhor da tristeza.**\n\n  \n\nDominado por Saturno, confere elevada concentração, engenhosidade, justiça,\nperseverança e fidelidade.\n\n  \n\nDesorganização, interrupção, separação, pendência. Semente da discórdia e a\ncontenda, revolta, pena e lágrimas. Sem dúvida, regojizo nos prazeres\nplatônicos: cantos, fidelidade nas promessas, honradez nas transações\nmonetárias, egoísmo e dissolução, mas generosidade às vezes. Falsidade em\npalavras e contradição. Tudo de acordo com as cartas ao redor.\n\n  \n\nBinah de Vav. Infelicidade, tristeza e lágrimas.\n\n"
-            },
-            {
-                "id": 53,
-                "nome": "Trégua - Quatro De Espadas",
-                "dados": "**O Senhor do descanso e da contenda.**\n\n  \n\nDominado por Júpiter, cria uma natureza bondosa, magnânima, amável,\nequilibrada, muito sincera e justiceira.\n\n  \n\nDescanso da tristeza; mas depois dela e por ela. Paz desde e depois da guerra.\nRelaxamento da inquietude. Tranquilidade, descanso, comodidade e abundância,\nmas depois da luta. Bens desta vida. Abundância. Tudo avaliado conforme as\ncartas ao redor.\n\n  \n\nChesed de Vav. Convalescença, recuperação da enfermidade, mudança para melhor.\n\n"
-            },
-            {
-                "id": 54,
-                "nome": "Derrota - Cinco De Espadas",
-                "dados": "**O Senhor da derrota.**\n\n  \n\nDominado por Vênus, confere um gosto refinado, equilíbrio, juízo acertado,\nsociabilidade, sobretudo no trato com o sexo oposto. Desperta, amiúde,\nintuição e dons psíquicos. O nativo dispõe de um temperamento tranquilo e\nsóbrio e refreia seus desejos.\n\n  \n\nContenda terminada e decidida contra a pessoa. Fracasso, derrota, impaciência,\ncontrariedades, pobreza, avareza, aflição depois da ganância. Laborioso,\ninfatigável. Sinistro e vil por natureza. Malicioso, calunioso, embusteiro,\nrancoroso e cismado. Um intrometido e separador de amigos, que odeia ver a paz\ne o amor entre os demais. Cruel, ainda que seja covarde, mal-agradecido e\ninformal. Inteligente e rápido de pensamento e palavras. Sentimentos de pena\nfacilmente suscitados, mas passageiros.\n\n  \n\nGeburah de Vav. Derrota, perda, malícia, rancor, calúnia, injúria.\n\n"
-            },
-            {
-                "id": 55,
-                "nome": "Ciência - Seis De Espadas",
-                "dados": "**O Senhor do êxito ganho.**\n\n  \n\nDominado por Mercúrio, presta ao intelecto, atividade, inteligência,\nprudência, aptidão, tanto para atividades científicas como para práticas\ncomerciais, mas diminui a constância, a decisão e a concentração.\n\n  \n\nÊxito depois da impaciência e da angústia; estima de si mesmo, beleza,\npresunção, mas, algumas vezes, modéstia; dominação, paciência, trabalho, etc.\n\n  \n\nTiphareth de Vav. Trabalho, labor, viagem por mar.\n\n"
-            },
-            {
-                "id": 56,
-                "nome": "Futilidade - Sete De Espadas",
-                "dados": "**O Senhor do esforço instável.**\n\n  \n\nDominado pela Lua, predispõe para melancolia, amor à solidão, imaginações\npessimistas, pressentimentos sombrios e inclinação para a vida nômade.\n\n  \n\nÊxito parcial. Rendição quando a vitória está nas suas mãos, como se houvessem\nse esgotado todas as reservas de energia. Inclinação para perder quando se\nestá a ponto de ganhar, por não continuar o esforço. Amor à abundância,\nfascinação pela exibição, Tendência aos cumprimentos, afrontas e insolências,\ne a espiar os demais. Tende a atraiçoar confidências, nem sempre de forma\nintencional. Um pouco vacilante e informal. Desgaste intelectual.\n\n  \n\nNetzach de Vav. Viagem por terra; sem caráter digno de confiança.\n\n"
-            },
-            {
-                "id": 57,
-                "nome": "Interferência - Oito De Espadas",
-                "dados": "**O Senhor da força reduzida.**\n\n  \n\nDominado por Júpiter, caracteriza uma disposição magnânima, demasiado otimista\ne cheia de confiança em si mesmo e os desenganos que disso resultam\nnecessariamente. Em que pese o intelecto agudo, o juízo desvia-se muitas vezes\ne leva a um uso falso das faculdades. Eloquência, compreensão jurídica e\npossibilidades de elevação devido ao próprio mérito se encontram com\nfrequência entre os representantes deste decanato alguns menos agraciados.\n\n  \n\nForça demasiada aplicada às pequenas coisas. Atenção excessiva nos detalhes às\ncustas dos pontos principais e mais importantes. Quando está mal dignificado,\nessas qualidades produzem malícia. Paciência no estudo detalhado. Grande\ncuidado em algumas coisas, contrastando com igual desordem em outras.\nImpulsivo; igualmente aficionado a dar ou receber dinheiro e regalias.\nGeneroso, inteligente, agudo, egoísta e sem fortes sentimentos de afeto.\nAdmira a sabedoria, não obstante a aplica a objetos pequenos e indignos.\nEsgotamento intelectual.\n\n  \n\nHod de Vav. Estreito, restrito, insignificante, um cárcere. Estreito,\nrestrito, insignificante, uma prisão.\n\n"
-            },
-            {
-                "id": 58,
-                "nome": "Crueldade - Nove De Espadas",
-                "dados": "**O Senhor do desespero e da crueldade.**\n\n  \n\nA presença de Marte no signo de Gêmeos traz belicosidade e agressividade a\nesta carta. Dominado por Marte, dá uma disposição combativa, violenta,\npetulante, inclinada à ingratidão. Enche a vida com altercações e discussões\ninúteis, e favorece um emprego errôneo e impulsivo do intelecto, que em si\nmesmo é bom e agudo.\n\n  \n\nDesespero, crueldade, impiedoso, malícia, sofrimento, carência, perdas,\nmiséria. Carga, opressão, trabalho, sutileza e destreza, desonestidade e\ncalúnia. Traição, aquilo que é feito com o intuito de obstruir e prejudicar. A\nboca e o intelecto como destruidores da paz.\n\n  \n\nTambém obediência, fidelidade, paciência, generosidade, segundo a dignidade\nastrológica. Uma forma mais generosa de se ver esta carta é a aceitação do\nmartírio, a resistência passiva, a resignação.\n\n  \n\nO nove traz novamente a energia ao pilar central da Árvore das Vidas. A\ndesordem causada pelos números anteriores (sete e oito) foi restaurada.\n\n  \n\nYesod de Vav. Enfermidade, sofrimento, malícia, crueldade, dor.\n\n"
-            },
-            {
-                "id": 59,
-                "nome": "Ruína - Dez De Espadas",
-                "dados": "**O Senhor da ruína.**\n\n  \n\nDominado pelo Sol, promove atividades literárias e científicas, efeitos\nbrilhantes do intelecto e êxitos literários ou artísticos pertinentes, sendo\nmenos propício, sem dúvida, aos meios financeiros. Produz muitas viagens e\nuniões poderosas e influentes, mas também um aporte ao desassossego e à\nagitação.\n\n  \n\nÉ quase tão ruim quanto o Nove de Espadas. Indisciplinado, força oposta,\ndesbaratamento e fracasso completos. Ruína de todos os planos e projetos.\nDesdém, insolência e impertinência, ainda que com alegria e regojizo. Um\nprofissional, amante de destruir a felicidade dos demais. Um repetidor das\ncoisas. Um falastrão de palavras excessivas. Não obstante, inteligente,\neloquente, etc. Segundo a dignidade.\n\n  \n\nMalkuth de Vav. Ruína, morte, derrota, desbaratamento.\n\n"
-            },
-            {
-                "id": 60,
-                "nome": "Cavaleiro De Espadas",
-                "dados": "**O Senhor dos ventos e das brisas.**\n\n  \n\nRei dos espíritos do ar.\n\n  \n\nRege de 20º de Touro a 20º de Gêmeos.\n\n  \n\nÉ ativo, inteligente, sutil, feroz, delicado, ligeiro, valoroso, valente,\nhabilidoso, inclinado ao domínio. Valoriza em excesso as coisas pequenas, a\nmenos que esteja bem aspectado. Mal aspectado é enganador, fútil, tirânico e\ncheio de vícios.\n\n"
-            },
-            {
-                "id": 61,
-                "nome": "Rainha De Espadas",
-                "dados": "**Rainha dos tronos do ar.**\n\n  \n\nRege de 20º de Virgem a 20º de Aquário.\n\n  \n\nÉ intensamente perceptiva, com uma observação aguda, sutil, rápida,\nconfidente, amiúde perseverante e exata nos detalhes. Cheia de graça, amante\nda dança e do equilíbrio. Mal dignificada é cruel, astuta, enganadora e\ntraiçoeira, ainda que de aparência dócil, o que a deixa duplamente perigosa.\n\n  \n\n"
-            },
-            {
-                "id": 62,
-                "nome": "Príncipe De Espadas",
-                "dados": "**Príncipe das carruagens dos ventos.**\n\n  \n\nRege de 20º de Capricórnio até 20º de Aquário.\n\n  \n\nCheio de ideias, pensamentos e desígnios, desconfiado, perspicaz, firme na\namizade e na inimizade. Cuidadoso, lento, precavido. É o Alfa e o Ômega, o\ndoador da morte (em oposição a Osíris, o doador da vida), que mata tão rápido\nquando cria. Mal aspectado se torna áspero, malicioso, intrigante, fanático,\nobstinado, mas indeciso e inseguro.\n\n  \n\nÉ uma carta extremamente violenta, rápida e perigosa, pois é governada pela\nimaturidade daquele que conduz a carruagem. Ela compartilha do significado da\ncarta n.º 0 (O Louco), porém representando seu lado mais desestruturado.\n\n"
-            },
-            {
-                "id": 63,
-                "nome": "Princesa De Espadas",
-                "dados": "**Princesa dos vendavais.**\n\n  \n\nLótus do Palácio do Ar.\n\n  \n\nEncontra-se no Polo Norte do Universo, ao redor de Kether, junto com o Ás de\nEspadas.\n\n  \n\nSabedoria, lógica, força, agudeza, sutileza nas coisas materiais, graça e\ndestreza. Mal aspectada é agressiva, vingativa, incoerente, frívola e astuta.\n\n"
-            },
-            {
-                "id": 64,
-                "nome": "A Raiz Dos Poderes Da Terra - Ás De Discos",
-                "dados": "**A raiz dos poderes da Terra.**\n\n  \n\nEncontra-se no Polo Norte do Universo. Como todos os Ases, é uma energia\npotencialmente muito poderosa, que pode ou não ser manifestada. Aquilo que\npode vir a ser, um acontecimento iminente, porém, se não é levado adiante,\ntorna-se apenas uma energia desperdiçada sem finalidade ou resultado algum. O\nsimbolismo forte desta carta contrasta com seu significado e sua energia,\nfazendo com que seja necessário meditar por longas horas sobre seu real\nsentido.\n\n  \n\nÉ a materialidade em todos os sentidos, bem ou mal. É, por conseguinte, num\ncerto sentido, uma ilusão (assim como todos os Ases anteriores): a ganância\nmaterial, o trabalho, o poder, a riqueza, etc. Guarda alguma semelhança com o\nDez (10=1+0=1) de Pantáculos.\n\n  \n\nA aparição do elemento Terra. Segundo os qabalistas, o elemento Terra é a\nmanifestação física dos outros três (água, fogo, ar) que possuem apenas uma\nnatureza espiritual. Isso é relembrado ao observarmos as três letras mães do\nalfabeto hebraico (aleph-ar, mem-água, shin-fogo).\n\n  \n\nEla representa a materialidade em todos os sentidos, bons e maus, e é,\nportanto, em certo sentido, ilusório: ele mostra o ganho material, trabalho,\npoder, riqueza.\n\n"
-            },
-            {
-                "id": 65,
-                "nome": "Mudança - Dois De Discos",
-                "dados": "**O Senhor da mudança harmoniosa.**\n\n  \n\nDominado por Júpiter, mostra uma disposição ambiciosa, de vista ampla, mas\ncujas possibilidades de criação e êxito são frustradas amiúde pelo ceticismo e\npelo pessimismo.\n\n  \n\nA harmonia da mudança, alteração entre ganância e o prejuízo; força e\ndebilidade; ocupação sempre mudando; errante, descontente com qualquer\ncondição fixa das coisas; agora, alegria, depois, melancolia; trabalhador mas\ninformal; afortunado pela prudência na organização, sem dúvida, às vezes\ninexplicavelmente deslocado; alternativamente loquaz e suspicaz. Amável, ainda\nque oscilante e inconsciente. Afortunado nas viagens. Argumentador.\n\n  \n\nChokmah de Heh. Mudança agradável, visita aos amigos.\n\n"
-            },
-            {
-                "id": 66,
-                "nome": "Trabalho - Três De Discos",
-                "dados": "**O Senhor dos trabalhos materiais.**\n\n  \n\nDominado por Marte, caracteriza o cume da ambição, energia e atuação\ncompenetrada da confiança em si mesmo. O nativo se deixa arrebatar facilmente\ne ultrapassa os limites da prudência, sofrendo pelos revezes ou até mesmo\npelas quedas. Muitas vezes ocorre que no seu afã de sucesso torna-se rigoroso\ne despótico.\n\n  \n\nForça de trabalho. Edificação, criação, ereção; realização e aumento das\ncoisas materiais; ganância em transações comerciais, alimento; aumento dos\nbens, influência, inteligência nos negócios, egoísmo. Iniciação de assuntos\nque mais tarde serão estabelecidos: intolerante e cheio de prejuízos.\nPerspicaz em assuntos gananciosos; dado, às vezes, a buscar coisas\nimpossíveis.\n\n  \n\nBinah de Heh. Negócio, emprego remunerado, transação\n\ncomercial.\n\n"
-            },
-            {
-                "id": 67,
-                "nome": "Poder - Quatro De Discos",
-                "dados": "**O Senhor do poder terreno.**\n\n  \n\nDominado pelo Sol, provoca uma natureza fria, severa, reservada, melancólica,\negocêntrica, carente de simpatia dos outros e gratuitamente.\n\n  \n\nGanância material assegurada; êxito, prestígio, domínio, poder terreno,\ncompletados mas sem conduzir a nenhum final. Pleno de prejuízos, cobiçoso,\nsuspicaz, cuidadoso e ordenado, mas descontente. Pouco empreendedor ou de\npouca originalidade. Segundo as influências próximas, como de costume.\n\n  \n\nChesed de Heh. Ganância de dinheiro ou influência: comodidade.\n\n"
-            },
-            {
-                "id": 68,
-                "nome": "Preocupação - Cinco De Discos",
-                "dados": "**O Senhor da desgraça material.**\n\n  \n\nO aporte de Mercúrio é expressado por fortes dons intelectuais, força criadora\ne disposição amável. O indivíduo não somente possui inclinações às artes e a\ntudo o que é formoso (em especial no que diz respeito à forma e à cor), a\nprazeres sensuais, conforto e comodidades, mas, também, aptidão para esforços\nmentais contínuos. A intuição, o juízo acertado, a aplicação prática do\nintelecto e da eloquência. Mas, também faz- se crítico, egocêntrico e\ninclinado à avidez.\n\n  \n\nPerda de dinheiro e posição. Desgraça em coisas materiais. Trabalho, esforço,\ncultivo da terra. Edificação, conhecimento e agudeza das coisas terrenas,\npobreza, precaução, amabilidade; às vezes, recuperação de dinheiro depois de\num duro esforço e trabalho. Sem imaginação, duro, austero, determinado,\nobstinado.\n\n  \n\nGeburah de Heh. Perda da profissão, perda de dinheiro, angústia monetária.\n\n  \n\n"
-            },
-            {
-                "id": 69,
-                "nome": "Sucesso - Seis De Discos",
-                "dados": "**O Senhor do êxito material.**\n\n  \n\nO aporte da Lua se reconhece por uma disposição mutável e romântica, pela\nimaginação forte, sede de prazeres e o anseio de atividades artísticas ou\npoéticas. Com frequência se percebe também uma predileção pela mudança de\nendereço e uma promoção inequívoca da aquisição de dinheiro e propriedades.\n\n  \n\nÊxito e ganância nos empreendimentos materiais. Poder, influência, alimento,\nnobreza, regência sobre as pessoas. Afortunado, triunfante, justo e liberal.\nSe é mal dignificado, pode ser arrogante por sua riqueza, insolente por\nexcesso, ou pródigo. Podemos concluir daí que essa carta fala da vitória em\ncoisas materiais (como é próprio dos Arcanos Menores), e seu vínculo com o\ncorpo e a matéria é mais que evidente.\n\n  \n\nTiphareth de Heh. Êxito em coisas materiais, prosperidade nos negócios.\n\n"
-            },
-            {
-                "id": 70,
-                "nome": "Fracasso - Sete De Discos",
-                "dados": "**O Senhor do êxito não cumprido.**\n\n  \n\nDominado por Saturno, predispõe para a ambição, para a atividade intelectual\nprática, o talento organizador e o juízo baseado em fria razão. Diminui a\nintuição. Na atividade exterior, a influência saturnina se faz sentir como um\nfreio que produz obstáculos e atrasos, e como fator redutivo aos êxitos.\n\n  \n\nPromessas de êxito não cumpridas. Exibidas como se o fossem, mas não\naconteceu, indicado pelos brotos que não floresceram. Perda da aparente\nfortuna prometida. Esperanças defraudadas e oprimidas. Desengano, miséria,\nescravidão, necessidade e baixeza. Um cultivador da terra e sem dúvida um\nperdedor por essa mesma razão. Às vezes denota ligeiras e isoladas ganâncias\ndas quais não resultam nenhum fruto e de não muita importância, ainda que\npareçam muito promissoras. Desgaste financeiro.\n\n  \n\nNetzach de Heh. Especulações e empregos não rentáveis; pequenas ganâncias com\nmuito trabalho.\n\n"
-            },
-            {
-                "id": 71,
-                "nome": "Prudência - Oito De Discos",
-                "dados": "**O Senhor da prudência.**\n\n  \n\nDominado pelo Sol, dá paciência, constância, inclinação\n\nao retiro e aptidões para ciências analíticas e mecânicas.\n\n  \n\nExcessivamente cuidadoso em pequenas coisas, às custas das grandes: “Realça os\ntrocos e joga por terra o dinheiro grande”. Ganância e dinheiro fácil em\npequenas quantidades. Mesquinho, avarento, laborioso. Cultivo da terra;\ncarência de iniciativa. Esgotamento financeiro.\n\n  \n\nHod de Heh. Habilidade, prudência e astúcia.\n\n"
-            },
-            {
-                "id": 72,
-                "nome": "Ganho - Nove De Discos",
-                "dados": "**O Senhor da ganância material.**\n\n  \n\nDominado por Vênus, indica uma pessoa amável, sociável e afeita aos prazeres,\neloquente e que tem inclinação às artes, mas também ao outro sexo.\n\n  \n\nRealização completa da ganância material, bens , riquezas, herança.\nRecolhimento de bens, às vezes roubo e velhacaria. O conjunto depende das\ncartas ao redor. Esta carta tem relação em menor grau com a carta do Diabo\n(Arcano XV).\n\n  \n\nYesod de Heh. Herança, grande aumento dos bens.\n\n"
-            },
-            {
-                "id": 73,
-                "nome": "Riqueza - Dez De Discos",
-                "dados": "**O Senhor da riqueza.**\n\n  \n\nDominado por Mercúrio, atribui-se aqui as características do próprio signo de\nVirgem.\n\n  \n\nRealização das ganâncias materiais e da fortuna, mas nada além. Idade\navançada. Grandes riquezas, ainda que com algumas perdas. Inatividade mental,\nnão obstante inteligente e próspero em transações financeiras.\n\n  \n\nMalkuth de Heh. Bens e riqueza.\n\n"
-            },
-            {
-                "id": 74,
-                "nome": "Cavaleiro De Discos",
-                "dados": "**Senhor da terra agreste e fértil.**\n\n  \n\nRei dos espíritos da terra.\n\n  \n\nRege de 20º de Leão a 20º de Virgem.\n\n  \n\nSe não estiver muito bem aspectado, é pesado, torpe e materialista. É\nlaborioso, inteligente e paciente nas coisas materiais. Mal aspectado é\navarento, sombrio, ciumento, usurpador, torpe, zeloso e não muito valente a\nmenos que esteja envolto por outros símbolos. Põe-se a perder tempo com sonhos\nvãos. O Leão Covarde do Mágico de Oz.\n\n"
-            },
-            {
-                "id": 75,
-                "nome": "Rainha De Discos",
-                "dados": "**Rainha dos tronos da terra.**\n\n  \n\nRege de 20º de Sagitário a 20º Capricórnio.\n\n  \n\nÉ impetuosa, amável, tímida, pacífica, trabalhadora, prática, sensata,\nsensual, encantadora e de grande coração. Inteligente, melancólica, veraz, mas\nsujeita a diversos humores. Mal aspectada é indecisa, caprichosa, simplória e\nmutável.\n\n"
-            },
-            {
-                "id": 76,
-                "nome": "Príncipe De Discos",
-                "dados": "**Príncipe da carruagem da Terra.**\n\n  \n\nRege de 20º de Áries a 20º de Touro.\n\n  \n\nAumento do material, aumento do bem ou do mal, administração, solidez, aplica\ndiretamente as coisas, é firme e digno de confiança. Mal aspectado é animal,\nmaterialista, estúpido. Em todo caso é lento para ficar irado, mas pode ficar\nfurioso se provocado.\n\n"
-            },
-            {
-                "id": 77,
-                "nome": "Princesa De Discos",
-                "dados": "**Princesa das colinas do eco.**\n\n  \n\nRosa do Palácio da Terra.\n\n  \n\nEstá situada no Polo Norte, junto com o Ás de\n\nPantáculos.\n\n  \n\nÉ generosa, amável, diligente, benevolente, cuidadosa, valente, feminina,\nperseverante, compassiva. Mal aspectada é derrotista e arrependida. É a única\ncarta gestante no Tarot. Indica aí o simbolismo de continuidade, geração das\npróximas cartas ou do próximo nível É também a última carta do Tarot. Pode ser\nchamada de Nuit, a filha de pálpebras azuis, o brilho nu do voluptuoso céu\nnoturno. Pode indicar também gestação próxima.\n\n"
-            }
-        ]
-    },
-    {
-        "id": 2,
-        "livro": "Guia para o tarot de thoth - Johann Heyss",
+        "livro": "Guia para o tarot de thoth",
+        "autor": "Johann Heyss",
         "dados": [
             {
                 "id": 0,
@@ -1188,8 +397,803 @@
         ]
     },
     {
+        "id": 1,
+        "livro": "Tarot Solar",
+        "autor": "Aton Gondim",
+        "dados": [
+            {
+                "id": 0,
+                "nome": "Louco",
+                "dados": "**LUZ:** INOCÊNCIA  \n**SOMBRA:** INSENSATEZ\n\nPALAVRAS-CHAVE:\n- OPORTUNIDADE\n- PÁGINA EM BRANCO\n- MENTE ABERTA\n- AVENTURA\n- TOLICE\n- INGENUIDADE"
+            },
+            {
+                "id": 1,
+                "nome": "Mago",
+                "dados": "**LUZ:** MAESTRIA  \n**SOMBRA:** TRAPAÇA\n\nPALAVRAS-CHAVE:\n- CONSCIÊNCIA\n- PODER\n- FOCO\n- INTENÇÃO\n- MAGIA\n- SUCESSO"
+            },
+            {
+                "id": 2,
+                "nome": "Sacerdotisa",
+                "dados": "**LUZ:** INTUIÇÃO  \n**SOMBRA:** PRESUNÇÃO\n\nPALAVRAS-CHAVE:\n- O INVISÍVEL\n- SUBCONSCIENTE\n- SEGREDOS\n- SABEDORIA\n- RECEPTIVIDADE\n- CICLOS NATURAIS"
+            },
+            {
+                "id": 3,
+                "nome": "Imperatriz",
+                "dados": "**LUZ:** FERTILIDADE  \n**SOMBRA:** SUPERPROTEÇÃO\n\nPALAVRAS-CHAVE:\n- CRIAÇÃO\n- ABUNDÂNCIA\n- CULTIVO\n- MÃE\n- SENSUALIDADE\n- GERÊNCIA"
+            },
+            {
+                "id": 4,
+                "nome": "Imperador",
+                "dados": "**LUZ:** AUTORIDADE  \n**SOMBRA:** RIGIDEZ\n\nPALAVRAS-CHAVE:\n- ESTRUTURA\n- LIDERANÇA\n- ALICERCE\n- PERSISTÊNCIA\n- REGRAS"
+            },
+            {
+                "id": 5,
+                "nome": "Hierofante",
+                "dados": "**LUZ:** FÉ   \n**SOMBRA:** FANATISMO\n\nPALAVRAS-CHAVE:\n- ENSINO\n- APRENDIZADO\n- CREDO\n- TRADIÇÃO\n- CASAMENTO\n- DISCIPLINA\n- SOCIEDADE"
+            },
+            {
+                "id": 6,
+                "nome": "Amantes",
+                "dados": "**LUZ:** UNIÃO  \n**SOMBRA:** OBSESSÃO\n\nPALAVRAS-CHAVE:\n- ÊXTASE\n- PARCERIA\n- ESCOLHA\n- PAIXÃO\n- SEXUALIDADE\n- INDECISÃO"
+            },
+            {
+                "id": 7,
+                "nome": "Carro",
+                "dados": "**LUZ:** AVANÇO  \n**SOMBRA:** NEGLIGÊNCIA\n\nPALAVRAS-CHAVE:\n- DETERMINAÇÃO\n- ÍMPETO\n- FORÇA DE VONTADE\n- PERSEVERANÇA\n- PROGRESSO\n- CONTROLE"
+            },
+            {
+                "id": 8,
+                "nome": "Ajustamento",
+                "dados": "**LUZ:** EQUILÍBRIO  \n**SOMBRA:** PARCIALIDADE\n\nPALAVRAS-CHAVE:\n- RESPONSABILIDADE\n- DECISÃO\n- INTEGRIDADE\n- ÉTICA\n- LÓGICA\n- HONESTIDADE"
+            },
+            {
+                "id": 9,
+                "nome": "Eremita",
+                "dados": "**LUZ:** INTROSPECÇÃO  \n**SOMBRA:** ISOLAMENTO\n\nPALAVRAS-CHAVE:\n- SOLIDÃO\n- GUIA\n- SABEDORIA\n- RETIRO\n- ESTUDO\n- ORIENTAÇÃO"
+            },
+            {
+                "id": 10,
+                "nome": "Fortuna",
+                "dados": "**LUZ:** REVOLUÇÃO  \n**SOMBRA:** REPETIÇÃO\nPALAVRAS-CHAVE:\n- MOVIMENTO\n- MUDANÇA\n- EXPANSÃO\n- OPORTUNIDADE\n- ACELERAÇÃO\n- DESTINO\n- SORTE"
+            },
+            {
+                "id": 11,
+                "nome": "Luxúria",
+                "dados": "**LUZ:** AFIRMAÇÃO  \n**SOMBRA:** AGRESSÃO\n\nPALAVRAS-CHAVE:\n- CONVICÇÃO\n- PODER INTERIOR\n- CORAGEM\n- EMPODERAMENTO\n- SER INSTINTIVO\n- PACIÊNCIA"
+            },
+            {
+                "id": 12,
+                "nome": "Enforcado",
+                "dados": "**LUZ:** TRANSCENDÊNCIA  \n**SOMBRA:** PERFÍDIA (TRAIÇÃO)\n\nPALAVRAS-CHAVE:\n- RENDIÇÃO\n- SACRIFÍCIO\n- QUIETUDE\n- NOVA PERSPECTIVA\n- DEVOÇÃO\n- ABNEGAÇÃO\n- ESTAGNAÇÃO"
+            },
+            {
+                "id": 13,
+                "nome": "Morte",
+                "dados": "**LUZ:** CONCLUSÃO  \n**SOMBRA:** REDUÇÃO\nPALAVRAS-CHAVE:\n- FIM\n- TRANSFORMAÇÃO\n- ENCERRAMENTO\n- PURGA.\n- REGENERAÇÃO\n- METAMORFOSE"
+            },
+            {
+                "id": 14,
+                "nome": "Arte",
+                "dados": "**LUZ:** MEDITAÇÃO  \n**SOMBRA:** EXTREMISMO\n\nPALAVRAS-CHAVE:\n- SÍNTESE\n- INTEGRAÇÃO\n- AJUSTE\n- CURA\n- PACIÊNCIA\n- MODERAÇÃO\n- CIRCUNSPECÇÃO"
+            },
+            {
+                "id": 15,
+                "nome": "Diabo",
+                "dados": "**LUZ:** SENSUALIDADE  \n**SOMBRA:** LICENCIOSIDADE\n\nPALAVRAS-CHAVE:\n- INDULGÊNCIA\n- APEGO\n- MATERIALISMO\n- VÍCIO\n- PRAZER.\n- LUXÚRIA\n- AUTO-LIMITÂNCIA"
+            },
+            {
+                "id": 16,
+                "nome": "Torre",
+                "dados": "**LUZ:** DEMOLIÇÃO  \n**SOMBRA:** DESTRUIÇÃO\n\nPALAVRAS-CHAVE:\n- DISSOLUÇÃO\n- CAOS\n- AFLIÇÃO\n- MUDANÇA BRUSCA\n- RUPTURA\n- DESASTRES NATURAIS"
+            },
+            {
+                "id": 17,
+                "nome": "Estrela",
+                "dados": "**LUZ:** ABERTURA  \n**SOMBRA:** NEGAÇÃO\n\nPALAVRAS-CHAVE:\n- OTIMISMO\n- ESPERANÇA\n- RENOVAÇÃO\n- LIMPEZA\n- PAZ\n- CONEXÃO\n- RECONHECIMENTO"
+            },
+            {
+                "id": 18,
+                "nome": "Lua",
+                "dados": "**LUZ:** MISTÉRIO  \n**SOMBRA:** LOUCURA\n\nPALAVRAS-CHAVE:\n- DESCONHECIDO\n- OCULTO\n- ILUSÃO\n- MEDOS\n- DÚVIDA\n- AUGÚRIO"
+            },
+            {
+                "id": 19,
+                "nome": "Sol",
+                "dados": "**LUZ:** ENERGIA  \n**SOMBRA:** FRIVOLIDADE\n\nPALAVRAS-CHAVE:\n- CLAREZA\n- INSPIRAÇÃO\n- ESCLARECIMENTO\n- VITALIDADE\n- POSITIVIDADE\n- FELICIDADE\n- SUCESSO"
+            },
+            {
+                "id": 20,
+                "nome": "Aeon",
+                "dados": "**LUZ:** RENASCIMENTO  \n**SOMBRA:** AVALIAÇÃO\n\nPALAVRAS-CHAVE:\n- JULGAMENTO\n- RENOVAÇÃO\n- DESPERTAR\n- REVISÃO\n- OBJETIVIDADE\n- VERDADEIRA VOCAÇÃO"
+            },
+            {
+                "id": 21,
+                "nome": "O Universo",
+                "dados": "**LUZ:** PLENITUDE  \n**SOMBRA:** MATERIALISMO\n\nPALAVRAS-CHAVE:\n- INTEGRAÇÃO\n- REALIZAÇÃO\n- CUMPRIMENTO\n- HOLISMO\n- VITÓRIA\n- CULMINÂNCIA\n- FIM DE CICLO"
+            },
+            {
+                "id": 22,
+                "nome": "A Raiz Dos Poderes De Fogo - Ás De Bastões",
+                "dados": "**LUZ:** INSPIRAÇÃO  \n**SOMBRA:** INFLEXIBILIDADE\n\nPALAVRAS-CHAVE:\n- SIM\n- IDEIA\n- PAIXÃO\n- INSPIRAÇÃO\n- NASCIMENTO\n- OPORTUNIDADE\n- AVANÇO\n- DESPREOCUPAÇÃO"
+            },
+            {
+                "id": 23,
+                "nome": "Domínio - Dois De Bastões",
+                "dados": "**LUZ:** ESCOLHA  \n**SOMBRA:** DETURPAÇÃO\n\nPALAVRAS-CHAVE:\n- POTENCIAL\n- CONTEMPLAÇÃO\n- LIMIAR\n- PLANEJAMENTO"
+            },
+            {
+                "id": 24,
+                "nome": "Virtude - Três De Bastões",
+                "dados": "**LUZ:** PLANEJAMENTO  \n**SOMBRA:** DOGMATISMO\n\nPALAVRAS-CHAVE:\n- ESTABELECER\n- DELIMITAR\n- AUTORIDADE\n- OUSADIA\n- INICIATIVA\n- SUPERVISÃO\n- PLANOS EM LONGO PRAZO\n- CONVICÇÃO"
+            },
+            {
+                "id": 25,
+                "nome": "Conclusão - Quatro De Bastões",
+                "dados": "**LUZ:** CONQUISTAM  \n**SOMBRA:** MESMICE\n\nPALAVRAS-CHAVE:\n- REGRESSO À CASA\n- CHEGADA\n- COLHEITA\n- CERIMÔNIA\n- PROPRIEDADE\n- ALICERCES FORTES\n- GRATIDÃO\n- LAR FELIZ"
+            },
+            {
+                "id": 26,
+                "nome": "Disputa - Cinco De Bastões",
+                "dados": "**LUZ:** CONFRONTAÇÃO  \n**SOMBRA:** CONFLITO\n\nPALAVRAS-CHAVE:\n- COMPETIÇÃO\n- DISPUTAS\n- JOGOS\n- SOLUÇÃO DE PROBLEMAS\n- ESFORÇO\n- BRAINSTORMING\n- ABORRECIMENTOS\n- SUJEIRA DE DEBAIXO DO TAPETE"
+            },
+            {
+                "id": 27,
+                "nome": "Vitória - Seis De Bastões",
+                "dados": "**LUZ:** VITÓRIA  \n**SOMBRA:** ORGULHO\n\nPALAVRAS-CHAVE:\n- LIDERANÇA\n- EXEMPLO\n- SUCESSO\n- AVANÇO\n- GANHOS\n- RECONHECIMENTO"
+            },
+            {
+                "id": 28,
+                "nome": "Valor - Sete De Bastões",
+                "dados": "**LUZ:** DETERMINAÇÃO  \n**SOMBRA:** DEFENSIVIDADE\n\nPALAVRAS-CHAVE:\n- FIRMEZA\n- TENACIDADE\n- CORAGEM\n- PERSISTÊNCIA\n- DEFENDER PONTOS-DE-VISTA\n- ENFRENTAR OPOSIÇÃO"
+            },
+            {
+                "id": 29,
+                "nome": "Rapidez - Oito De Bastões",
+                "dados": "**LUZ:** RESPOSTA  \n**SOMBRA:** REAÇÃO\n\nPALAVRAS-CHAVE:\n- ASSERTIVIDADE\n- AVANÇO\n- VELOCIDADE\n- COMUNICAÇÃO\n- RACIONALIZAÇÃO\n- FLUXO"
+            },
+            {
+                "id": 30,
+                "nome": "Força - Nove De Bastões",
+                "dados": "**LUZ:** PERSISTÊNCIA  \n**SOMBRA:** MARTÍRIO\n\nPALAVRAS-CHAVE:\n- DEFENSIVIDADE\n- CUIDADO\n- PROTEÇÃO\n- ACUMULAÇÃO\n- FORTALEZA DE CARÁTER\n- VELHOS HÁBITOS\n- SUSPEIÇÃO\n- VIGÍLIA"
+            },
+            {
+                "id": 31,
+                "nome": "Opressão - Dez De Bastões",
+                "dados": "**LUZ:** TENACIDADE  \n**SOMBRA:** EXAUSTÃO\n\nPALAVRAS-CHAVE:\n- SUCESSO\n- TRABALHO\n- RESPONSABILIDADE\n- SOBRECARREGADO\n- PESO\n- ESGOTAMENTO\n- ORGULHO\n- PRESO"
+            },
+            {
+                "id": 32,
+                "nome": "Cavaleiro De Bastões",
+                "dados": "**LUZ:** DIREÇÃO  \n**SOMBRA:** REPRESSÃO\n\nPALAVRAS-CHAVE:\n- CORAJOSO\n- GENEROSO\n- AUTÊNTICO\n- LÍDER\n- PODEROSO\n- CRIATIVO\n- DOMINADOR\n- CONFIANTE\n- AUTO-CONFIANTE\n- MOTIVADOR\n- ORGULHOSO"
+            },
+            {
+                "id": 33,
+                "nome": "Rainha De Bastões",
+                "dados": "**LUZ:** CUIDADO  \n**SOMBRA:** DISTRAÇÃO\n\nPALAVRAS-CHAVE:\n- CRIATIVA\n- INDEPENDENTE\n- AUTO-CONFIANTE\n- APAIXONADA\n- ROMÂNTICA\n- LÍDER\n- CORAJOSA\n- EXTROVERTIDA\n- ENÉRGICA\n- INFLUENTE\n- DRAMÁTICA\n- AMIGÁVEL\n- OTIMISTA"
+            },
+            {
+                "id": 34,
+                "nome": "Príncipe De Bastões",
+                "dados": "**LUZ:** AUDÁCIA  \n**SOMBRA:** BRAVATA\n\nPALAVRAS-CHAVE:\n- VISÃO DE FUTURO\n- AVENTUREIRO\n- ESPONTÂNEO\n- TEMPERAMENTAL\n- EXCITANTE\n- PASSIONAL\n- EXTRAVAGANTE\n- APRESSADO\n- REBELDE\n- COMPETITIVO\n- MOTIVADOR"
+            },
+            {
+                "id": 35,
+                "nome": "Princesa De Bastões",
+                "dados": "**LUZ:** ENTUSIASMO  \n**SOMBRA:** INEXPERIÊNCIA\n\nPALAVRAS-CHAVE:\n- ESPÍRITO LIVRE\n- CURIOSO\n- ENTUSIASTA\n- DISPOSTO\n- AMBICIOSO\n- DESTEMIDO\n- INOCENTE\n- ENÉRGICO\n- EXTROVERTIDO"
+            },
+            {
+                "id": 36,
+                "nome": "A Raiz Dos Poderes Da Água - Ás De Copas",
+                "dados": "**LUZ:** REFRESCAR-SE  \n**SOMBRA:** INUNDAÇÃO\n\nPALAVRAS-CHAVE:\n- ALEGRIA\n- NOVO RELACIONAMENTO\n- DESPERTAR ESPIRITUAL\n- ABERTURA À EMOÇÃO\n- CONEXÃO PESSOAL\n- DESPERTAR DA INTUIÇÃO\n- INTROSPECÇÃO"
+            },
+            {
+                "id": 37,
+                "nome": "Amor - Dois De Copas",
+                "dados": "**LUZ:** ATRAÇÃO  \n**SOMBRA:** CODEPENDÊNCIA\n\nPALAVRAS-CHAVE:\n- UNIÃO\n- AMOR\n- APOIO\n- CONFIANÇA\n- IGUALDADE\n- COOPERAÇÃO\n- COMPROMISSO"
+            },
+            {
+                "id": 38,
+                "nome": "Abundância - Três De Copas",
+                "dados": "**LUZ:** CELEBRAÇÃO  \n**SOMBRA:** OBSESSÃO\n\nPALAVRAS-CHAVE:\n- AMIZADE\n- ENTRETENIMENTO\n- DIVERSÃO\n- SUCESSO\n- DANÇA\n- REGOZIJO"
+            },
+            {
+                "id": 39,
+                "nome": "Luxúria - Quatro De Copas",
+                "dados": "**LUZ:** SACIEDADE  \n**SOMBRA:** TÉDIO\n\nPALAVRAS-CHAVE:\n- AFASTAMENTO\n- CONTEMPLAÇÃO\n- INSATISFAÇÃO\n- ABORRECIMENTO\n- DEVANEIO\n- INCUBAÇÃO"
+            },
+            {
+                "id": 40,
+                "nome": "Desapontamento - Cinco De Copas",
+                "dados": "**LUZ:** ARREPENDIMENTO  \n**SOMBRA:** DESESPERO\n\nPALAVRAS-CHAVE:\n- PERDA\n- PESAR\n- MEDO\n- CULPA\n- PESSIMISMO\n- PONTO DE MUTAÇÃO"
+            },
+            {
+                "id": 41,
+                "nome": "Prazer - Seis De Copas",
+                "dados": "**LUZ:** PREENCHIMENTO  \n**SOMBRA:** DEFICIT\n\nPALAVRAS-CHAVE:\n- GENTILEZA\n- NOSTALGIA\n- MEMÓRIAS\n- CUIDADO\n- PROTEÇÃO\n- INFÂNCIA\n- SER FELIZ COMO UMA CRIANÇA"
+            },
+            {
+                "id": 42,
+                "nome": "Deboche (Corrupção) - Sete De Copas",
+                "dados": "**LUZ:** IMAGINAÇÃO  \n**SOMBRA:** ILUSÃO\n\nPALAVRAS-CHAVE:\n- FANTASIAS\n- MUITAS ESCOLHAS\n- VISUALIZAÇÃO\n- ESTADOS ALTERADOS\n- \"BOM DEMAIS PRA SER VERDADE\"\n- EXPLOSÃO CRIATIVA\n- CORRUPÇÃO\n- VÍCIOS"
+            },
+            {
+                "id": 43,
+                "nome": "Indolência - Oito De Copas",
+                "dados": "**LUZ:** SAUDADE  \n**SOMBRA:** IMPLACABILIDADE\n\nPALAVRAS-CHAVE:\n- DEIXAR PRA TRÁS\n- SEGUIR\n- RETIRO\n- RESTAURAÇÃO EMOCIONAL\n- CHAMADO ESPIRITUAL\n- VIAGEM\n- ABANDONO"
+            },
+            {
+                "id": 44,
+                "nome": "Felicidade - Nove De Copas",
+                "dados": "**LUZ:** LUXO  \n**SOMBRA:** EXCESSO\n\nPALAVRAS-CHAVE:\n- SATISFAÇÃO EMOCIONAL\n- DESEJOS REALIZADOS\n- TEMPO BOM\n- INDULGÊNCIA\n- BANQUETE\n- MANIFESTAÇÃO\n- OSTENTAÇÃO\n- FELICIDADE \"PARA DAR E VENDER\"?"
+            },
+            {
+                "id": 45,
+                "nome": "Saciedade - Dez De Copas",
+                "dados": "**LUZ:** PLENITUDE  \n**SOMBRA:** ILUSÃO\n\nPALAVRAS-CHAVE:\n- PREENCHIMENTO EMOCIONAL\n- AMOR PARA COMPARTILHAR\n- ÊXTASE\n- LAR FELIZ\n- UNIÃO ABENÇOADA\n- IDEALIZAÇÃO\n- CRESCIMENTO FAMILIAR"
+            },
+            {
+                "id": 46,
+                "nome": "Cavaleiro De Copas",
+                "dados": "**LUZ:** COMPOSTURA  \n**SOMBRA:** RIGIDEZ\n\nPALAVRAS-CHAVE:\n- FORÇA\n- EMOCIONAL\n- VALIDADOR\n- FIEL\n- CRÉDULO\n- RECONFORTANTE\n- ANTIQUADO\n- CONTROLE EMOCIONAL\n- COMPASSIVO\n- CONSELHEIRO "
+            },
+            {
+                "id": 47,
+                "nome": "Rainha De Copas",
+                "dados": "**LUZ:** EMPATIA  \n**SOMBRA:** PENA\n\nPALAVRAS-CHAVE:\n- SABEDORIA\n- SENSÍVEL\n- RECEPTIVA\n- AFETUOSA\n- VIRTUOSA\n- INTUITIVA\n- CONSELHEIRA\n- SONHADORA\n- EMOCIONAL"
+            },
+            {
+                "id": 48,
+                "nome": "Príncipe De Copas",
+                "dados": "**LUZ:** ZELO  \n**SOMBRA:** INTOLERÂNCIA\n\nPALAVRAS-CHAVE:\n- BUSCADOR ESPIRITUAL\n- ATUANTE\n- IDEALISTA\n- ARTÍSTICO\n- POÉTICO\n- ENCANTADOR\n- SEDUÇÃO"
+            },
+            {
+                "id": 49,
+                "nome": "Princesa De Copas",
+                "dados": "**LUZ:** INTENSIDADE  \n**SOMBRA:** SUPERFICIALIDADE\n\nPALAVRAS-CHAVE:\n- ROMÂNTICO\n- INGÊNUO\n- SENSÍVEL\n- GENTIL\n- BRINCALHÃO\n- DOCE"
+            },
+            {
+                "id": 50,
+                "nome": "A Raiz Dos Poderes Do Ar - Ás De Espadas",
+                "dados": "**LUZ:** OBJETIVIDADE  \n**SOMBRA:** ASTÚCIA\n\nPALAVRAS-CHAVE:\n- NOVA PERSPECTIVA\n- NOVOS PLANOS\n- FORÇA DE VONTADE\n- MENTE AFIADA\n- TOMAR DE DECISÕES\n- BUSCA DA VERDADE\n- CONFIANÇA"
+            },
+            {
+                "id": 51,
+                "nome": "Paz - Dois De Espadas",
+                "dados": "**LUZ:** TRÉGUA  \n**SOMBRA:** IMPASSE\n\nPALAVRAS-CHAVE:\n- IMPARCIALIDADE\n- INDECISÃO\n- FECHAR-SE\n- IDEIAS CONFLITUOSAS\n- AMBIVALÊNCIA\n- PENSAR COM A CABEÇA"
+            },
+            {
+                "id": 52,
+                "nome": "Dor - Três De Espadas",
+                "dados": "**LUZ:** CLAREZA  \n**SOMBRA:** DESGOSTO\n\nPALAVRAS-CHAVE:\n- PERDA\n- SACRIFÍCIOS NECESSÁRIOS\n- TRAIÇÃO\n- MÁGOA\n- SEPARAÇÃO\n- SOFRIMENTO"
+            },
+            {
+                "id": 53,
+                "nome": "Trégua - Quatro De Espadas",
+                "dados": "**LUZ:** MEDITAÇÃO  \n**SOMBRA:** PROCRASTINAÇÃO\n\nPALAVRAS-CHAVE:\n- DORMIR\n- PAUSA\n- RESTAURAÇÃO MENTAL\n- AUTO-REFLEXÃO\n- AVALIAÇÃO"
+            },
+            {
+                "id": 54,
+                "nome": "Derrota - Cinco De Espadas",
+                "dados": "**LUZ:** INDIVIDUALIDADE  \n**SOMBRA:** IRRACIONALIDADE\n\nPALAVRAS-CHAVE:\n- DESENTENDIMENTO\n- FALTA DE COMUNICAÇÃO\n- MENTE DISPERSA\n- AÇÕES DIVISIVAS\n- GANHAR VALE MESMO A PENA?"
+            },
+            {
+                "id": 55,
+                "nome": "Ciência - Seis De Espadas",
+                "dados": "**LUZ:** PERSPECTIVA  \n**SOMBRA:** VITIMIZAÇÃO\n\nPALAVRAS-CHAVE:\n- AFASTAR-SE\n- LUGAR DE CURA\n- RETIRO\n- TRANSIÇÃO\n- AMPLIAR VISÕES E HORIZONTES"
+            },
+            {
+                "id": 56,
+                "nome": "Futilidade - Sete De Espadas",
+                "dados": "**LUZ:** JUSTIFICATIVA  \n**SOMBRA:** PRESUNÇÃO\n\nPALAVRAS-CHAVE:\n- ESTRATÉGIA\n- TESTES MENTAIS\n- ENGODO\n- JUNTAR DE INFORMAÇÕES\n- QUEBRA DE ACORDOS\n- DISSIMULAÇÃO"
+            },
+            {
+                "id": 57,
+                "nome": "Interferência - Oito De Espadas",
+                "dados": "**LUZ:** LIMITES  \n**SOMBRA:** RESTRIÇÕES\n\nPALAVRAS-CHAVE:\n- DESAMPARO\n- OPÇÕES LIMITADAS\n- PENSAMENTOS RESTRITIVOS\n- DESCULPAS\n- MENTALIDADE DE VÍTIMA\n- AUTO-LIMITAÇÃO"
+            },
+            {
+                "id": 58,
+                "nome": "Crueldade - Nove De Espadas",
+                "dados": "**LUZ:** INSIGHT  \n**SOMBRA:** PREOCUPAÇÃO\n\nPALAVRAS-CHAVE:\n- TORMENTO MENTAL\n- INSÔNIA\n- DOENÇA\n- 'DESESPERO\n- DEPRESSÃO\n- A HORA MAIS ESCURA ANTES DO AMANHECER"
+            },
+            {
+                "id": 59,
+                "nome": "Ruína - Dez De Espadas",
+                "dados": "**LUZ:** DESAPEGO  \n**SOMBRA:** DESTRUIÇÃO\n\nPALAVRAS-CHAVE:\n- FUNDO DO POÇO\n- ADMITIR FALHAS\n- DESISTIR\n- RENUNCIAR\n- AUTOPIEDADE\n- NENHUM CAMINHO A NÃO SER PARA"
+            },
+            {
+                "id": 60,
+                "nome": "Cavaleiro De Espadas",
+                "dados": "**LUZ:** SABEDORIA  \n**SOMBRA:** INTELECTUALISMO\n\nPALAVRAS-CHAVE:\n- JUIZ\n- INTENCIONAL\n- EFICIENTE\n- INTELIGENTE\n- LÓGICO\n- DECISIVO\n- JUSTO\n- CRÍTICO\n- REGRAS\n- BRUSCO"
+            },
+            {
+                "id": 61,
+                "nome": "Rainha De Espadas",
+                "dados": "**LUZ:** PERCEPÇÃO  \n**SOMBRA:** PARANOIA\n\nPALAVRAS-CHAVE:\n- AUTO-CONSCIENTE\n- INTELIGENTE\n- HONESTA\n- JUSTA\n- AUTO-CONFIANTE\n- RESERVADA\n- SÁBIA\n- AUTO-DISCIPLINADA\n- PERFECCIONISTA\n- CRÍTICA\n- ANALÍTICA"
+            },
+            {
+                "id": 62,
+                "nome": "Príncipe De Espadas",
+                "dados": "**LUZ:** CONTUNDÊNCIA  \n**SOMBRA:** BRUSQUIDÃO\n\nPALAVRAS-CHAVE:\n- REVOLUCIONÁRIO\n- PENSAMENTO CRÍTICO\n- IMPACIENTE\n- BUSCADOR DA VERDADE\n- SABE-TUDO\n- FARISAICO (HIPÓCRITA)\n- EFICIÊNCIA"
+            },
+            {
+                "id": 63,
+                "nome": "Princesa De Espadas",
+                "dados": "**LUZ:** PRATICA  \n**SOMBRA:** PRETENSÃO\n\nPALAVRAS-CHAVE:\n- CONSCIENCIOSO\n- CURIOSO\n- IDEALISTA\n- EM GUARDA\n- ALERTA\n- FOCADO\n- OUSADO\n- APRENDER NOVAS HABILIDADE"
+            },
+            {
+                "id": 64,
+                "nome": "A Raiz Dos Poderes Da Terra - Ás De Discos",
+                "dados": "**LUZ:** BÊNÇÃO  \n**SOMBRA:** OBRIGAÇÃO\nPALAVRAS-CHAVE:\n- OPORTUNIDADE\n- SEMENTE\n- DOM\n- DINHEIRO\n- NOVA RESPONSABILIDADE\n- NOVOS RECURSOS\n- SAÚDE"
+            },
+            {
+                "id": 65,
+                "nome": "Mudança - Dois De Discos",
+                "dados": "**LUZ:** COMPARAÇÃO  \n**SOMBRA:** DELIBERAÇÃO\n\nPALAVRAS-CHAVE:\n- MALABARISMO\n- MANTER-SE OCUPADO\n- ADAPTAÇÃO\n- ORGANIZAÇÃO\n- VIAJAR SE PRECISO"
+            },
+            {
+                "id": 66,
+                "nome": "Trabalho - Três De Discos",
+                "dados": "**LUZ:** REALIZAÇÃO  \n**SOMBRA:** DISCREPÂNCIA\n\nPALAVRAS-CHAVE:\n- ASSISTÊNCIA\n- CONTRIBUIÇÃO\n- TRABALHO EM EQUIPE\n- APRENDIZADO\n- EMPREGO\n- COMPROMISSO"
+            },
+            {
+                "id": 67,
+                "nome": "Poder - Quatro De Discos",
+                "dados": "**LUZ:** CONSERVAÇÃO  \n**SOMBRA:** GANÂNCIA\n\nPALAVRAS-CHAVE:\n- POSSE\n- PROTECIONISMO\n- APEGO\n- ESTAGNAÇÃO\n- SEGURANÇA\n- PREOCUPAÇÃO\n- GUARDAR RECURSOS"
+            },
+            {
+                "id": 68,
+                "nome": "Preocupação - Cinco De Discos",
+                "dados": "**LUZ:** NECESSIDADE  \n**SOMBRA:** POBREZA\n\nPALAVRAS-CHAVE:\n- ALIENAÇÃO\n- DOENÇA\n- PERDAS\n- AUSTERIDADE\n- ASCETISMO\n- AMIGOS DE VERDADE"
+            },
+            {
+                "id": 69,
+                "nome": "Sucesso - Seis De Discos",
+                "dados": "**LUZ:** GENEROSIDADE  \n**SOMBRA:** MANIPULAÇÃO\n\nPALAVRAS-CHAVE:\n- TROCA\n- CARIDADE\n- EMPRÉSTIMOS\n- DEPENDÊNCIA\n- DEVOLVER\n- GRATIDÃO"
+            },
+            {
+                "id": 70,
+                "nome": "Fracasso - Sete De Discos",
+                "dados": "**LUZ:** REAVALIAÇÃO  \n**SOMBRA:** MELANCOLIA\n\nPALAVRAS-CHAVE:\n- AVALIAÇÃO\n- PACIÊNCIA\n- PROGRESSO LENTO\n- APRENDER COM A EXPERIÊNCIA\n- COMPETÊNCIA\n- HORA CERTA DE COLHER"
+            },
+            {
+                "id": 71,
+                "nome": "Prudência - Oito De Discos",
+                "dados": "**LUZ:** LABORIOSIDADE  \n**SOMBRA:** COMPLACÊNCIA\n\nPALAVRAS-CHAVE:\n- AFINAÇÃO\n- APERFEIÇOAMENTO\n- MANUTENÇÃO\n- TRABALHO DURO\n- PRÁTICA\n- REPETIÇÃO"
+            },
+            {
+                "id": 72,
+                "nome": "Ganho - Nove De Discos",
+                "dados": "**LUZ:** DISCIPLINA  \n**SOMBRA:** EXCESSO DE CONFIANÇA\n\nPALAVRAS-CHAVE:\n- RECOMPENSAS MERECIDAS\n- INDEPENDÊNCIA\n- PRAZER\n- LUXO\n- FRUTOS DO TRABALHO\n- AUTORREALIZAÇÃO"
+            },
+            {
+                "id": 73,
+                "nome": "Riqueza - Dez De Discos",
+                "dados": "**LUZ:** ABUNDANCIA  \n**SOMBRA:** EXTRAVAGÂNCIA\n\nPALAVRAS-CHAVE:\n- CONTINUIDADE\n- TRADIÇÃO\n- FORTUNA\n- LEGADO\n- ANCESTRALIDADE\n- FAMÍLIA\n- SEGURANÇA\n- RESPONSABILIDADE"
+            },
+            {
+                "id": 74,
+                "nome": "Cavaleiro De Discos",
+                "dados": "**LUZ:** AQUISIÇÃO  \n**SOMBRA:** POSSE\n\nPALAVRAS-CHAVE:\n- LEAL\n- PESSOA DE NEGÓCIOS\n- AMANTE DO PRAZER\n- CONSERVADOR\n- PROVEDOR\n- POSSUIDOR\n- GESTOR"
+            },
+            {
+                "id": 75,
+                "nome": "Rainha De Discos",
+                "dados": "**LUZ:** CONSOLO  \n**SOMBRA:** PREGUIÇA\n\nPALAVRAS-CHAVE:\n- EDUCADORA\n- CURA\n- ECOLÓGICA\n- PROTETORA\n- HOSPITALEIRA\n- SAUDÁVEL\n- APOIADORA\n- PRÁTICA\n- COM PRINCÍPIOS\n- CALMA"
+            },
+            {
+                "id": 76,
+                "nome": "Príncipe De Discos",
+                "dados": "**LUZ:** PRAGMATISMO  \n**SOMBRA:** POSSE\n\nPALAVRAS-CHAVE:\n- CONFIÁVEL\n- ÚTIL\n- PERSISTÊNCIA\n- SENSUAL\n- CUIDADOSO\n- TEIMOSO\n- CAPAZ"
+            },
+            {
+                "id": 77,
+                "nome": "Princesa De Discos",
+                "dados": "**LUZ:** CAUTELOSO  \n**SOMBRA:** DESCUIDADO\n\nPALAVRAS-CHAVE:\n- ESTUDANTE\n- PRAGMÁTICO\n- COLECIONADOR\n- ESTÁVEL\n- FIRME\n- CONFIÁVEL"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "livro": "Tarot Templo Vivente",
+        "autor": "Frater Goya",
+        "dados": [
+            {
+                "id": 0,
+                "nome": "Louco",
+                "dados": "A libertação, as tentativas que fazemos de romper com os padrões de\n\"normalidade\". A espiritualidade que busca a libertação da matéria. Idealismo\ne aspiração. Quando está mal aspectado por outras cartas, pode representar a\ndesestrutura causada por uma liberdade ilimitada que é incapaz de se\nsustentar. Ou ainda, pode ser uma alienação da realidade, uma fuga do mundo\nou, em um estágio mais avançado, a loucura, excentricidade ou mesmo mania.\n\n  \n\nEm matéria espiritual, o Louco significa ideia, pensamento, espiritualidade,\nque se esforça para superar a terra. Mas o essencial desta carta é que\nrepresenta originalidade, impulso, impulso súbito ou impacto, vindo de um lado\ncompletamente estranho. Todos esses impulsos estão certos, se corretamente\nrecebidos; e a interpretação bem ou mal da carta depende inteiramente da\natitude correta do consultante.\n\n  \n\nNa Magia: Espiritualidade confusa, mediunidade não resolvida, o indivíduo tem\nmuita energia, mas não canaliza.\n\n"
+            },
+            {
+                "id": 1,
+                "nome": "Mago",
+                "dados": "Aprendizado, comunicação, habilidade para aprender e para realizar trabalhos\nmanuais. Conhecimento, vontade e astúcia. Quando está mal aspectado pode\nrepresentar a antítese do que foi descrito acima: embuste, falta de\ncomunicação, dificuldade para aprender e inaptidão para realizar aquilo a que\nse propôs.\n\n  \n\nSabedoria, habilidade, destreza, habilidade manual, astúcia, engano, roubo. Às\nvezes, sabedoria oculta ou poder, às vezes um rápido impulso, como \"ondas\ncerebrais\". Pode implicar mensagens, contratos, acertos comerciais, a\ninterferência de aprendizagem ou de inteligência com o assunto em mãos.\n\n  \n\nNa Magia: Início da Magia – seja nos planos espiritual, astral ou físico.\n\n"
+            },
+            {
+                "id": 2,
+                "nome": "Sacerdotisa",
+                "dados": "Intuição, vidência, assimilação do aprendizado realizado pelo Mago, mudanças\nde estado de humor. Quando está mal aspectada pode representar falta de\nsensibilidade, incapacidade de ver a realidade tal como ela é; alguém que\ntenta enganar alguém.\n\n  \n\nInfluência, exaltação e graciosa influência sobre o tema. Mudança,\nalternância, aumentar ou diminuir, flutuação. Há, no entanto, uma passividade\na ser levada pelo entusiasmo; pode tornar-se uma \"influência lunar\" a menos\nque seja mantido um cuidadoso equilíbrio.\n\n  \n\nNa Magia: Magia Oculta, origem indeterminada – reza, orações, mandinga,\ngeralmente para o amor, às vezes solicitação de proteção a alguém.\n\n"
+            },
+            {
+                "id": 3,
+                "nome": "Imperatriz",
+                "dados": "Prazer, luxúria, aspectos ligados à maternidade, capacidade de trabalho,\nsacrifício em prol de um ideal, esforço sobre-humano para completar a tarefa a\nque se propõe. Se mal aspectada pode representar libertinagem, falta de\nvontade, preguiça e incapacidade de levar à termo aquilo a que se propõe.\n\n  \n\nAmor, beleza, felicidade, prazer, sucesso, realização, felicidade,\ngraciosidade, elegância, luxo, ociosidade, dissipação, amizade, gentileza,\nprazer.\n\n  \n\nNa Magia: Quando perto do arcano II, significa que foi mulher quem fez a\nmagia, sem o arcano II é magia mental. Poder de Combate.\n\n"
+            },
+            {
+                "id": 4,
+                "nome": "Imperador",
+                "dados": "Força de vontade, voz de comando, atitude imperativa, início de uma\nestabilidade. Quando está mal aspectado pode indicar violência, ambição\ndesmedida, instabilidade, irritabilidade sem motivo.\n\n  \n\nGuerra, conquista, vitória, conflito, ambição, originalidade, confiança\nautoimportância, megalomania e belicosidade, energia, vigor, teimosia, pouco\nprático, imprudência, gênio ruim (temperamental).\n\n  \n\nNa Magia: Quando perto do arcano I, o mentor da magia foi homem, não há magia,\nmas alguma adversidade no plano mental. Poder de Combate.\n\n"
+            },
+            {
+                "id": 5,
+                "nome": "Hierofante",
+                "dados": "Sabedoria Divina alcançada pelo trabalho, esforço, dedicação e disciplina.\nConhecimento utilizado para instrução, bons conselhos. Se estiver mal\naspectado pode representar o mal uso do conhecimento adquirido, ou a\nincapacidade de buscar e aprender.\n\n  \n\nResistência obstinada, labuta, resistência, placidez, manifestação,\nexplicação, ensino, bondade de coração, a ajuda de superiores, paciência,\norganização, paz.\n\n  \n\nNa Magia: Magia com protetores espirituais com finalidade para o bem. Processo\nkármico, pois o arcano V é o Senhor do Karma.\n\n"
+            },
+            {
+                "id": 6,
+                "nome": "Amantes",
+                "dados": "Decisão, opção por vontade própria, escolha aparentemente sem importância, ou\nem assuntos de pequena monta, relacionamento. Quando está mal aspectada pode\nindicar indecisão, pressão de terceiros, perda ou tensão nos relacionamentos.\n\n  \n\nAbertura à inspiração, intuição, inteligência, segunda visão, infantilidade,\nfrivolidade, cheio de pensamentos, apartado da consideração de ordem prática,\nautocontradição, trivialidade.\n\n  \n\nNa Magia: Amarração de casal, amor, casamento, sexual, impotência, depende de\noutros arcanos associados.\n\n"
+            },
+            {
+                "id": 7,
+                "nome": "Carro",
+                "dados": "Tentativa de gerar/criar uma estrutura. Preparação para seguir rumo à vitória,\npreparo, saúde, domínio de nossas forças e emoções, desapego. Quando está mal\naspectado pode indicar uma falsa visão de bem-estar, falta de estrutura,\ndespreparo e descontrole emocional.\n\n  \n\nTriunfo, vitória, esperança, memória, digestão, violência na manutenção de\nideias tradicionais, o \"duro de matar\", crueldade, desejo de destruição,\nobediência, fidelidade, autoridade sob autoridade.\n\n  \n\nNa Magia: Magia efetuada em processo de permeação dos planos astral e físico.\nMagia Mental.\n\n"
+            },
+            {
+                "id": 8,
+                "nome": "Ajustamento",
+                "dados": "Equilíbrio, emoções equilibradas, senso de justiça, busca de harmonia na vida.\nQuando está mal aspectada, indica um desequilíbrio, falta de sinceridade e até\ndesequilíbrio mental.\n\n  \n\nJustiça, ou melhor, ajustar, o ato de ajuste, a suspensão de todas as decisões\nde ação pendente; em termos materiais, pode se referir a processos judiciais\nou processos. Socialmente, casamento ou contratos de casamento; tratados\npolíticos.\n\n  \n\nNa Magia: Não há magia ou há o fim da Magia. Situação Kármica desta vida onde\ntudo foi criado pela própria pessoa.\n\n"
+            },
+            {
+                "id": 9,
+                "nome": "Eremita",
+                "dados": "Sabedoria, reflexão, trabalho rotineiro, disciplina, dedicação, abnegação,\niniciação. Se mal aspectado pode indicar solidão, perdas, falta de sabedoria e\nfalta de disposição ao trabalho.\n\n  \n\nIluminação do interior (de si mesmo), impulso secreto interno; planos práticos\nderivados de acordos. Retirar-se da participação em eventos atuais.\n\n  \n\nNa Magia: Magia para separação do casal, solidão, tristeza, pobreza, inércia.\nNo entanto, quem fez a magia pode ser descoberto.\n\n"
+            },
+            {
+                "id": 10,
+                "nome": "Fortuna",
+                "dados": "Sorte e oportunidade, momento certo de começar algo. Sucesso. Quando mal\naspectada pode indicar momento inadequado para se começar algo, perda de\noportunidades ou corrupção pelo poder conquistado.\n\n  \n\nMudança de fortuna (ou sorte). Isso geralmente significa boa fortuna por causa\ndo fato da consulta implicar ansiedade ou descontentamento.\n\n  \n\nNa Magia: Instável, grande confusão na vida, mas a própria pessoa pode estar\ncausando tudo, podendo ser kármico.\n\n"
+            },
+            {
+                "id": 11,
+                "nome": "Luxúria",
+                "dados": "O domínio das emoções. Força demonstrada pela suavidade (sedução), amor\npassional. Se estiver mal aspectada, pode indicar mal uso da força, crimes\npassionais, instabilidade emocional.\n\n  \n\nCoragem, força, energia e ação, uma grande paixão; recorrer a magia, o uso de\npoder mágico.\n\n  \n\nNa Magia: Pode haver uma magia, mas não produz nenhum efeito sobre o\nconsulente.\n\n"
+            },
+            {
+                "id": 12,
+                "nome": "Enforcado",
+                "dados": "O não-agir, o conhecimento puro, sem interferência da vontade. Quando está mal\naspectado indica precipitação, falta de consciência, ficar no seu próprio\ncaminho.\n\n  \n\nSacrifício forçado, punição, perda fatal ou voluntária, sofrimento, derrota,\nfracasso, morte, abandono momentâneo.\n\n  \n\nNa Magia: Magia para desordem material, impotência ou frigidez, larvas,\nburacos áuricos, vingança.\n\n"
+            },
+            {
+                "id": 13,
+                "nome": "Morte",
+                "dados": "Morte de alguma situação que não tem mais razão de continuar. Desligamento\ngradativo e natural, mudanças que irão gerar crescimento. Se mal aspectada,\npode indicar mágoas, ressentimentos, perdas, prejuízo.\n\n  \n\nMudança, transmissão, voluntária ou involuntária, em qualquer caso, o\ndesenvolvimento lógico de condições existentes, mas talvez repentina e\ninesperada. Morte aparente ou destruição, mas tal interpretação é ilusão.\n\n  \n\nNa Magia: Perda da saúde, emprego, negócios, projetos, amor. É muito agressiva\ne aumenta o poder das outras cartas negativamente.\n\n"
+            },
+            {
+                "id": 14,
+                "nome": "Arte",
+                "dados": "Equilíbrio das partes, o ponto certo exigido para a mudança que irá ocorrer.\nVisão interior, transmutação. Quando está mal aspectada, indica cegueira\ninterior, inadaptação, perda de medida, falta de coragem para olhar a si mesmo\ne reparar seus erros.\n\n  \n\nCombinação de forças, realização, ação baseada em cálculo preciso, rota de\nfuga, sucesso depois de manobras elaboradas.\n\n  \n\nNa Magia: Proteção. Poder de Combate.\n\n"
+            },
+            {
+                "id": 15,
+                "nome": "Diabo",
+                "dados": "Realização material, ambição, luta para conquistar uma posição. Se estiver mal\naspectada pode indicar perda pela má utilização do bem recebido, limitação,\nobsessão, tentação.\n\n  \n\nImpulso cego, irresistivelmente forte e inescrupuloso, ambição, tentação,\nobsessão, plano secreto prestes a ser executado; trabalho duro, rigidez,\nobstinação, descontentamento, dor, resistência.\n\n  \n\nNa Magia: Perda de posição social, amor, saúde, sendo o contrário também\nverdadeiro – ganho de tudo. Geralmente, é uma entidade não artificial, boa ou\nruim, que colabora no processo. A pessoa também pode estar causando tudo por\nprocessos de drogas ou álcool.\n\n"
+            },
+            {
+                "id": 16,
+                "nome": "Torre",
+                "dados": "Rompimento com o passado, crescimento, vontade, coragem, amor homossexual\n(masculino). Quando mal aspectada pode indicar ruína, discussão, ir além dos\nlimites permitidos, decadência moral e física.\n\n  \n\nDisputa, combate, perigo, ruína, destruição de planos, morte súbita, fuga da\nprisão (de qualquer tipo).\n\n  \n\nNa Magia: Destruição ou ruína.\n\n"
+            },
+            {
+                "id": 17,
+                "nome": "Estrela",
+                "dados": "Esperança, realização a longo prazo, fé, auxílio, conhecimento, determinação.\nQuando está mal aspectada pode indicar ilusão, falsas esperanças, falta de\ndeterminação, dificuldade em focar a atenção no objetivo proposto.\n\n  \n\nEsperança, ajuda inesperada, clareza de visão, a realização de possibilidades,\ndiscernimento espiritual, mal aspectada: erro de julgamento, devaneio,\ndesapontamento.\n\n  \n\nNa Magia: Poder de Combate. Ou não há magia por proteção espiritual.\n\n"
+            },
+            {
+                "id": 18,
+                "nome": "Lua",
+                "dados": "Superar a si mesmo, mudanças, coragem para enfrentar as situações. Estando mal\naspectada pode indicar medo injustificado, sofrimento, angústia, falsidade,\nilusão, trabalhos mágicos feitos pelo ou para o consulente.\n\n  \n\nIlusão, engano, confusão, histeria, mesmo loucura, devaneio, falsidade, erro,\ncrise, \"hora mais escura antes do amanhecer\", mudança importante próxima.\n\n  \n\nNa Magia: O único Arcano Maior que transmite a Magia.\n\n"
+            },
+            {
+                "id": 19,
+                "nome": "Sol",
+                "dados": "Iluminação, glória, virtude, realização pessoal. Se estiver mal aspectada pode\nindicar limitação, incapacidade de ver adiante, desperdício, falsa aparência\nde poder, dificuldade de enxergar os próprios limites.\n\n  \n\nGlória, riqueza ganho, triunfo, prazer, franqueza, verdade, despudor,\narrogância, vaidade, manifestação, a recuperação da doença, mas às vezes morte\nsúbita.\n\n  \n\nNa Magia: Poder de Combate. Mestre Espiritual.\n\n"
+            },
+            {
+                "id": 20,
+                "nome": "Aeon",
+                "dados": "Mudanças de grande porte, decisão importante tomada para o bem, definição.\nQuando está mal aspectada indica incapacidade de decidir, indefinição,\nincapacidade de interferir no resultado.\n\n  \n\nDecisão final em relação ao momento atual, novo presente em relação ao futuro,\nsempre representa a tomada de um passo definitivo.\n\n  \n\nNa Magia: Magia de morte, obsessores\n\n"
+            },
+            {
+                "id": 21,
+                "nome": "O Universo",
+                "dados": "O Ilimitado, a superação final, o rompimento de toda e qualquer amarra\nmaterial/espiritual, unidade. Mesmo mal aspectada, essa carta sugere sucesso e\nvitória decisiva sobre os acontecimentos.\n\n  \n\nA questão da pergunta em si, a síntese, o fim da questão, pode significar\natraso, oposição, obstinação, inércia, paciência, perseverança, teimosia\npersistente na dificuldade. A cristalização de toda a questão envolvida.\n\n  \n\nNa Magia: O Universo (Arcano). Não há magia. Poder de Combate.\n\n"
+            },
+            {
+                "id": 22,
+                "nome": "A Raiz Dos Poderes De Fogo - Ás De Bastões",
+                "dados": "**A raiz dos poderes do fogo.**\n\n  \n\nEncontra-se no Polo Norte do Universo.\n\n  \n\nSimboliza a fortaleza, rapidez, vigor, energia e governo, de acordo com sua\nnatureza, vários trabalhos e questões. Implica força natural com o oposto da\ninvocada.\n\n"
+            },
+            {
+                "id": 23,
+                "nome": "Domínio - Dois De Bastões",
+                "dados": "**O Senhor do domínio.**\n\n  \n\nOrgulho em detrimento de outros, autoridade, poder,domínio.\n\n  \n\nÉ o lado agressivo de Áries. Enobrecimento e ambição, moderando a\nimpulsividade, reforçando o caráter, desenvolvendo a paciência e a\nperseverança, e conferindo uma vitalidade robusta. É a natureza íntegra do\nsigno.\n\nForça, domínio, harmonia da regra e da justiça. Atrevimento, valor, força,\nvingança, resolução, generosidade, orgulho, sensibilidade, ambição,\nrefinamento, turbulência. Infatigável; também sagaz, mas implacável e\nobstinado.\n\n  \n\nChokmah de Yod. Influência sobre os demais, autoridade, poder, domínio.\n\n"
+            },
+            {
+                "id": 24,
+                "nome": "Virtude - Três De Bastões",
+                "dados": "**O Senhor da força estabelecida.**\n\n  \n\nArrogância, orgulho, autoafirmação.\n\n  \n\nDominado pelo Sol, mostra o lado idealista do signo. Mas também, a\nimpulsividade, o desassossego e as atividades exteriores.\n\n  \n\nForça estabelecida, fortaleza, realização da esperança. Conclusão do trabalho.\nÊxito após a luta. Orgulho, nobreza, riqueza, poder, altivez. Grosseria,\npresunção e insolência. Generosidade, obstinação.\n\n  \n\nBinah de Yod. Orgulho, arrogância, petulância. Esta carta é muito melhor do\nque se descreve.\n\n"
+            },
+            {
+                "id": 25,
+                "nome": "Conclusão - Quatro De Bastões",
+                "dados": "**O Senhor do trabalho aperfeiçoado.**\n\n  \n\nLiquidação, arranjo de conclusão.\n\n  \n\nDominado por Vênus, dá fortes paixões e sede de prazeres, amor às artes e à\npoesia. Sentimentos bondosos, mas impulsivos, criando, ademais, uma disposição\ncordial e simpática.\n\n  \n\nPerfeição e finalização de algo construído com dificuldade e trabalho.\nDescanso após o trabalho, sutileza, inteligência, beleza, alegria, êxito\nconcluído, faculdade de raciocínio, conclusões retiradas do conhecimento\nprévio. Desapercebimento, informal e inconstante por excesso de impaciência e\npressa nas ações. De elegantes maneiras, às vezes pouco sincero.\n\n  \n\nChesed de Yod. Solução, disposição, finalização.\n\n"
+            },
+            {
+                "id": 26,
+                "nome": "Disputa - Cinco De Bastões",
+                "dados": "**O Senhor da contenda.**\n\n  \n\nBrigando e lutando.\n\n  \n\nDominado por Saturno, cria uma natureza forte, veemente, difícil de refrear,\nfalso orgulho, caráter severo, cauteloso e até desconfiado pela falta de\nconfiança em si mesmo, atentíssimo a seus próprios interesses e forçado mais\nde uma vez a dobrar-se a obstáculos e dificuldades da vida exterior em que\npese seu grande amor à independência.\n\n  \n\nÉ a contenda violenta e o atrevimento, imprudência, crueldade, luxúria,\ndesejo, prodigalidade e generosidade; dependendo das cartas próximas a ela.\n\n  \n\nGeburah de Yod. Luta e Contenda.\n\n"
+            },
+            {
+                "id": 27,
+                "nome": "Vitória - Seis De Bastões",
+                "dados": "**O Senhor da vitória.**\n\n  \n\nGanho.\n\n  \n\nDominado por Júpiter, debilita a energia, a constância e a tranquila\nperseverança, fomentando a atividade externa e demonstrativa, mas desperta\ntambém a autoconfiança, bondade e o humanitarismo.\n\n  \n\nVitória depois da contenda: amor, prazer conseguido por meio do trabalho.\nPrecaução, sociabilidade e diplomacia, ainda que objetivando a vitória. Também\ninsolência e orgulho de riqueza e êxitos. O resultado depende das cartas\npróximas.\n\n  \n\nTiphareth de Yod. Ganância.\n\n"
+            },
+            {
+                "id": 28,
+                "nome": "Valor - Sete De Bastões",
+                "dados": "**O Senhor do valor.**\n\n  \n\nOposição, e também coragem.\n\n  \n\nDominado por Marte, aumenta a energia, a iniciativa, a ousadia, a\nimpulsividade, o afã de atuar e reinar. Mas, a natureza é aberta e magnânima.\nHomens desse tipo são tirânicos como donos e rebeldes como serventes. Desgaste\nda vontade.\n\n  \n\nVitória possível, dependendo da energia e do valor empregados. Valor,\noposição, obstáculos e dificuldades, com valor para afrontá-los. Disputas,\nignorância, pretensão e ameaças. Também a vitória em coisas pequenas e sem\nimportância. Influência sobre os subordinados.\n\n  \n\nNetzach de Yod. Oposição, ainda que com valor.\n\n"
+            },
+            {
+                "id": 29,
+                "nome": "Rapidez - Oito De Bastões",
+                "dados": "**O Senhor da prontidão.**\n\n  \n\nComunicações apressadas e mensagens, rapidez.\n\n  \n\nDominado por Mercúrio, atrai um juízo acertado, intelecto agudo, claro e\nsábio. Adaptabilidade, energia mental e inclinação para estudos científicos e\nfilosóficos. Esgotamento da energia.\n\n  \n\nForça demasiada aplicada muito repentinamente. Violento mas não duradouro.\nVelocidade, rapidez, valor, atrevimento, confiança, liberdade, guerra,\nviolência. Amor ao ar livre, esportes em campo aberto, jardins e prados.\nGeneroso, sutil, eloquente, mas algo irresponsável. Roubo, opressão. Depende\ndas cartas à sua volta.\n\n  \n\nHod de Yod. Comunicações e mensagens apressadas, rapidez.\n\n"
+            },
+            {
+                "id": 30,
+                "nome": "Força - Nove De Bastões",
+                "dados": "**O Senhor da grande força.**\n\n  \n\nForça, poder, saúde, recuperação da doença.\n\n  \n\nDominado pela Lua, caracteriza as pessoas de viva imaginação, força criadora e\nde inclinações românticas, mas também de desassossego.\n\n  \n\nTremenda e constante força que não pode ser abalada.\n\n  \n\nForça hercúlea, mas as vezes aplicada cientificamente. Grande êxito, mas com\nluta e energia. Vitória precedida por medo e apreensão. Boa saúde e\nrecuperação sem admitir dúvidas. Generoso, inquisidor e curioso. Preocupado\ncom aparências externas, intratável, obstinado.\n\n  \n\nYesod de Yod. Força, poder, saúde, recuperação da enfermidade.\n\n"
+            },
+            {
+                "id": 31,
+                "nome": "Opressão - Dez De Bastões",
+                "dados": "**O Senhor da opressão.**\n\n  \n\nCrueldade, maldade, vingança, injustiça.\n\n  \n\nDominado por Saturno, demonstra paixões fortes, mas refreadas e uma\nmentalidade filosófica, sóbria, idônea para investigações profundas, sobretudo\nno domínio científico.\n\n  \n\nForça e energia cruéis e despóticas, mas aplicadas somente a fins materiais e\negoístas. Às vezes, mostra o fracasso em um assunto e a oposição demasiado\nforte para ser controlada. Emanando o princípio de um egoísmo pessoal muito\nacentuado. Má intensão, ligeireza, mentiras, malícia, calúnia, obstinação.\nHabilidade em maldade e enganação, se estiver mal posicionada. Também\ngenerosidade, desinteresse e abnegação.\n\n  \n\nMalkuth de Yod. Crueldade, malícia, vingança, injustiça.\n\n"
+            },
+            {
+                "id": 32,
+                "nome": "Cavaleiro De Bastões",
+                "dados": "**O Senhor da chama e do raio.**\n\n  \n\nRei dos Espíritos de Fogo.\n\n  \n\nRege de 20º de Escorpião a 20º de Sagitário.\n\n  \n\nEle é ativo, generoso, forte, repentino, impetuoso. Se mal dignificada, ele é\nperverso, cruel, intolerante, brutal. Não é capaz de modificar sua atitude\nsegundo as circunstâncias. Se fracassa no início, sua força esgota-se\nrapidamente.\n\n"
+            },
+            {
+                "id": 33,
+                "nome": "Rainha De Bastões",
+                "dados": "**A Rainha dos tronos das chamas.**\n\n  \n\nRege de 20º de Peixes a 20º de Áries.\n\n  \n\nAdaptabilidade, força persistente aplicada a um objeto. Mão firme para\ncomandar, grande poder de atração, poder governador mas amável. É amável desde\nque não tenha oposições a ela. Embora pareça orgulhosa, esse orgulho não passa\nde vaidade autocomplacente e até, pode-se dizer, jactância. Quando está mal\naspectada, é obstinada, vingativa, dominadora, tirânica e dada a voltar-se\ncontra outra pessoa sem causa aparente. Tem uma certa tendência à obsessão,\npodendo chegar a falsas conclusões, raciocinando com grande brutalidade. Pode\nser tirânica e estúpida. Ao se sentir ofendida, busca vingança, mesmo que\ninjustificada.\n\n"
+            },
+            {
+                "id": 34,
+                "nome": "Príncipe De Bastões",
+                "dados": "**O Príncipe da carruagem de fogo.**\n\n  \n\nRege de 20º de Câncer a 20º de Leão.\n\n  \n\nRápido, forte, romântico, impaciente, às vezes violento, mas justo e generoso,\nnobre e despreza a mesquinhez. Muitas vezes acaba atuando por impulso; em\noutros momentos, é influenciado pelas energias próximas a ele, ou por assuntos\nsem importância. Quando expressa sua opinião, pode se tornar violento.\nDespreza a mesquinhez de qualquer tipo, assim como a estreiteza da visão. Luta\nsempre em desvantagem, embora no final sempre ganhe a última batalha.\n\n  \n\nQuando está mal aspectado mostra-se cruel, indiferente, preguiçoso,\nintolerante e perverso. Tem um senso de humor extremamente mutável, o que é\ndado pelo último decanato de Câncer nessa carta.\n\n"
+            },
+            {
+                "id": 35,
+                "nome": "Princesa De Bastões",
+                "dados": "**  Princesa da chama brilhante.**\n\n  \n\nA Rosa do Palácio de Fogo.\n\n  \n\nRege os céus acima do Polo Norte num de seus quadrantes, junto com o Ás de\nPaus.\n\n  \n\nBrilho, individualismo, ousadia, coragem, beleza, força, rápida na ira e no\namor. Desejo de poder, entusiasmo, vingança. Mal aspectada torna-se\nsuperficial, desleal, teatral, cruel, instável, dominadora. Jamais se esquece\nde um ultraje ou de uma afronta. Sua paciência é aquela necessária para\nrealizar seus projetos de vingança.\n\n"
+            },
+            {
+                "id": 36,
+                "nome": "A Raiz Dos Poderes Da Água - Ás De Copas",
+                "dados": "**A raiz dos poderes das águas.**\n\n  \n\nEncontra-se no Polo Norte do Universo.\n\n  \n\nEla simboliza a fertilidade, a produtividade, beleza, prazer, felicidade.\n\n  \n\n"
+            },
+            {
+                "id": 37,
+                "nome": "Amor - Dois De Copas",
+                "dados": "**  Senhor do amor.**\n\n  \n\nCasamento, amor, prazer.\n\n  \n\nDominado por Vênus, caracteriza uma natureza sociável, amável, magnânima,\nbondosa e atraente. Mas afeita aos prazeres e que gosta de destacar seu\nexterior pelo modo de vestir-se, adereços, etc.\n\n  \n\nHarmonia do masculino e do feminino unidos. Harmonia, prazer, alegria,\nsutileza: mas, se está mal aspectada, desperdício, derrota, atos simples e\ntolos.\n\n  \n\nChokmah de Heh. Matrimônio, amor, prazer.\n\n  \n\n"
+            },
+            {
+                "id": 38,
+                "nome": "Abundância - Três De Copas",
+                "dados": "**O Senhor da abundância.**\n\n  \n\nDominado por Mercúrio, une um bom intelecto com uma imaginação forte e é um\nestudioso notório. A eloquência que existe degenera circunstancialmente em\nmera loquacidade. Na vida exterior, o nativo atrai inimizades pelo uso\ndemasiado franco da língua e da pena.\n\n  \n\nAbundância, exuberância, êxito, prazer, sensibilidade, êxito passivo, boa\nsorte e fortuna, amor. Satisfação, amabilidade liberalidade.\n\n  \n\nBinah de Heh. Abundância, hospitalidade, comida e bebida, prazer, baile, novas\nroupas, regozijo.\n\n"
+            },
+            {
+                "id": 39,
+                "nome": "Luxo - Quatro De Copas",
+                "dados": "**O Senhor do prazer mesclado.**\n\n  \n\nDominado pela Lua, apresenta as mesmas características do signo de Câncer.\n\n  \n\nÊxito ou prazer que se aproximam do fim. Um período estacionário de\nfelicidade, que pode ou não continuar. Não significa amor e casamento tanto\nquanto a carta anterior. É um símbolo demasiado passivo para representar\nperfeitamente a felicidade completa. Prontidão, persuasão e captura. Aquisição\nmediante luta. Às vezes injustiça. Alguns inconvenientes com o prazer\nimplicado.\n\n  \n\nChesed de Heh. Receber prazer ou amabilidade dos demais, mas com algum\ndescontentamento.\n\n  \n\n"
+            },
+            {
+                "id": 40,
+                "nome": "Desapontamento - Cinco De Copas",
+                "dados": "**O Senhor da perda no prazer.**\n\n  \n\nDesengano, tristeza e perda daquelas coisas das quais se espera o prazer.\nPena, perfídia, engano. Rancor, degradação. Caridade e amabilidade degradadas.\nToda classe de inquietudes e problemas de fontes insuspeitas e inesperadas.\n\n  \n\nGeburah de Heh. Desengano no amor, ruptura do matrimônio, crueldade de um\namigo; perda da amizade.\n\n"
+            },
+            {
+                "id": 41,
+                "nome": "Prazer - Seis De Copas",
+                "dados": "**O Senhor do prazer.**\n\n  \n\nDominado pelo Sol, desenvolve uma disposição orgulhosa, altaneira, com desejo\nde reinar e inclinada ao rigor e à tirania.\n\n  \n\nComeço de um sólido aumento, ganância e prazer, mas apenas o começo. Também\nafronta, descobrimento, conhecimento, e em alguns casos, contenda e luta que\nsurgem da presunção injustificada. Às vezes, mal agradecido, vaidoso e\npresunçoso. Outras, amável e paciente. Segundo a influência, como de praxe.\n\n  \n\nTiphareth de Heh. Princípio do desejo, felicidade, êxito, ou diversão.\n\n"
+            },
+            {
+                "id": 42,
+                "nome": "Deboche (Corrupção) - Sete De Copas",
+                "dados": "**O Senhor do êxito ilusório.**\n\n  \n\nDominado por Vênus, fomenta falta de limites, apetites pervertidos e\ninconstância nos assuntos amorosos.\n\n  \n\nPossível vitória, mas neutralizada pela falta de caráter da pessoa. Êxito\nilusório, decepção no momento da aparente vitória. Mentiras, erros, promessas\nnão cumpridas. Embriagues, ira, vaidade, luxúria, fornicação, violência contra\nas mulheres, libertinagem egoísta, decepção no amor e na amizade. Algumas\nvezes obtém o êxito, mas não é continuado. Modificado segundo as influências\npróximas como de hábito.\n\n  \n\nOs cálices vazios nessa carta fazem uma alusão ao fato\n\nde Netzach (a sétima sephira) não ter contato direto com Kether (a primeira\nsephira) e, portanto, não compartilha das bênçãos (ou emanações) vindas do\nalto. Desgaste emocional.\n\n  \n\nNetzach de Heh. Mentiras, promessas não cumpridas, ilusão, decepção, erro.\nLigeiro êxito inicial, mas não mantido.\n\n"
+            },
+            {
+                "id": 43,
+                "nome": "Indolência - Oito De Copas",
+                "dados": "**O Senhor do êxito abandonado.**\n\n  \n\nDominado por Saturno, indica entusiasmo mal utilizado, simpatias corruptas,\nreligiosidade que se inclina ao fanatismo, disputas e discórdia com inimigos\npoderosos e com falsos amigos, diminuindo sua própria posição.\n\n  \n\nÊxito temporal, mas sem resultados posteriores. O objeto\n\né largado de lado tão logo é obtido. Não duradouro, inclusive entre as mãos\n(como areia escorrendo pelos dedos). Indolência no êxito. Viagens de um lugar\na outro. Sofrimento e aflição sem causa. Busca de riquezas. Instabilidade.\nEsgotamento emocional.\n\n  \n\nComo na carta anterior, essa carta indica, pelos cálices\n\nsuperiores vazios, a perda do contato com a fonte divina (Kether). O êxito não\né continuado e é abandonado logo em seguida. A busca do êxito pela vitória em\nsi, mas sem saber o que fazer com o objeto conquistado. (ver também o arcano\nXV – O Diabo para maiores explicações).\n\n  \n\nHod de Heh. Êxito abandonado, dissimulação do interesse.\n\n"
+            },
+            {
+                "id": 44,
+                "nome": "Felicidade - Nove De Copas",
+                "dados": "**O Senhor da felicidade material.**\n\n  \n\nDominado por Júpiter, possui as mesmas características dadas pelo próprio\nsigno.\n\n  \n\nCompleta e perfeita realização do prazer e da felicidade, quase perfeita.\nAutoadulação, vaidade, presunção, falar muito de si mesmo, não obstante amável\ne encantador, podendo ser abnegado. De nobres pensamentos, não se satisfaz\nfacilmente com ideias limitadas ou pequenas. Tem tendência a tornar-se mau\npelo excesso de presunção. De natureza boa e generosa, mas às vezes\nprecipitado.\n\n  \n\nYesod de Heh. Êxito completo, prazer e felicidade, desejos cumpridos.\n\n"
+            },
+            {
+                "id": 45,
+                "nome": "Saciedade - Dez De Copas",
+                "dados": "**O Senhor do êxito aperfeiçoado.**\n\n  \n\nDominado por Marte, dá mais força, capacidade, energia e confiança em si\nmesmo, mas fomenta um desenvolvimento de zelos, rigor, aspereza e de apreço\nexcessivo aos seus próprios caprichos.\n\n  \n\nPermanente e duradouro êxito e felicidade, porque está inspirado desde Kether.\nNão tão sensual como o “Senhor da Felicidade Material (Nove de Copas)”, mas\nquase mais feliz. Prazer, libertinagem, corrupção, tranquilidade, pacificação.\nAmabilidade, pena, generosidade, atitude desenfreada, segundo as influências\npróximas, como é próprio dos Arcanos Menores.\n\n  \n\nEssa carta acaba não sendo tão maravilhosa quanto parece ser. Podem sobrevir\ndela aborrecimentos e discórdias; repugnância que advém do excesso de luxo.\nEmbrutecimento pelo excesso de prazer.\n\n  \n\nMalkuth de Heh. Assunto estabelecido, completitude e boa fortuna.\n\n"
+            },
+            {
+                "id": 46,
+                "nome": "Cavaleiro De Copas",
+                "dados": "**O Senhor das ondas e das águas.**\n\n  \n\nRei das hostes do mar.\n\n  \n\nRege de 20º de Aquário até 20º de Peixes.\n\n  \n\nSuas características são evidentemente passivas. Gracioso, poético, venusiano,\nindolente mas entusiasta quando estimulado. Mal aspectado é sensual,\nmentiroso, perigoso e falso. Seu caráter demonstra falta de perspicácia.\n\n"
+            },
+            {
+                "id": 47,
+                "nome": "Rainha De Copas",
+                "dados": "**Rainha dos tronos das águas.**\n\n  \n\nRege de 20º de Gêmeos até 20º de Câncer.\n\n  \n\nÉ imaginativa, poética, ilusionista, amável, mas não é dada a tomar as dores\ndos demais. Vaidosa, de boa natureza sob uma aparência de sonolência. Sua\nimaginação é mais forte que seus sentimentos. É muito afetada por outras\ninfluências e então depende mais da dignidade boa ou má dos aspectos ao seu\nredor, do que do restante dos símbolos. Tudo aquilo que ela representa pode\nser distorcido por seu reflexo. Esta carta associa-se diretamente com a carta\nda Sacerdotisa (Arcano Maior n.º II). Pode-se até mesmo usar as mesmas\natribuições desta carta. Enquanto o Arcano Maior (A Sacerdotisa) representa um\naspecto interno, esta carta pode assumir uma pessoa de fato, não apenas uma\nsituação, mas alguém.\n\n"
+            },
+            {
+                "id": 48,
+                "nome": "Príncipe De Copas",
+                "dados": "**Príncipe da carruagem das águas.**\n\n  \n\nRege de 20º de Libra a 20º de Escorpião.\n\n  \n\nÉ sutil, violento, habilidoso, tranquilo, imperturbável, astuto e artístico.\nSob uma calma exterior esconde sua verdadeira natureza. É poderoso para o bem\nou para o mal, mas se sente mais atraído para o mal, ainda que apenas\naparentemente conciliando poder e sabedoria. Mal aspectado é intensamente\nmalvado e impiedoso. Preocupa-se consigo mesmo e com o alcance de seu poder.\nNão se responsabiliza pelos demais, o que faz dele uma péssima escolha para\ntrabalhos em equipe.\n\n"
+            },
+            {
+                "id": 49,
+                "nome": "Princesa De Copas",
+                "dados": "**Princesa das águas e dos lótus do Palácio das Inundações.**\n\n  \n\nRege um dos quadrantes do Céu no Polo Norte, ao redor de Kether, junto com o\nÁs de Copas.\n\n  \n\nDoçura, poesia, virtuosidade, voluptuosidade, gentileza e amabilidade.\nImaginação, sonolência, às vezes indolência. Mas é valente se for estimulada.\nMal aspectada é egoísta e luxuriosa (caprichosa).\n\n"
+            },
+            {
+                "id": 50,
+                "nome": "A Raiz Dos Poderes Do Ar - Ás De Espadas",
+                "dados": "**A raiz dos poderes do ar.**\n\n  \n\nEncontra-se no Polo Norte do Universo.\n\n  \n\nSimboliza o invocado, em contraste com a força natural, pois é a invocação da\nEspada. Levantada com a ponta para cima invoca a coroa divina do brilho\nespiritual, mas invertida é a invocação da força demoníaca e se converte num\ntemível símbolo do mal. Representa, portanto, grande poder para o bem e para o\nmal mas, invocado, também representa a força em torvelinho e a fortaleza pela\naflição. É a afirmação da justiça que defende a autoridade divina e pode\nconverter-se na espada da ira do castigo e da aflição.\n\n"
+            },
+            {
+                "id": 51,
+                "nome": "Paz - Dois De Espadas",
+                "dados": "**O Senhor da paz restaurada.**\n\n  \n\nDominado pela Lua, predispõe a um caráter débil, fácil de influenciar,\nexcêntrico e variável.\n\n  \n\nCaracterísticas contraditórias da mesma natureza, fortaleza pelo sofrimento.\nPrazer depois da dor. Sacrifício e aflição, ainda que a força surja deles,\nsimbolizados pela posição da rosa, como se a própria dor houvesse produzido a\nbeleza. Acordo, paz restaurada, trégua, verdade e falsidade. Pena e compaixão.\nAjuda ao debilitado, acordo, justiça, desinteresse. Também uma tendência à\nrepetição das afrontas a serem perdoadas. Dado às petições. Falta de tato e\npropensão a fazer perguntas de pouca importância, loquaz.\n\n  \n\nChokmah de Vav. Paz nas disputas, ainda que com alguma tensão nas relações.\nAtos às vezes egoístas e às vezes desinteressados. Depende também das\ninfluências externas. Discussão feita, terminada, mas ainda algumas tensões\nnas relações, ações, às vezes egoísta, por vezes, egoísta.\n\n  \n\n"
+            },
+            {
+                "id": 52,
+                "nome": "Dor - Três De Espadas",
+                "dados": "**O Senhor da tristeza.**\n\n  \n\nDominado por Saturno, confere elevada concentração, engenhosidade, justiça,\nperseverança e fidelidade.\n\n  \n\nDesorganização, interrupção, separação, pendência. Semente da discórdia e a\ncontenda, revolta, pena e lágrimas. Sem dúvida, regojizo nos prazeres\nplatônicos: cantos, fidelidade nas promessas, honradez nas transações\nmonetárias, egoísmo e dissolução, mas generosidade às vezes. Falsidade em\npalavras e contradição. Tudo de acordo com as cartas ao redor.\n\n  \n\nBinah de Vav. Infelicidade, tristeza e lágrimas.\n\n"
+            },
+            {
+                "id": 53,
+                "nome": "Trégua - Quatro De Espadas",
+                "dados": "**O Senhor do descanso e da contenda.**\n\n  \n\nDominado por Júpiter, cria uma natureza bondosa, magnânima, amável,\nequilibrada, muito sincera e justiceira.\n\n  \n\nDescanso da tristeza; mas depois dela e por ela. Paz desde e depois da guerra.\nRelaxamento da inquietude. Tranquilidade, descanso, comodidade e abundância,\nmas depois da luta. Bens desta vida. Abundância. Tudo avaliado conforme as\ncartas ao redor.\n\n  \n\nChesed de Vav. Convalescença, recuperação da enfermidade, mudança para melhor.\n\n"
+            },
+            {
+                "id": 54,
+                "nome": "Derrota - Cinco De Espadas",
+                "dados": "**O Senhor da derrota.**\n\n  \n\nDominado por Vênus, confere um gosto refinado, equilíbrio, juízo acertado,\nsociabilidade, sobretudo no trato com o sexo oposto. Desperta, amiúde,\nintuição e dons psíquicos. O nativo dispõe de um temperamento tranquilo e\nsóbrio e refreia seus desejos.\n\n  \n\nContenda terminada e decidida contra a pessoa. Fracasso, derrota, impaciência,\ncontrariedades, pobreza, avareza, aflição depois da ganância. Laborioso,\ninfatigável. Sinistro e vil por natureza. Malicioso, calunioso, embusteiro,\nrancoroso e cismado. Um intrometido e separador de amigos, que odeia ver a paz\ne o amor entre os demais. Cruel, ainda que seja covarde, mal-agradecido e\ninformal. Inteligente e rápido de pensamento e palavras. Sentimentos de pena\nfacilmente suscitados, mas passageiros.\n\n  \n\nGeburah de Vav. Derrota, perda, malícia, rancor, calúnia, injúria.\n\n"
+            },
+            {
+                "id": 55,
+                "nome": "Ciência - Seis De Espadas",
+                "dados": "**O Senhor do êxito ganho.**\n\n  \n\nDominado por Mercúrio, presta ao intelecto, atividade, inteligência,\nprudência, aptidão, tanto para atividades científicas como para práticas\ncomerciais, mas diminui a constância, a decisão e a concentração.\n\n  \n\nÊxito depois da impaciência e da angústia; estima de si mesmo, beleza,\npresunção, mas, algumas vezes, modéstia; dominação, paciência, trabalho, etc.\n\n  \n\nTiphareth de Vav. Trabalho, labor, viagem por mar.\n\n"
+            },
+            {
+                "id": 56,
+                "nome": "Futilidade - Sete De Espadas",
+                "dados": "**O Senhor do esforço instável.**\n\n  \n\nDominado pela Lua, predispõe para melancolia, amor à solidão, imaginações\npessimistas, pressentimentos sombrios e inclinação para a vida nômade.\n\n  \n\nÊxito parcial. Rendição quando a vitória está nas suas mãos, como se houvessem\nse esgotado todas as reservas de energia. Inclinação para perder quando se\nestá a ponto de ganhar, por não continuar o esforço. Amor à abundância,\nfascinação pela exibição, Tendência aos cumprimentos, afrontas e insolências,\ne a espiar os demais. Tende a atraiçoar confidências, nem sempre de forma\nintencional. Um pouco vacilante e informal. Desgaste intelectual.\n\n  \n\nNetzach de Vav. Viagem por terra; sem caráter digno de confiança.\n\n"
+            },
+            {
+                "id": 57,
+                "nome": "Interferência - Oito De Espadas",
+                "dados": "**O Senhor da força reduzida.**\n\n  \n\nDominado por Júpiter, caracteriza uma disposição magnânima, demasiado otimista\ne cheia de confiança em si mesmo e os desenganos que disso resultam\nnecessariamente. Em que pese o intelecto agudo, o juízo desvia-se muitas vezes\ne leva a um uso falso das faculdades. Eloquência, compreensão jurídica e\npossibilidades de elevação devido ao próprio mérito se encontram com\nfrequência entre os representantes deste decanato alguns menos agraciados.\n\n  \n\nForça demasiada aplicada às pequenas coisas. Atenção excessiva nos detalhes às\ncustas dos pontos principais e mais importantes. Quando está mal dignificado,\nessas qualidades produzem malícia. Paciência no estudo detalhado. Grande\ncuidado em algumas coisas, contrastando com igual desordem em outras.\nImpulsivo; igualmente aficionado a dar ou receber dinheiro e regalias.\nGeneroso, inteligente, agudo, egoísta e sem fortes sentimentos de afeto.\nAdmira a sabedoria, não obstante a aplica a objetos pequenos e indignos.\nEsgotamento intelectual.\n\n  \n\nHod de Vav. Estreito, restrito, insignificante, um cárcere. Estreito,\nrestrito, insignificante, uma prisão.\n\n"
+            },
+            {
+                "id": 58,
+                "nome": "Crueldade - Nove De Espadas",
+                "dados": "**O Senhor do desespero e da crueldade.**\n\n  \n\nA presença de Marte no signo de Gêmeos traz belicosidade e agressividade a\nesta carta. Dominado por Marte, dá uma disposição combativa, violenta,\npetulante, inclinada à ingratidão. Enche a vida com altercações e discussões\ninúteis, e favorece um emprego errôneo e impulsivo do intelecto, que em si\nmesmo é bom e agudo.\n\n  \n\nDesespero, crueldade, impiedoso, malícia, sofrimento, carência, perdas,\nmiséria. Carga, opressão, trabalho, sutileza e destreza, desonestidade e\ncalúnia. Traição, aquilo que é feito com o intuito de obstruir e prejudicar. A\nboca e o intelecto como destruidores da paz.\n\n  \n\nTambém obediência, fidelidade, paciência, generosidade, segundo a dignidade\nastrológica. Uma forma mais generosa de se ver esta carta é a aceitação do\nmartírio, a resistência passiva, a resignação.\n\n  \n\nO nove traz novamente a energia ao pilar central da Árvore das Vidas. A\ndesordem causada pelos números anteriores (sete e oito) foi restaurada.\n\n  \n\nYesod de Vav. Enfermidade, sofrimento, malícia, crueldade, dor.\n\n"
+            },
+            {
+                "id": 59,
+                "nome": "Ruína - Dez De Espadas",
+                "dados": "**O Senhor da ruína.**\n\n  \n\nDominado pelo Sol, promove atividades literárias e científicas, efeitos\nbrilhantes do intelecto e êxitos literários ou artísticos pertinentes, sendo\nmenos propício, sem dúvida, aos meios financeiros. Produz muitas viagens e\nuniões poderosas e influentes, mas também um aporte ao desassossego e à\nagitação.\n\n  \n\nÉ quase tão ruim quanto o Nove de Espadas. Indisciplinado, força oposta,\ndesbaratamento e fracasso completos. Ruína de todos os planos e projetos.\nDesdém, insolência e impertinência, ainda que com alegria e regojizo. Um\nprofissional, amante de destruir a felicidade dos demais. Um repetidor das\ncoisas. Um falastrão de palavras excessivas. Não obstante, inteligente,\neloquente, etc. Segundo a dignidade.\n\n  \n\nMalkuth de Vav. Ruína, morte, derrota, desbaratamento.\n\n"
+            },
+            {
+                "id": 60,
+                "nome": "Cavaleiro De Espadas",
+                "dados": "**O Senhor dos ventos e das brisas.**\n\n  \n\nRei dos espíritos do ar.\n\n  \n\nRege de 20º de Touro a 20º de Gêmeos.\n\n  \n\nÉ ativo, inteligente, sutil, feroz, delicado, ligeiro, valoroso, valente,\nhabilidoso, inclinado ao domínio. Valoriza em excesso as coisas pequenas, a\nmenos que esteja bem aspectado. Mal aspectado é enganador, fútil, tirânico e\ncheio de vícios.\n\n"
+            },
+            {
+                "id": 61,
+                "nome": "Rainha De Espadas",
+                "dados": "**Rainha dos tronos do ar.**\n\n  \n\nRege de 20º de Virgem a 20º de Aquário.\n\n  \n\nÉ intensamente perceptiva, com uma observação aguda, sutil, rápida,\nconfidente, amiúde perseverante e exata nos detalhes. Cheia de graça, amante\nda dança e do equilíbrio. Mal dignificada é cruel, astuta, enganadora e\ntraiçoeira, ainda que de aparência dócil, o que a deixa duplamente perigosa.\n\n  \n\n"
+            },
+            {
+                "id": 62,
+                "nome": "Príncipe De Espadas",
+                "dados": "**Príncipe das carruagens dos ventos.**\n\n  \n\nRege de 20º de Capricórnio até 20º de Aquário.\n\n  \n\nCheio de ideias, pensamentos e desígnios, desconfiado, perspicaz, firme na\namizade e na inimizade. Cuidadoso, lento, precavido. É o Alfa e o Ômega, o\ndoador da morte (em oposição a Osíris, o doador da vida), que mata tão rápido\nquando cria. Mal aspectado se torna áspero, malicioso, intrigante, fanático,\nobstinado, mas indeciso e inseguro.\n\n  \n\nÉ uma carta extremamente violenta, rápida e perigosa, pois é governada pela\nimaturidade daquele que conduz a carruagem. Ela compartilha do significado da\ncarta n.º 0 (O Louco), porém representando seu lado mais desestruturado.\n\n"
+            },
+            {
+                "id": 63,
+                "nome": "Princesa De Espadas",
+                "dados": "**Princesa dos vendavais.**\n\n  \n\nLótus do Palácio do Ar.\n\n  \n\nEncontra-se no Polo Norte do Universo, ao redor de Kether, junto com o Ás de\nEspadas.\n\n  \n\nSabedoria, lógica, força, agudeza, sutileza nas coisas materiais, graça e\ndestreza. Mal aspectada é agressiva, vingativa, incoerente, frívola e astuta.\n\n"
+            },
+            {
+                "id": 64,
+                "nome": "A Raiz Dos Poderes Da Terra - Ás De Discos",
+                "dados": "**A raiz dos poderes da Terra.**\n\n  \n\nEncontra-se no Polo Norte do Universo. Como todos os Ases, é uma energia\npotencialmente muito poderosa, que pode ou não ser manifestada. Aquilo que\npode vir a ser, um acontecimento iminente, porém, se não é levado adiante,\ntorna-se apenas uma energia desperdiçada sem finalidade ou resultado algum. O\nsimbolismo forte desta carta contrasta com seu significado e sua energia,\nfazendo com que seja necessário meditar por longas horas sobre seu real\nsentido.\n\n  \n\nÉ a materialidade em todos os sentidos, bem ou mal. É, por conseguinte, num\ncerto sentido, uma ilusão (assim como todos os Ases anteriores): a ganância\nmaterial, o trabalho, o poder, a riqueza, etc. Guarda alguma semelhança com o\nDez (10=1+0=1) de Pantáculos.\n\n  \n\nA aparição do elemento Terra. Segundo os qabalistas, o elemento Terra é a\nmanifestação física dos outros três (água, fogo, ar) que possuem apenas uma\nnatureza espiritual. Isso é relembrado ao observarmos as três letras mães do\nalfabeto hebraico (aleph-ar, mem-água, shin-fogo).\n\n  \n\nEla representa a materialidade em todos os sentidos, bons e maus, e é,\nportanto, em certo sentido, ilusório: ele mostra o ganho material, trabalho,\npoder, riqueza.\n\n"
+            },
+            {
+                "id": 65,
+                "nome": "Mudança - Dois De Discos",
+                "dados": "**O Senhor da mudança harmoniosa.**\n\n  \n\nDominado por Júpiter, mostra uma disposição ambiciosa, de vista ampla, mas\ncujas possibilidades de criação e êxito são frustradas amiúde pelo ceticismo e\npelo pessimismo.\n\n  \n\nA harmonia da mudança, alteração entre ganância e o prejuízo; força e\ndebilidade; ocupação sempre mudando; errante, descontente com qualquer\ncondição fixa das coisas; agora, alegria, depois, melancolia; trabalhador mas\ninformal; afortunado pela prudência na organização, sem dúvida, às vezes\ninexplicavelmente deslocado; alternativamente loquaz e suspicaz. Amável, ainda\nque oscilante e inconsciente. Afortunado nas viagens. Argumentador.\n\n  \n\nChokmah de Heh. Mudança agradável, visita aos amigos.\n\n"
+            },
+            {
+                "id": 66,
+                "nome": "Trabalho - Três De Discos",
+                "dados": "**O Senhor dos trabalhos materiais.**\n\n  \n\nDominado por Marte, caracteriza o cume da ambição, energia e atuação\ncompenetrada da confiança em si mesmo. O nativo se deixa arrebatar facilmente\ne ultrapassa os limites da prudência, sofrendo pelos revezes ou até mesmo\npelas quedas. Muitas vezes ocorre que no seu afã de sucesso torna-se rigoroso\ne despótico.\n\n  \n\nForça de trabalho. Edificação, criação, ereção; realização e aumento das\ncoisas materiais; ganância em transações comerciais, alimento; aumento dos\nbens, influência, inteligência nos negócios, egoísmo. Iniciação de assuntos\nque mais tarde serão estabelecidos: intolerante e cheio de prejuízos.\nPerspicaz em assuntos gananciosos; dado, às vezes, a buscar coisas\nimpossíveis.\n\n  \n\nBinah de Heh. Negócio, emprego remunerado, transação\n\ncomercial.\n\n"
+            },
+            {
+                "id": 67,
+                "nome": "Poder - Quatro De Discos",
+                "dados": "**O Senhor do poder terreno.**\n\n  \n\nDominado pelo Sol, provoca uma natureza fria, severa, reservada, melancólica,\negocêntrica, carente de simpatia dos outros e gratuitamente.\n\n  \n\nGanância material assegurada; êxito, prestígio, domínio, poder terreno,\ncompletados mas sem conduzir a nenhum final. Pleno de prejuízos, cobiçoso,\nsuspicaz, cuidadoso e ordenado, mas descontente. Pouco empreendedor ou de\npouca originalidade. Segundo as influências próximas, como de costume.\n\n  \n\nChesed de Heh. Ganância de dinheiro ou influência: comodidade.\n\n"
+            },
+            {
+                "id": 68,
+                "nome": "Preocupação - Cinco De Discos",
+                "dados": "**O Senhor da desgraça material.**\n\n  \n\nO aporte de Mercúrio é expressado por fortes dons intelectuais, força criadora\ne disposição amável. O indivíduo não somente possui inclinações às artes e a\ntudo o que é formoso (em especial no que diz respeito à forma e à cor), a\nprazeres sensuais, conforto e comodidades, mas, também, aptidão para esforços\nmentais contínuos. A intuição, o juízo acertado, a aplicação prática do\nintelecto e da eloquência. Mas, também faz- se crítico, egocêntrico e\ninclinado à avidez.\n\n  \n\nPerda de dinheiro e posição. Desgraça em coisas materiais. Trabalho, esforço,\ncultivo da terra. Edificação, conhecimento e agudeza das coisas terrenas,\npobreza, precaução, amabilidade; às vezes, recuperação de dinheiro depois de\num duro esforço e trabalho. Sem imaginação, duro, austero, determinado,\nobstinado.\n\n  \n\nGeburah de Heh. Perda da profissão, perda de dinheiro, angústia monetária.\n\n  \n\n"
+            },
+            {
+                "id": 69,
+                "nome": "Sucesso - Seis De Discos",
+                "dados": "**O Senhor do êxito material.**\n\n  \n\nO aporte da Lua se reconhece por uma disposição mutável e romântica, pela\nimaginação forte, sede de prazeres e o anseio de atividades artísticas ou\npoéticas. Com frequência se percebe também uma predileção pela mudança de\nendereço e uma promoção inequívoca da aquisição de dinheiro e propriedades.\n\n  \n\nÊxito e ganância nos empreendimentos materiais. Poder, influência, alimento,\nnobreza, regência sobre as pessoas. Afortunado, triunfante, justo e liberal.\nSe é mal dignificado, pode ser arrogante por sua riqueza, insolente por\nexcesso, ou pródigo. Podemos concluir daí que essa carta fala da vitória em\ncoisas materiais (como é próprio dos Arcanos Menores), e seu vínculo com o\ncorpo e a matéria é mais que evidente.\n\n  \n\nTiphareth de Heh. Êxito em coisas materiais, prosperidade nos negócios.\n\n"
+            },
+            {
+                "id": 70,
+                "nome": "Fracasso - Sete De Discos",
+                "dados": "**O Senhor do êxito não cumprido.**\n\n  \n\nDominado por Saturno, predispõe para a ambição, para a atividade intelectual\nprática, o talento organizador e o juízo baseado em fria razão. Diminui a\nintuição. Na atividade exterior, a influência saturnina se faz sentir como um\nfreio que produz obstáculos e atrasos, e como fator redutivo aos êxitos.\n\n  \n\nPromessas de êxito não cumpridas. Exibidas como se o fossem, mas não\naconteceu, indicado pelos brotos que não floresceram. Perda da aparente\nfortuna prometida. Esperanças defraudadas e oprimidas. Desengano, miséria,\nescravidão, necessidade e baixeza. Um cultivador da terra e sem dúvida um\nperdedor por essa mesma razão. Às vezes denota ligeiras e isoladas ganâncias\ndas quais não resultam nenhum fruto e de não muita importância, ainda que\npareçam muito promissoras. Desgaste financeiro.\n\n  \n\nNetzach de Heh. Especulações e empregos não rentáveis; pequenas ganâncias com\nmuito trabalho.\n\n"
+            },
+            {
+                "id": 71,
+                "nome": "Prudência - Oito De Discos",
+                "dados": "**O Senhor da prudência.**\n\n  \n\nDominado pelo Sol, dá paciência, constância, inclinação\n\nao retiro e aptidões para ciências analíticas e mecânicas.\n\n  \n\nExcessivamente cuidadoso em pequenas coisas, às custas das grandes: “Realça os\ntrocos e joga por terra o dinheiro grande”. Ganância e dinheiro fácil em\npequenas quantidades. Mesquinho, avarento, laborioso. Cultivo da terra;\ncarência de iniciativa. Esgotamento financeiro.\n\n  \n\nHod de Heh. Habilidade, prudência e astúcia.\n\n"
+            },
+            {
+                "id": 72,
+                "nome": "Ganho - Nove De Discos",
+                "dados": "**O Senhor da ganância material.**\n\n  \n\nDominado por Vênus, indica uma pessoa amável, sociável e afeita aos prazeres,\neloquente e que tem inclinação às artes, mas também ao outro sexo.\n\n  \n\nRealização completa da ganância material, bens , riquezas, herança.\nRecolhimento de bens, às vezes roubo e velhacaria. O conjunto depende das\ncartas ao redor. Esta carta tem relação em menor grau com a carta do Diabo\n(Arcano XV).\n\n  \n\nYesod de Heh. Herança, grande aumento dos bens.\n\n"
+            },
+            {
+                "id": 73,
+                "nome": "Riqueza - Dez De Discos",
+                "dados": "**O Senhor da riqueza.**\n\n  \n\nDominado por Mercúrio, atribui-se aqui as características do próprio signo de\nVirgem.\n\n  \n\nRealização das ganâncias materiais e da fortuna, mas nada além. Idade\navançada. Grandes riquezas, ainda que com algumas perdas. Inatividade mental,\nnão obstante inteligente e próspero em transações financeiras.\n\n  \n\nMalkuth de Heh. Bens e riqueza.\n\n"
+            },
+            {
+                "id": 74,
+                "nome": "Cavaleiro De Discos",
+                "dados": "**Senhor da terra agreste e fértil.**\n\n  \n\nRei dos espíritos da terra.\n\n  \n\nRege de 20º de Leão a 20º de Virgem.\n\n  \n\nSe não estiver muito bem aspectado, é pesado, torpe e materialista. É\nlaborioso, inteligente e paciente nas coisas materiais. Mal aspectado é\navarento, sombrio, ciumento, usurpador, torpe, zeloso e não muito valente a\nmenos que esteja envolto por outros símbolos. Põe-se a perder tempo com sonhos\nvãos. O Leão Covarde do Mágico de Oz.\n\n"
+            },
+            {
+                "id": 75,
+                "nome": "Rainha De Discos",
+                "dados": "**Rainha dos tronos da terra.**\n\n  \n\nRege de 20º de Sagitário a 20º Capricórnio.\n\n  \n\nÉ impetuosa, amável, tímida, pacífica, trabalhadora, prática, sensata,\nsensual, encantadora e de grande coração. Inteligente, melancólica, veraz, mas\nsujeita a diversos humores. Mal aspectada é indecisa, caprichosa, simplória e\nmutável.\n\n"
+            },
+            {
+                "id": 76,
+                "nome": "Príncipe De Discos",
+                "dados": "**Príncipe da carruagem da Terra.**\n\n  \n\nRege de 20º de Áries a 20º de Touro.\n\n  \n\nAumento do material, aumento do bem ou do mal, administração, solidez, aplica\ndiretamente as coisas, é firme e digno de confiança. Mal aspectado é animal,\nmaterialista, estúpido. Em todo caso é lento para ficar irado, mas pode ficar\nfurioso se provocado.\n\n"
+            },
+            {
+                "id": 77,
+                "nome": "Princesa De Discos",
+                "dados": "**Princesa das colinas do eco.**\n\n  \n\nRosa do Palácio da Terra.\n\n  \n\nEstá situada no Polo Norte, junto com o Ás de\n\nPantáculos.\n\n  \n\nÉ generosa, amável, diligente, benevolente, cuidadosa, valente, feminina,\nperseverante, compassiva. Mal aspectada é derrotista e arrependida. É a única\ncarta gestante no Tarot. Indica aí o simbolismo de continuidade, geração das\npróximas cartas ou do próximo nível É também a última carta do Tarot. Pode ser\nchamada de Nuit, a filha de pálpebras azuis, o brilho nu do voluptuoso céu\nnoturno. Pode indicar também gestação próxima.\n\n"
+            }
+        ]
+    },
+    {
         "id": 3,
-        "livro": "Tarot Terapeutico - Veet Pramad",
+        "livro": "Tarot Terapeutico",
+        "autor": "Veet Pramad",
         "dados": [
             {
                 "id": 0,

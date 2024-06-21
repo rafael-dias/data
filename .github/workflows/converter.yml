@@ -25,6 +25,7 @@ jobs:
      - name: Converter
        run: |
          python convert.py
+         python convert_atributos.py
          git config --local user.name "GitHub Action"
          git config --local user.email "action@github.com"
          git checkout -B main

@@ -1,0 +1,6 @@
+Simboliza o princípio da contração do esforço. Impulso para defender a estrutura e a integridade do eu, impulso em direção à segurança e à defesa por meio de realizações tangíveis. Necessidade de aprovação social; necessidade de se apoiar nos próprios recursos e no próprio trabalho. Esforço disciplinado, aceitação dos deveres e das responsabilidades; paciência; organização; confiabilidade. Saturno simboliza a realidade, colocando limites, criando uma estrutura, estabelecendo as regras do jogo.
+
+É a nossa habilidade de perseverar, pois sem perseverança não há solidificação, estabilidade e formação de caráter. É também a ambição e a profissão, mas seu caminho é lento, embora seguro. É aceitar a responsabilidade sobre o que se faz. É o planeta que testa a pessoa até que ela se torne forte para continuar seu caminho solitário. Representa ainda a autoridade existente em cada um de nós.
+
+Autolimitação pela confiança exagerada em si mesmo e pela falta de fé; rigidez; frieza; instinto de defesa, inibição, imposição exagerada de poder ou 
+autoridade.

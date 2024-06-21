@@ -1,0 +1,200 @@
+[
+    {
+        "id": 0,
+        "nome": "ar",
+        "tipo": "elemento.md",
+        "dados": "Elemento: : AR\n\nPALAVRAS-CHAVE:\n- PENSAMENTO\n- MENTALIDADE\n- ESPADA DE DOIS GUMES"
+    },
+    {
+        "id": 10,
+        "nome": "libra",
+        "tipo": "signo.md",
+        "dados": "**LIBRA 22 de setembro a 23 de outubro**\n\nQualidade:  cardeal\nElemento: ar\nPrincípio: ativo\nRegente: Vênus\nAnatomia:  rins,parte inferior das costas, glândulas suprarrenais\nGlifo: balança\nSigno natural da sétima casa\nSigno complementar: Áries\n\n**Relaciona-se com:**\n\nrelacionamentos íntimos, casamento, sociedade,  uniões, decisão, justiça, mediação, igualdade, competições, estética, inimigos declarados, cooperação, persuasão, amizade, refinamento, artes, diplomacia, sociabilidade, interesse.\n\n\n**Outras palavras-chave:**\n\natração, concórdia, harmonia, paz, estabilidade, graça, equilíbrio, imparcialidade, comparação, raciocínio, seleção, valorização, contratação, combinação, apoio.\n\n**Expressões inferiores:**\n\nracionalização, vacilação, contradição, competitividade, sedução, temperamento arredio, insipidez, exagerada dependência dos outros, inconstância, apatia, intriga, a paz a qualquer preço, rabugice, indecisão, desânimo fácil, manipulação, facilmente influenciável pela outros, presunção, superficialidade."
+    },
+    {
+        "id": 11,
+        "nome": "escorpiao",
+        "tipo": "signo.md",
+        "dados": " **ESCORPIÃO 24 de outubro a 22 de novembro**\n \nQualidade:  fixo\nElemento: água\nPrincípio: passivo\nRegente: Plutão (co-Regente:  Marte)\nAnatomia:  órgãos genitais, reto, órgãos de reprodução, bexiga\nSigno natural da oitava casa\nSigno complementar:  Touro\n\n**Relaciona-se com:**\n\ninvestigação, sagacidade, regeneração, destruição, pesquisa, percepção extrassensorial, liberação sexual, morte, testamentos, legados, taxas, bens derivados de associações, recursos partilhados ou combinados, motivação, realização, determinação científica, exploração, paixão, consciência, intensidade, profundidade, controle, poder, percepção, \ntransformação. Penetrante, cheio de expedientes.\n\n\n\n**Outras palavras-chave:**\n\ncatarse, purgação, batismo, força oculta, magnetismo, disciplina, clarificação, eliminação, intensificação, determinação.\n\n\n\n**Expressões inferiores:**\n\nDiscrição, obstinação, obsessão, alienação, desligamento, destrutividade, possessividade, ciúme, cólera. Maneiras irônicas, vingativo, temperamental, reticente, arrogante, violento, sarcástico, desconfiado, intolerante, controlador."
+    },
+    {
+        "id": 12,
+        "nome": "sagitario",
+        "tipo": "signo.md",
+        "dados": "**SAGITÁRIO 23 de novembro a 21 de dezembro**\n\nQualidade:  mutável\nElemento: fogo\nPrincípio: ativo\nRegente: Júpiter\nAnatomia:  quadris, coxas, parte superior das pernas\nGlifo: a flecha do arqueiro\nSigno natural da nona casa\nSigno complementar:  Gêmeos\n\n**Relaciona-se com:**\n\nencorajamento, especulação, expansão, aventura, julgamento intuitivo, pressentimento, idealização, educação formal, filosofia, investigação religiosa, estrangeiros, viagens, atletismo. Honesto, filosófico, amante da liberdade, tolerante, religioso, estudioso, entusiástico, expansivo, visionário, sincero.\n\n\n**Outras palavras-chave:**\n\n orientação, sinceridade, franqueza, jovialidade, generosidade, autocompreensão, aperfeiçoamento, participação.\n\n\n**Expressões inferiores:**\n\n imprudência, comportamento juvenil, excessos românticos, evangelismo, exagero, inconsistência, quixotismo, inclinação para o jogo. Inclinado a discussões, excessivo, tagarela, procrastinador, autoindulgente, brusco, impaciente, intrometido, irascível, fanático, desonesto, grosseiro, irresponsável."
+    },
+    {
+        "id": 13,
+        "nome": "capricornio",
+        "tipo": "signo.md",
+        "dados": "**CAPRICÓRNIO 22 de dezembro a 21 de janeiro**\n\nQualidade:  cardeal\nElemento: terra\nPrincípio: passivo\nRegente: Saturno\nAnatomia: joelhos e parte inferior das pernas\nGlifo: chifre e cauda da cabra\nSigno natural da décima casa\nSigno complementar:  Câncer\n\n**Relaciona-se com:**\n\nresponsabilidade, administração, organização, capitalização, autoridade, paternidade, superiores, ambição, realizações, carreira, honrarias, benefícios, prestígio, governo. Cauteloso, escrupuloso, convencional, profissional, perfeccionista, tradicional, prático, trabalhador, econômico, sério, bem-sucedido, ambicioso, respeitoso.\n\n\n**Outras palavras-chave:**\n\nestabelecimento, controle, obediência, elevação, proeminência, reconhecimento, integridade, constância, interesse, confirmação, atualização, engenhosidade.\n\n**Expressões inferiores:**\n\ncinismo excessivo, misantropia, insensibilidade, frieza, falso senso de martírio, manipulação, presunção. Egoísta, dominador, rancoroso, fatalista, a cabeça governa o coração, teimoso, sorumbático, inibido, busca status, crítico, autoritário, rígido, pessimista, aproveitador."
+    },
+    {
+        "id": 14,
+        "nome": "aquario",
+        "tipo": "signo.md",
+        "dados": " **AQUÁRIO 22 de janeiro a 19 de fevereiro**\n\nQualidade:  fixo\nElemento: ar\nPrincípio: ativo\nRegente: Urano (co-Regente:  Saturno)\nAnatomia: tornozelos\nGlifo: ondas de água\nSigno natural da décima primeira casa\nSigno complementar:  Leão\n\n**Relaciona-se com:**\n\namizade, experimentação, altruísmo, associações de interesses especiais e de maneira múltipla, companheiros, idéias cosmopolitas, anseios comunitários, interação, esperanças futuras, invenções. Independente, inventivo, tolerante, individualista, progressista, artístico, intelectual, altruísta, consciente da coletividade, original, reformador.\n\n\n**Outras palavras-chave:**\n\nprogresso, confiança, liberdade, síntese,  unificação, diversificação.\n\n\n**Expressões inferiores:**\n\ndifusão, desordem, anarquia, desrespeito, relaxamento, excentricidade exagerada, prolixidade, associações indiscriminadas, orgulho do próprio intelecto. Imprevisível, temperamental, se aborrece com detalhes, frio, opiniões demasiadamente fixas, tímido, excêntrico, radical, impessoal, rebelde, caprichoso, inconvencional."
+    },
+    {
+        "id": 15,
+        "nome": "peixes",
+        "tipo": "signo.md",
+        "dados": "**PEIXES 20 de fevereiro a 20 de março**\n\nQualidade: : mutável\nElemento: : água\nPrincípio: :  Regente: \npassivo: Netuno (co-Regente:  Júpiter)\nAnatomia: pés\nGlifo: : dois peixes interligados\nSigno natural da décima segunda casa\nSigno complementar: : Virgem\n\n**Relaciona-se com:**\n\nConsolo, simpatia, auto-sacrifício, reclusão, coisas ocultas, capacidades latentes, imaginação, sonhos, sentimentos místicos, caridade, segregação, peregrinações, intuição, introspecção. Compassivo, caridoso, simpático, emocional, musical, artístico, idealista, espiritual, sensível, generoso, compassivo, mediúnico.\n\n\n**Outras palavras-chave:**\n\nauxílio, compaixão, devoção, serenidade, repouso, refúgio, convalescença, tranquilidade, veneração, sutileza, lenimento, permeabilidade, introspecção.\n\n\n**Expressões inferiores:**\n\nengano, sedução, inimigos secretos, autodestruição, aberração mental, perplexidade, timidez, vontade passiva, melancolia, covardia, fingimento, intriga, mistério. Procrastinador, muito tagarela, melancólico, pessimista, emocionalmente  inibido, tímido, sem praticidade, indolente, muitas vezes se sente incompreendido, escapista, tolo, \nmedroso, irrealista."
+    },
+    {
+        "id": 16,
+        "nome": "sol",
+        "tipo": "planeta.md",
+        "dados": "Vitalidade, individualidade, intuição, energia criativa, valores essenciais, anseio de criar, necessidade de ser reconhecido e de se expressar. Representa a “consciência”, o poder interno, individual. Aquilo que devemos nos tornar. \n\nO princípio masculino YANG. Orgulho, arrogância, desejo excessivo de ser especial, pouca vitalidade e inabilidade em se promover, submissão, fraqueza, inadequação."
+    },
+    {
+        "id": 17,
+        "nome": "mercurio",
+        "tipo": "planeta.md",
+        "dados": "Simboliza o pensamento, reflexão, análise e troca de ideias, mente consciente, isto é, mente lógica ou racional. É o impulso de expressão, as percepções e a inteligência por meio da habilidade ou da palavra. Necessidade de estabelecer ligação com outros; necessidade de aprender.\n\nMau uso da habilidade ou inteligência; anormalidade por meio da racionalização de todas as coisas. Comunicação opiniática e parcial."
+    },
+    {
+        "id": 18,
+        "nome": "lua",
+        "tipo": "planeta.md",
+        "dados": "Representa o princípio da reação, predisposição subconsciente; sentimento do eu (autoimagem); reações condicionadas, representa também o anseio de sentir o apoio interior; anseio de segurança doméstica e emocional.\n\nRevela a necessidade de tranquilidade emocional e da sensação de pertencer, necessidade de se sentir bem consigo mesmo. Mostra nossa natureza mais intuitiva, mais imediata, as mudanças de humor, modos de percepção. Representa o princípio feminino YING.\n\nSensibilidade exagerada; insegurança; senso do eu incorreto, inibição, excesso de passividade."
+    },
+    {
+        "id": 19,
+        "nome": "venus",
+        "tipo": "planeta.md",
+        "dados": "Simboliza nossos valores, troca de energia com outros por meio do dar e receber; partilha. Impulso social e amoroso; impulso para expressar afeição, anseio de prazer. Necessidade de se aproximar de outras pessoas; de sentir conforto e harmonia; de expressar sentimentos. Representa a necessidade de unir opostos, a atração, a necessidade de estar junto, de unir.\n\nA habilidade se fazer escolhas. É a função de expressar afeto e amor. É a beleza natural e a graça, a harmonia.\n \nAutoindulgência; cobiça; exigências emocionais; inibição das afeições; frustrações afetivas; incapacidade ou dificuldade de amar e de partilhar."
+    },
+    {
+        "id": 1,
+        "nome": "agua",
+        "tipo": "elemento.md",
+        "dados": "Elemento: : ÁGUA\n\nPALAVRAS-CHAVE:\n- EMOÇÕES\n- IMAGINAÇÃO\n- INTUIÇÃO\n- RELACIONAMENTOS"
+    },
+    {
+        "id": 20,
+        "nome": "jupiter",
+        "tipo": "planeta.md",
+        "dados": "Simboliza o princípio da expansão, da fé. É o impulso no sentido de alcançar uma ordem maior ou de se ligar a algo maior do que a próxima pessoa. É a necessidade de ter fé, certeza e de confiança na vida e em si mesmo; necessidade de se aperfeiçoar. É a capacidade de dar. É a benevolência. É aquilo que nos faz melhorar no plano em que vivemos.\n\nPode ser o “Anjo da Guarda” de cada um. É a busca do conhecimento, do crescimento e a expressão religiosa, filosófica ou cultural. É o crescimento de qualquer coisa, embora, na sua função mais evoluída, seja o crescimento do conhecimento e do entendimento.\n\nConfiança exagerada, preguiça; dispersão de energia; deixar o trabalho para os outros, irresponsabilidade, excesso de expansão, arrogância, orgulho, apreensão."
+    },
+    {
+        "id": 21,
+        "nome": "marte",
+        "tipo": "planeta.md",
+        "dados": "Simboliza o desejo. Vontade dirigida para a ação; iniciativa; energia  física, ímpeto, impulso autoafirmativo e agressivo. Impulso sexual; tendência para agir decididamente, necessidade de alcançar os desejos. Desejo de  excitação física e sexual. É a resposta ao estímulo.\n\nNão basta que uma pessoa exista, ela precisa manter a sua individualidade e sobreviver, enfrentando as pressões externas. Sem Marte não há sobrevivência. Simboliza nossa habilidade (ou não) de competir, a vontade de viver e a determinação de ir em frente, o braço direito do Sol, o desejo motiva a ambição.\n\nImpaciência, obstinação. Violência; uso impróprio da força ou de ameaças. Abuso dos instintos físicos, raiva, violência, covardia, falta de iniciativa. Ausência de autoafirmação"
+    },
+    {
+        "id": 22,
+        "nome": "saturno",
+        "tipo": "planeta.md",
+        "dados": "Simboliza o princípio da contração do esforço. Impulso para defender a estrutura e a integridade do eu, impulso em direção à segurança e à defesa por meio de realizações tangíveis. Necessidade de aprovação social; necessidade de se apoiar nos próprios recursos e no próprio trabalho. Esforço disciplinado, aceitação dos deveres e das responsabilidades; paciência; organização; confiabilidade. Saturno simboliza a realidade, colocando limites, criando uma estrutura, estabelecendo as regras do jogo.\n\nÉ a nossa habilidade de perseverar, pois sem perseverança não há solidificação, estabilidade e formação de caráter. É também a ambição e a profissão, mas seu caminho é lento, embora seguro. É aceitar a responsabilidade sobre o que se faz. É o planeta que testa a pessoa até que ela se torne forte para continuar seu caminho solitário. Representa ainda a autoridade existente em cada um de nós.\n\nAutolimitação pela confiança exagerada em si mesmo e pela falta de fé; rigidez; frieza; instinto de defesa, inibição, imposição exagerada de poder ou \nautoridade."
+    },
+    {
+        "id": 23,
+        "nome": "numero 1",
+        "tipo": "numero.md",
+        "dados": "SEMENTE\nNOVO\nPONTO DE PARTIDA\nOPORTUNIDADE\nCRIAÇÃO\nALICERCE"
+    },
+    {
+        "id": 24,
+        "nome": "numero 2",
+        "tipo": "numero.md",
+        "dados": "DUALIDADE\nLUZ E ESCURIDÃO\nREFLEXÃO\nCONFLITO\nCOMBINAÇÃO DE FORÇAS\nHARMONIA\nEQUILÍBRIO\nMUDANÇA"
+    },
+    {
+        "id": 25,
+        "nome": "numero 3",
+        "tipo": "numero.md",
+        "dados": "SÍNTESE\n1+1 = 3\nCORPO, MENTE E ESPÍRITO\nPASSADO, PRESENTE E FUTURO\nAMOR\nFORÇA VITAL\nSUCESSO CRIATIVO\nAÇÃO DA VONTADE"
+    },
+    {
+        "id": 26,
+        "nome": "numero 4",
+        "tipo": "numero.md",
+        "dados": "ESTABILIDADE\nRACIONALIDADE\nESTRUTURA\nREGRAS\nPRAGMATISMO\nAUTO-DISCIPLINA\nENRAIZADO"
+    },
+    {
+        "id": 27,
+        "nome": "numero 5",
+        "tipo": "numero.md",
+        "dados": "DESAFIO PARA CRESCER\nNOVO CAMINHO\nDESEQUILÍBRIO\nABANDONAR VELHOS HÁBITOS\nAPRENDIZADO\nMOVIMENTO\nAGITARAS COISAS"
+    },
+    {
+        "id": 28,
+        "nome": "numero 6",
+        "tipo": "numero.md",
+        "dados": "HARMONIA\nREEQUILÍBRIO\nAMOR\nFELICIDADE\nSERVIR\nRESPONSABILIDADE SOCIAL\nSUCESSO INICIAL\nPAUSA\nCOMPAIXÃO"
+    },
+    {
+        "id": 29,
+        "nome": "numero 7",
+        "tipo": "numero.md",
+        "dados": "FORÇAS ALÉM DO CONTROLE\nVIDA ESPIRITUAL\nSABEDORIA\nSIGNIFICÂNCIA\nRECURSOS ÍNTIMOS\nDESAFIOS"
+    },
+    {
+        "id": 2,
+        "nome": "fogo",
+        "tipo": "elemento.md",
+        "dados": "Elemento: : FOGO\n\nPALAVRAS-CHAVE:\n- CRIATIVIDADE\n- ENERGIA\n- PAIXÃO\n- AMBIÇÃO\n- ESPIRITUALIDADE"
+    },
+    {
+        "id": 30,
+        "nome": "numero 8",
+        "tipo": "numero.md",
+        "dados": "ABUNDÂNCIA\nLIDERANÇA\nINFLUÊNCIA\nHONRA\nRESPEITO\nPODER\nCONSOLIDAÇÃO\nAUTO-AFIRMAÇÃO"
+    },
+    {
+        "id": 31,
+        "nome": "numero 9",
+        "tipo": "numero.md",
+        "dados": "REALIZAÇÃO\nREVISÃO\nSENTIR-SE REALIZADO\nSER CAPAZ DE OFERECER AOS OUTROS\nINTEGRAR CONQUISTAS NA PERSPECTIVA"
+    },
+    {
+        "id": 32,
+        "nome": "numero 10",
+        "tipo": "numero.md",
+        "dados": "PLENITUDE\nCOMPLEIÇÃO\nMAESTRIA\nESTAGNAÇÃO\nPROCURAR NOVOS PROPÓSITOS\nRECOMEÇAR O CICLO"
+    },
+    {
+        "id": 3,
+        "nome": "terra",
+        "tipo": "elemento.md",
+        "dados": "Elemento: : TERRA\n\nPALAVRAS-CHAVE:\n- MATERIAL\n- SAÚDE\n- DINHEIRO\n- TRABALHO\n- SEGURANÇA\n- REALIDADE"
+    },
+    {
+        "id": 4,
+        "nome": "aries",
+        "tipo": "signo.md",
+        "dados": "**ÁRIES 21 de março a 20 de abril**\n\nElemento: fogo\nPrincípio: ativo\nRegente: Marte\nAnatomia: cabeça, rosto, cérebro, dentes superiores\nGlifo: chifres de carneiro\nSigno natural da primeira casa\nSigno complementar: Libra\n\n**Relaciona-se com:**\n\niniciação, exploração, impressão, inspiração,\nindividualidade, autoconfiança, incentivo, ação, liderança, intensidade,\ncoragem, descobrimento.\n\n**Outras palavras-chave:**\n\nintuição, percepção, curiosidade, conquista,\nfortaleza, energia, particularização, irradiação, entusiasmo, promoção,\npersonalização, execução. Pioneiro, executivo, competitivo, impulsivo,\nanimado, corajoso, independente, dinâmico, vive no presente, rápido,\nagressivo, empreendedor, destemido, instintivo.\n\n\n**Expressões inferiores:**\n\nimpulsividade, falta de controle, estreiteza de\nopiniões, falta de previsão, natureza despótica, brutalidade, combatividade,\nnarcisismo, vaidosa busca de admiração. Dominador, irascível, violento,\nintolerante, apressado, arrogante, “eu primeiro”, brusco, sem persistência,\nintrometido, combativo, defensivo, descuidado, grosseiro."
+    },
+    {
+        "id": 5,
+        "nome": "touro",
+        "tipo": "signo.md",
+        "dados": "**TOURO 21 de abril a 21 de maio**\n\nQualidade: fixo\nElemento: terra\nPrincípio: passivo\nRegente: Vênus\nAnatomia:  garganta, pescoço, orelha, cordas vocais, tireoide, língua, \nboca, amígdalas, dentes inferiores\nGlifo: cabeça e chifres de touro\nSigno natural da segunda casa\nSigno complementar:  Escorpião\n\n**Relaciona-se com:**\n\nconstrução, produção, investimento, avaliação, \npraticabilidade, riqueza, lucro, recursos, transações, ordem, senso comum, \ncontentamento, talentos construtivos.\n\n\n\n**Outras palavras-chave:**\n\nacumulação, substanciação, apreciação, \ndomesticação, criação, firmeza, calma, capacidade de resistência, fidelidade, \nvalorização. Paciente, conservador, doméstico, sensual, escrupuloso, estável, \ndigno de confiança, prático, artístico, leal, determinado, habilidoso, \nperseverante, sensualmente perceptivo.\n\n\n\n**Expressões inferiores:**\n\n conservadorismo excessivo, procrastinação, \nimpaciência, inabilidade, inércia, autoindulgência, teimosia, lentidão, \npropensão a discutir; irascível, possessivo, guloso, materialista, avarento, \nobstinado, preguiçoso, comodista"
+    },
+    {
+        "id": 6,
+        "nome": "gemeos",
+        "tipo": "signo.md",
+        "dados": " **GÊMEOS 22 de maio a 21 de junho**\n \n Qualidade:  mutável\n Elemento: ar\n Princípio: ativo\n Regente: Mercúrio\n Anatomia: pulmões, clavícula, mãos, braços, ombros, sistema nervoso\n Glifo: algarismo romano dois\n Signo natural da terceira casa\n Signo complementar: Sagitário\n\n**Relaciona-se com:**\n\n interpretação, correlação, ilustração, informação, \neducação, hábitos de estudo, intelecto, viagens curtas ou rápidas, relacionamentos por conveniência, conhecidos, pessoas de nível igual e \ncompanhias que não se relacionam com amor. Agradável, curioso, adaptável, \nexpressivo, perspicaz, literário, inventivo, destro, inteligente, comunicativo, \ninteressante, flexível, engenhoso.\n\n\n\n**Outras palavras-chave:**\n\n bipolaridade, versatilidade, adaptabilidade, \ninformalidade, simpatia, definição, polarização, enigma, mimetismo.\n\n\n\n**Expressões inferiores:**\n\n ambivalência, incerteza, inconstante, plágio, \nloquacidade. Mutável, ingrato, estouvado, dispersivo, superficial, indigno de \nconfiança, tagarela, manipulador, sem persistência."
+    },
+    {
+        "id": 7,
+        "nome": "cancer",
+        "tipo": "signo.md",
+        "dados": "**CÂNCER 22 de junho a 23 de julho**\n\n Qualidade: cardeal\n Elemento: água\n Princípio: passivo\n Regente: Lua\n Anatomia: peito, estômago, lóbulo superior do fígado\n Glifo: garras do caranguejo\n Signo natural da quarta casa\n Signo complementar: Capricórnio\n\n**Relaciona-se com:**\n\nalimentação, segurança, proteção, amparo, o lar, a mãe, a tribo, heranças, impressões, lembranças, força psíquica, sentimentos. Tenaz, intuitivo, maternal, doméstico, sensível, retentivo, ajuda de outros, simpático, emocional, patriótico, boa memória, tradicional, cuidadoso, afetuoso, protetor, receptivo.\n\n\n**Outras palavras-chave:**\n\nimpressionabilidade, empatia, receptividade, acumulação, armazenamento, abrigo, tenacidade, sensitividade.\n\n\n\n**Expressões inferiores:**\n\nestreiteza mental, defensividade, espírito de união, aderência, sentimentalidade, emocionalidade, humor, capricho, impertinência, indolência, chauvinismo. Melindroso, magoa-se com facilidade, negativo, manipulativo, cauteloso demais, medroso, preguiçoso, egoísta, tem  pena de si mesmo, dependente, melancólico, faccioso, retrógrado."
+    },
+    {
+        "id": 8,
+        "nome": "leao",
+        "tipo": "signo.md",
+        "dados": "**LEÃO 24 de julho a 23 de agosto**\n\nQualidade:  fixo\nElemento: \nfogo\nPrincípio: ativo\nRegente: Sol\nAnatomia:  coração, flancos, partes superiores das costas\nGlifo: cauda (ou juba) do leão\nSigno natural da quinta casa\nSigno complementar:  Aquário\n\n**Relaciona-se com:**\n\nautoexpressão criativa, iniciativa, recreação, entretenimentos, romance, afeição, namoro, filhos (procriação), humor, moda, prazer, dramaticidade, idealismo, orgulho, ambição, criatividade, majestade, romantismo, generosidade, autoconfiança, otimismo, decisão, expressão, vigor.\n\n\n\n**Outras palavras-chave:**\n\nampliação, força, autoconfiança, fervor, cordialidade e benevolência.\n\n\n\n**Expressões inferiores:**\n\norgulho egoísta, ostentação, insaciabilidade, hilaridade, infantilidade, cegueira amorosa, indolência, tensão, cólera, vaidade, preocupação com status, arrogância, medo do ridículo, crueldade, jactância, pretensão, autocracia, egoísmo, voluntariosidade, presunção, exagero, exigência, extroversão, percepção intuitiva."
+    },
+    {
+        "id": 9,
+        "nome": "virgem",
+        "tipo": "signo.md",
+        "dados": "**VIRGEM 24 de agosto a 21 de setembro**\n\nQualidade:  mutável\nElemento: terra\nPrincípio: passivo\nRegente: Mercúrio\nAnatomia:  intestino, fígado, pâncreas, vesícula, plexo inferior, intestino superior\nGlifo:  grafia da palavra virgem em grego\nSigno natural da sexta casa\nSigno complementar:  Peixes\n\n**Relaciona-se com:**\n\nanálise, observação, restauração, serviço, trabalho, ciência, discriminação, habilidade manual, instrução (como fazê-la), assistentes, companheiros de trabalho, saúde, higiene, diligência, estudo, ciência, método, discriminação, apuração de fatos, exigência, asseio, humanidade, busca da perfeição, critério, utilidade, eficiência, organização, \ndetalhes, análise.\n\n\n**Outras palavras-chave:**\n\n digestão, investigação, precisão, crítica, concisão, simplicidade, pureza, pragmatismo, doutrinação, honestidade e jeito para doutrinar.\n\n\n**Expressões inferiores:**\n\ncrítica presunçosa, falso senso de modéstia, ceticismo exagerado, mesquinharia, exigência, egoísmo, degradação e servilismo, melancolia, egocentrismo, medo da doença da pobreza, difícil de agradar, pedantismo, ceticismo, queixa, perfeccionismo, puritanismo, preocupação."
+    }
+]
