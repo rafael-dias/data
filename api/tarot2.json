@@ -1,5 +1,6 @@
 [
     {
+<<<<<<< HEAD
         "id": 0,
         "livro": "Tarot Cabalistico",
         "autor": "Robert Wang",
@@ -398,6 +399,10 @@
     },
     {
         "id": 1,
+=======
+        "id": 5,
+        "ordem": "0",
+>>>>>>> 9990ba4583934b2df6c666d14d66a7bfec28adef
         "livro": "Tarot Solar",
         "autor": "Aton Gondim",
         "dados": [
@@ -794,9 +799,16 @@
         ]
     },
     {
+<<<<<<< HEAD
         "id": 2,
         "livro": "Tarot Templo Vivente",
         "autor": "Frater Goya",
+=======
+        "id": 4,
+        "ordem": "1",
+        "livro": "Tarot Terapeutico",
+        "autor": "Veet Pramad",
+>>>>>>> 9990ba4583934b2df6c666d14d66a7bfec28adef
         "dados": [
             {
                 "id": 0,
@@ -1191,6 +1203,7 @@
         ]
     },
     {
+<<<<<<< HEAD
         "id": 3,
         "livro": "Tarot Hermetico",
         "autor": "Marcelo Del Debbio",
@@ -1589,6 +1602,10 @@
     },
     {
         "id": 4,
+=======
+        "id": 0,
+        "ordem": "2",
+>>>>>>> 9990ba4583934b2df6c666d14d66a7bfec28adef
         "livro": "Guia para o tarot de thoth",
         "autor": "Johann Heyss",
         "dados": [
@@ -1985,9 +2002,16 @@
         ]
     },
     {
+<<<<<<< HEAD
         "id": 5,
         "livro": "Tarot Terapeutico",
         "autor": "Veet Pramad",
+=======
+        "id": 1,
+        "ordem": "3",
+        "livro": "Tarot Templo Vivente",
+        "autor": "Frater Goya",
+>>>>>>> 9990ba4583934b2df6c666d14d66a7bfec28adef
         "dados": [
             {
                 "id": 0,
@@ -2382,7 +2406,7 @@
         ]
     },
     {
-        "id": 4,
+        "id": 2,
         "ordem": "4",
         "livro": "Tarot Cabalistico",
         "autor": "Robert Wang",
@@ -2780,7 +2804,7 @@
         ]
     },
     {
-        "id": 5,
+        "id": 3,
         "ordem": "5",
         "livro": "Tarot Hermetico",
         "autor": "Marcelo Del Debbio",
