@@ -59,9 +59,9 @@ for item in estrutura_json:
     random_number = random.randint(1000000000, 9999999999)
     versao = '{"versao":'+str(random_number)+'}'
 
-with open(os.path.join('api/versao2.json'), 'w', encoding='utf-8') as file:
+with open(os.path.join('api/versao.json'), 'w', encoding='utf-8') as file:
     file.write(versao)
 
 # Converte a estrutura para JSON e salva em um arquivo
-with open('api/tarot2.json', 'w', encoding='utf-8') as saida_json:
+with open('api/tarot.json', 'w', encoding='utf-8') as saida_json:
     json.dump(estrutura_json, saida_json, ensure_ascii=False, indent=4)
